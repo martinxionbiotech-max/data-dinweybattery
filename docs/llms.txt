@@ -27,6 +27,7 @@ batteries (SLI), covering:
 ## Documentation
 
 - [Home](https://docs.dinweybattery.com/)
+- [About This Site](https://docs.dinweybattery.com/about/)
 - [Truck Battery Complete Guide](https://docs.dinweybattery.com/complete-guide/)
 - [Truck Battery Selection Guide](https://docs.dinweybattery.com/selection-guide/)
 - [Heavy-Duty Buying Guide](https://docs.dinweybattery.com/buying-guide/)
