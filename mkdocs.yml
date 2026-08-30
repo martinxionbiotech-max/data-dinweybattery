@@ -52,6 +52,12 @@ nav:
   - Buying & Warranty:
       - Truck Battery Brands Compared: brands-compared/index.md
       - Warranty Guide: warranty-guide/index.md
+  - Application Scenarios:
+      - Long-Haul Trucking: long-haul-trucking/index.md
+      - Cold-Chain & Refrigerated: cold-chain-refrigerated/index.md
+      - Mining & Off-Highway: mining-off-highway/index.md
+      - Semi-Trailer & Heavy Hauler: semi-trailer/index.md
+      - Diesel Generator: diesel-generator/index.md
 
 markdown_extensions:
   - admonition
