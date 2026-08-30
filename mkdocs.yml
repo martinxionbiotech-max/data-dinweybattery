@@ -19,6 +19,7 @@ theme:
 
 nav:
   - Home: index.md
+  - About: about/index.md
   - Complete Guide:
       - Truck Battery Complete Guide: complete-guide/index.md
   - Selection:
