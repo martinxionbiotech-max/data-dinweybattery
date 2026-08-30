@@ -12,6 +12,8 @@ faq:
     a: Yes. Antimony grids cause higher water consumption, so Pb-Sb batteries historically needed regular topping-up. Modern maintenance-free designs reduce this, but the characteristic remains.
   - q: What does Ca-Ca mean?
     a: Ca-Ca means both the positive and negative grids use calcium alloy, which reduces water loss and self-discharge, making the battery low-maintenance.
+  - q: Are calcium batteries maintenance-free?
+    a: Calcium batteries have low water loss and are usually marketed as low- or maintenance-free. Antimony batteries have higher water loss and may need periodic topping up with distilled water.
 ---
 
 # Calcium vs Antimony Lead-Acid for Trucks
@@ -55,6 +57,11 @@ vehicles.
 For heavy-duty truck starting, the antimony-grid heavy-duty design is the standard choice
 because it tolerates the harsh conditions of commercial use. For lighter applications, Ca-Ca
 offers a lower-maintenance, economical option.
+
+## References
+
+1. [Calcium battery — Wikipedia](https://en.wikipedia.org/wiki/Calcium_battery)
+2. [Antimony — Wikipedia](https://en.wikipedia.org/wiki/Antimony)
 
 ## Related
 

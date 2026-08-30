@@ -60,6 +60,11 @@ In series, voltages add (12V + 12V = 24V) while the current stays the same.
 - **Mixing battery types** (flooded + AGM) in the same series pair — different charge profiles
   cause imbalance.
 
+## References
+
+1. [Series and parallel circuits — Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
+2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)

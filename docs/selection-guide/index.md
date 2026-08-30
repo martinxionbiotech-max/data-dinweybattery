@@ -21,6 +21,8 @@ faq:
     a: Not necessarily. Match CCA to your engine and climate. Higher CCA helps in cold climates, but it also means a larger, heavier, more expensive battery.
   - q: Do I need to account for terminal orientation?
     a: Yes. JIS batteries are typically right-positive and DIN batteries left-positive. The terminal type and position must match your cables.
+  - q: Can I replace a battery with a higher Ah rating?
+    a: Usually yes, if the group size, voltage and terminal orientation match. Higher Ah gives more reserve capacity, but ensure it physically fits and the charging system can maintain it.
 ---
 
 # Truck Battery Selection Guide
@@ -75,3 +77,8 @@ better at low temperatures than flooded lead-acid.
 
 Browse [DINWEY JIS heavy-duty batteries](https://dinweybattery.com/products/jis-heavy-duty/) or use our
 [selection tool](https://dinweybattery.com/selection-tool/) for a recommendation.
+
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)

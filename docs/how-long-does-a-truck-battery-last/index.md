@@ -53,6 +53,10 @@ These are general figures. Actual life depends heavily on conditions.
 For fleet reliability, consider replacing batteries at the 3–5 year mark, or sooner if they
 fail a load test. The cost of a proactive replacement is far lower than a roadside breakdown.
 
+## References
+
+1. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+
 ## Related
 
 - [7 signs your truck battery is dying](../7-signs-dying-battery/index.md)

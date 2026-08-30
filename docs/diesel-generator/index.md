@@ -54,6 +54,11 @@ idle. The fix is a float charger that keeps the battery at full charge.
 - **Clean terminals** — corrosion adds resistance at the worst time
 - **Replace proactively** — at 3–5 years or when load-test fails
 
+## References
+
+1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+2. [Diesel engine — Wikipedia](https://en.wikipedia.org/wiki/Diesel_engine)
+
 ## Related
 
 - [What is CCA](../what-is-cca/index.md)

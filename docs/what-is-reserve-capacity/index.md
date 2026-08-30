@@ -66,6 +66,11 @@ For fleets operating in developing markets with older vehicles, RC is often the 
 specification (per Chengguang Energy technical documentation), because electrical faults are
 more common.
 
+## References
+
+1. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
+2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+
 ## Related
 
 - [What is CCA](../what-is-cca/index.md)

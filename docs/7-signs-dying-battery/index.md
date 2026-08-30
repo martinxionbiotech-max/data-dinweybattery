@@ -62,6 +62,10 @@ If you see one or more of these signs, load-test the battery. A professional loa
 whether the battery still delivers its rated CCA. If it fails, replace it with the correct
 group size and CCA for your truck.
 
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)

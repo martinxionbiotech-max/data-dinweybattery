@@ -64,6 +64,11 @@ The [190H52 (N200)](https://dinweybattery.com/products/jis-heavy-duty/) leads th
 range at 1100A CCA — the maximum cold-cranking power for the coldest climates. DIN markets can
 use the [60038 (DIN100)](https://dinweybattery.com/products/din-heavy-duty/) at 870A EN.
 
+## References
+
+1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+2. [VRLA battery — Wikipedia](https://en.wikipedia.org/wiki/VRLA_battery)
+
 ## Related
 
 - [What is CCA](../what-is-cca/index.md)

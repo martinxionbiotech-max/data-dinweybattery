@@ -12,6 +12,8 @@ faq:
     a: AGM is a strong choice for off-highway use — its absorbent glass mat construction resists vibration better than flooded and it is sealed against dust and spillage.
   - q: What group size do mining trucks use?
     a: It depends on the equipment. Large mining trucks and off-highway machinery commonly use 24V systems with heavy-duty batteries (JIS N150/N200 or equivalent), but always match the equipment's specification.
+  - q: How often should mining batteries be inspected?
+    a: More often than road vehicles — in harsh off-highway conditions, inspect terminals, hold-downs and charge state at every service, and load-test at least twice a year.
 ---
 
 # Batteries for Mining & Off-Highway Equipment
@@ -53,6 +55,11 @@ construction resists vibration and it is fully sealed against dust and spillage.
 - Keep terminals clean — dust accelerates corrosion
 - Load-test regularly — harsh conditions shorten life
 - Check charging — off-highway alternators work hard
+
+## References
+
+1. [VRLA battery — Wikipedia](https://en.wikipedia.org/wiki/VRLA_battery)
+2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
 
 ## Related
 

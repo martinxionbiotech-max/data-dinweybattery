@@ -12,6 +12,8 @@ faq:
     a: Check the existing battery's terminal positions or your vehicle manual. Installing a battery with the wrong orientation can stress cables and cause short circuits.
   - q: What is a B13 hold-down?
     a: B13 is the DIN bottom-bracket hold-down system, where the battery base has a lip gripped by the vehicle tray clamp. JIS batteries typically use a B0 top-frame clamp.
+  - q: Can I change a battery's terminal orientation?
+    a: No — orientation is fixed by the battery's internal layout. Always order the correct left-positive or right-positive configuration; using the wrong one can cause reversed-polarity damage.
 ---
 
 # Truck Battery Terminal Types & Group Size Orientation
@@ -55,6 +57,10 @@ Installing a battery with the wrong terminal orientation can:
 
 Always match the terminal type and left/right positive orientation to your existing battery
 and vehicle.
+
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
 
 ## Related
 

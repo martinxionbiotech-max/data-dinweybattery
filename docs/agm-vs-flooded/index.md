@@ -61,6 +61,11 @@ and better reliability. In applications where a flooded battery is stressed (vib
 frequent starts), AGM's longer service life can offset its higher price. In gentle duty cycles,
 flooded remains the better value.
 
+## References
+
+1. [VRLA battery — Wikipedia](https://en.wikipedia.org/wiki/VRLA_battery)
+2. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)

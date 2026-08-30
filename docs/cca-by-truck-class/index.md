@@ -58,6 +58,11 @@ higher CCA.
 | 58827 (DIN88) | DIN/EN | 800 A (EN) | European trucks |
 | 60038 (DIN100) | DIN/EN | 870 A (EN) | Larger European trucks |
 
+## References
+
+1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+2. [SAE J537 (CCA test standard)](https://www.sae.org/standards/content/j537_201711/)
+
 ## Related
 
 - [What is CCA](../what-is-cca/index.md)

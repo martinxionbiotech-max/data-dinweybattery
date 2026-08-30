@@ -79,6 +79,11 @@ provides the same build quality at lower cost and weight.
 Both are 12V batteries. In 24V European truck systems, two are wired in series — for example
 two DIN100 units for maximum 24V cranking power. Always replace the pair together.
 
+## References
+
+1. [DIN — German Institute for Standardization](https://www.din.de/en)
+2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)

@@ -54,6 +54,11 @@ For high-vibration or demanding applications, AGM offers superior vibration resi
 3. **Track age** — replace at 3–5 years or when load-test fails
 4. **Match technology to duty** — flooded for standard, AGM for demanding
 
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [Diesel engine — Wikipedia](https://en.wikipedia.org/wiki/Diesel_engine)
+
 ## Related
 
 - [Fleet battery management](../fleet-battery-management/index.md)

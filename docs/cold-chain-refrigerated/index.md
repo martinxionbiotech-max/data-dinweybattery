@@ -12,6 +12,8 @@ faq:
     a: The starting battery still needs CCA matched to the engine and climate. The refrigeration load is handled by the auxiliary bank, not by raising the starting battery's CCA.
   - q: How is a reefer truck's electrical system configured?
     a: Typically the starting battery is dedicated to engine cranking, while a separate deep cycle or auxiliary bank powers the refrigeration unit, isolated via a battery isolator or DC-DC charger.
+  - q: How long should a reefer battery last?
+    a: With a properly sized and isolated auxiliary bank and regular charging, a reefer truck starting battery typically lasts 3–5 years, similar to other heavy-duty truck batteries.
 ---
 
 # Batteries for Cold-Chain & Refrigerated Transport
@@ -51,6 +53,11 @@ a reefer off the starting battery will:
 - Match the starting battery's group size and CCA to the vehicle (JIS N150/N200, DIN88/DIN100)
 - Size the auxiliary bank to the reefer unit's continuous draw and required runtime
 - Consider AGM for the auxiliary bank — it tolerates cycling better than flooded
+
+## References
+
+1. [Deep-cycle battery — Wikipedia](https://en.wikipedia.org/wiki/Deep-cycle_battery)
+2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
 
 ## Related
 

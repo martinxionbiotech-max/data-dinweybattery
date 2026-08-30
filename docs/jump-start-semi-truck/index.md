@@ -56,6 +56,11 @@ than a passenger car. This means:
 For a semi truck, use a **heavy-duty jump pack** rated for large diesel engines. Standard
 automotive jump packs are usually insufficient — check the peak amps and diesel rating.
 
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [Series and parallel circuits — Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
+
 ## Related
 
 - [12V vs 24V systems](../12v-vs-24v/index.md)

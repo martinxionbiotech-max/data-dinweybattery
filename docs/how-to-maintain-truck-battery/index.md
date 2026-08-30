@@ -60,6 +60,11 @@ reduces short-circuit risk.
 | Twice a year | Full maintenance pass + load test |
 | Before storage | Full charge + disconnect or maintainer |
 
+## References
+
+1. [Sulfation — Wikipedia](https://en.wikipedia.org/wiki/Sulfation)
+2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+
 ## Related
 
 - [7 signs your truck battery is dying](../7-signs-dying-battery/index.md)

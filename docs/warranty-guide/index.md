@@ -61,6 +61,10 @@ Many warranties combine both: a free-replacement period, then a pro-rated period
 3. **Have a load test done** — claims usually require confirming the battery failed
 4. **Read the exclusions** — know what voids coverage
 
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+
 ## Related
 
 - [Heavy-duty truck battery buying guide](../buying-guide/index.md)

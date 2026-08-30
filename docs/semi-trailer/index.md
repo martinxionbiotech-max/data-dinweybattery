@@ -55,6 +55,11 @@ In a 24V system, the two batteries charge and discharge together. If you replace
 new battery works against the aged one, causing imbalance and shortening life. Always replace
 both as a matched pair.
 
+## References
+
+1. [Series and parallel circuits — Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
+2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+
 ## Related
 
 - [12V vs 24V systems](../12v-vs-24v/index.md)

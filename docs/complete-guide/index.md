@@ -114,6 +114,12 @@ specifications.
 | Cold / Arctic climate | Highest CCA in your group size; consider AGM |
 | Fleet / bulk | OEM program with batch consistency and full documentation |
 
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
+3. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+
 ## Related Guides
 
 - [Truck Battery Selection Guide](../selection-guide/index.md)

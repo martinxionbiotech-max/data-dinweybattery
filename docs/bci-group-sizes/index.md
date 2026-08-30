@@ -12,6 +12,8 @@ faq:
     a: Not directly. Each standard uses its own sizing system. JIS uses model codes (N150/N200), DIN uses capacity codes (DIN88/DIN100), and BCI uses group numbers (31/8D). Always match the standard your vehicle uses.
   - q: Does DINWEY stock BCI Group 31 batteries?
     a: DINWEY produces BCI-standard batteries on request (made-to-order) via the Chengguang Energy BCI production line. Core stocked lines are JIS and DIN.
+  - q: Is BCI the same as JIS or DIN?
+    a: No. BCI, JIS and DIN are three separate sizing systems used in different markets (North America, Asia, and Europe respectively). They are not directly interchangeable.
 ---
 
 # BCI Group Sizes Explained
@@ -53,6 +55,11 @@ capacity) — two Group 31 batteries can have very different CCA ratings.
 
 A common mistake is assuming a larger group size means more power. Group size is about
 **dimensions**; CCA is about **starting power**. Always verify both independently.
+
+## References
+
+1. [Battery Council International](https://batterycouncil.org/)
+2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
 
 ## Related
 

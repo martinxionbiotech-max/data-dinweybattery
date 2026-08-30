@@ -93,6 +93,11 @@ versa — do not confuse the two.
 For maximum cold-climate cranking power, the [190H52 (N200)](https://dinweybattery.com/products/jis-heavy-duty/)
 leads the JIS range at 1100A CCA.
 
+## References
+
+1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+2. [SAE J537 (CCA test standard)](https://www.sae.org/standards/content/j537_201711/)
+
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)

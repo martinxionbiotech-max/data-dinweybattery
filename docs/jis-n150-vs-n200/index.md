@@ -85,6 +85,11 @@ Both the N150 and N200 are 12V batteries. In 24V heavy-truck systems, two are wi
 for example two N200 units for maximum 24V cranking power. Always replace the pair together.
 See the [12V vs 24V guide](../12v-vs-24v/index.md).
 
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)

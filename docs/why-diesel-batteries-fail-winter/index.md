@@ -72,6 +72,11 @@ trucks better than flooded batteries, making them a strong winter choice.
 4. **Test before winter** — load-test the battery in autumn and replace if weak.
 5. **Consider a battery warmer** in extreme cold.
 
+## References
+
+1. [Sulfation — Wikipedia](https://en.wikipedia.org/wiki/Sulfation)
+2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+
 ## Related
 
 - [What is CCA](../what-is-cca/index.md)

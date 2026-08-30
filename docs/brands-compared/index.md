@@ -60,6 +60,11 @@ with 18 automated lines producing 40,000 batteries daily. Certified IATF 16949, 
 14001, ISO 45001, OHSAS 18001 and CE — with per-batch documentation and OEM/private-label
 support. See [About DINWEY](https://dinweybattery.com/about/).
 
+## References
+
+1. [Battery Council International](https://batterycouncil.org/)
+2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
+
 ## Related
 
 - [Heavy-duty truck battery buying guide](../buying-guide/index.md)

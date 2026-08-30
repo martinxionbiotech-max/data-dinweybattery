@@ -63,6 +63,11 @@ A battery with inadequate CCA or a thinner plate design fails sooner and can str
 The downtime cost of a breakdown usually dwarfs the price difference. Specify correctly and
 buy from a documented supplier.
 
+## References
+
+1. [Battery Council International](https://batterycouncil.org/)
+2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+
 ## Related
 
 - [Truck Battery Selection Guide](../selection-guide/index.md)

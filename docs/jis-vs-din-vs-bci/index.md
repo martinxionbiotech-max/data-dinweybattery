@@ -12,6 +12,8 @@ faq:
     a: No simple universal conversion exists. SAE, EN and JIS cold-cranking ratings are measured differently. Compare within the same standard, or consult manufacturer cross-reference data.
   - q: Which standard does my truck use?
     a: It depends on the market the vehicle was built for: JIS for Japan/Asia/Africa/Middle East, DIN for Europe, BCI for North America. Check the battery label or vehicle manual.
+  - q: Why does the same battery have different CCA ratings?
+    a: Different standards test at different temperatures and voltage cutoffs, so the same physical battery can carry a higher number under one standard than another. Always compare like-for-like.
 ---
 
 # JIS vs DIN vs BCI Truck Battery Standards
@@ -53,6 +55,12 @@ When importing or specifying batteries, match the standard to your target market
 | Southeast Asia, Middle East, Africa | JIS | Stocked (N150, N200) |
 | Europe, Middle East, North Africa | DIN/EN | Stocked (DIN88, DIN100) |
 | North America, Latin America | BCI | On request (Group 31/8D) |
+
+## References
+
+1. [Battery Council International](https://batterycouncil.org/)
+2. [DIN — German Institute for Standardization](https://www.din.de/en)
+3. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
 
 ## Related
 

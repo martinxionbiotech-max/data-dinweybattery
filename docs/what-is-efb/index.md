@@ -45,6 +45,11 @@ cycle life. It sits between flooded and AGM in both performance and price.
 - **Conventional, gentle duty** — standard flooded is sufficient and cheapest
 - **Demanding, high-vibration, cold-climate** — AGM's superior performance justifies its cost
 
+## References
+
+1. [Enhanced flooded battery — Wikipedia](https://en.wikipedia.org/wiki/Enhanced_flooded_battery)
+2. [Start-stop system — Wikipedia](https://en.wikipedia.org/wiki/Start-stop_system)
+
 ## Related
 
 - [AGM vs flooded](../agm-vs-flooded/index.md)

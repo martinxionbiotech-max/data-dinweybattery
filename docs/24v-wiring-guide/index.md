@@ -12,6 +12,8 @@ faq:
     a: Cable sizing depends on starter current draw and cable length. A 24V system draws half the current of an equivalent 12V system, allowing thinner cables — but always size cables to the actual starter load.
   - q: Do I need matching batteries for a 24V pair?
     a: Yes. Use two identical batteries of the same model, rating, age and ideally the same batch, and replace both together.
+  - q: Do 24V truck batteries need a special charger?
+    a: Yes. Use a charger rated for 24V (or charge each 12V battery separately). A 12V charger will not properly charge a 24V series pair.
 ---
 
 # 24V Truck Battery Wiring Guide
@@ -57,6 +59,10 @@ terminals. Always use two identical batteries and replace them as a pair.
 - Replacing only one battery of the pair
 - Mixing flooded and AGM batteries in the same pair
 - Loose or corroded jumper connections
+
+## References
+
+1. [Series and parallel circuits — Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
 
 ## Related
 

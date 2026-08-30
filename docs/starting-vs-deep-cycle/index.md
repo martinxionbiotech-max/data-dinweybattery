@@ -54,6 +54,11 @@ A dual-purpose battery provides both starting power and some deep-cycle capabili
 compromise for vehicles that need both but cannot fit two separate batteries. For demanding
 applications, separate batteries are the better solution.
 
+## References
+
+1. [Deep-cycle battery — Wikipedia](https://en.wikipedia.org/wiki/Deep-cycle_battery)
+2. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)

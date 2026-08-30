@@ -67,6 +67,11 @@ DINWEY supports fleet operators with batch-consistent supply, full per-batch doc
 (CCA test data, certificate of analysis, MSDS) and OEM/private-label programs. See
 [Fleet & OEM solutions](https://dinweybattery.com/products/fleet/).
 
+## References
+
+1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
+
 ## Related
 
 - [How long does a truck battery last](../how-long-does-a-truck-battery-last/index.md)
