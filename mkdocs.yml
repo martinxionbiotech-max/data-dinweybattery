@@ -23,24 +23,35 @@ nav:
       - Truck Battery Complete Guide: complete-guide/index.md
   - Selection:
       - Truck Battery Selection Guide: selection-guide/index.md
+      - Heavy-Duty Buying Guide: buying-guide/index.md
       - JIS N150 vs N200: jis-n150-vs-n200/index.md
+      - DIN88 vs DIN100: din88-vs-din100/index.md
       - JIS vs DIN vs BCI Standards: jis-vs-din-vs-bci/index.md
   - Ratings & Specs:
       - What Is CCA: what-is-cca/index.md
+      - CCA by Truck Class: cca-by-truck-class/index.md
       - What Is Reserve Capacity: what-is-reserve-capacity/index.md
       - AGM vs Flooded: agm-vs-flooded/index.md
+      - What Is EFB: what-is-efb/index.md
+      - Calcium vs Antimony: calcium-vs-antimony/index.md
   - Maintenance & Troubleshooting:
       - Why Batteries Fail in Winter: why-diesel-batteries-fail-winter/index.md
       - Battery for Cold & Arctic: cold-climate-arctic/index.md
       - 7 Signs of a Dying Battery: 7-signs-dying-battery/index.md
       - How Long Does a Battery Last: how-long-does-a-truck-battery-last/index.md
+      - How to Maintain a Truck Battery: how-to-maintain-truck-battery/index.md
+      - Jump-Start a Semi Truck: jump-start-semi-truck/index.md
       - Starting vs Deep Cycle: starting-vs-deep-cycle/index.md
       - Fleet Battery Management: fleet-battery-management/index.md
   - Battery Standards:
       - BCI Group Sizes: bci-group-sizes/index.md
+      - Terminal Types & Orientation: terminal-types-orientation/index.md
   - Electrical Systems:
       - 12V vs 24V: 12v-vs-24v/index.md
       - 24V Wiring Guide: 24v-wiring-guide/index.md
+  - Buying & Warranty:
+      - Truck Battery Brands Compared: brands-compared/index.md
+      - Warranty Guide: warranty-guide/index.md
 
 markdown_extensions:
   - admonition
