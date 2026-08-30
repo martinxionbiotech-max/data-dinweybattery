@@ -16,9 +16,9 @@ your vehicle's battery tray and cable reach.
 
 | Standard | Common truck group sizes | Market |
 |---|---|---|
-| BCI | Group 31, 8D, 4D | North America |
-| DIN / EN | H8 (L5), H9 (L6) | Europe |
-| JIS | Large commercial codes | Japan / Asia |
+| JIS | 145G51 (N150), 190H52 (N200) | Japan / Asia / Africa / Middle East |
+| DIN / EN | 58827 (DIN88), 60038 (DIN100) | Europe / Middle East |
+| BCI | Group 31, 8D, 4D | North America (on request) |
 
 Always read the group size printed on your existing battery, or consult the vehicle manual.
 
@@ -52,5 +52,5 @@ better at low temperatures than flooded lead-acid.
 
 ## Next Steps
 
-Browse [DINWEY truck batteries](https://dinweybattery.com/products/group-31/) or use our
+Browse [DINWEY JIS heavy-duty batteries](https://dinweybattery.com/products/jis-heavy-duty/) or use our
 [selection tool](https://dinweybattery.com/selection-tool/) for a recommendation.

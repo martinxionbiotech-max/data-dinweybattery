@@ -41,4 +41,5 @@ A common mistake is assuming a larger group size means more power. Group size is
 ## Related
 
 - [Truck Battery Selection Guide](../selection-guide/index.md)
-- [DINWEY Group 31 batteries](https://dinweybattery.com/products/group-31/)
+- [DINWEY JIS heavy-duty batteries](https://dinweybattery.com/products/jis-heavy-duty/)
+- [DINWEY BCI batteries (on request)](https://dinweybattery.com/products/bci-request/)
