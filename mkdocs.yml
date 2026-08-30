@@ -31,6 +31,7 @@ nav:
   - Ratings & Specs:
       - What Is CCA: what-is-cca/index.md
       - CCA by Truck Class: cca-by-truck-class/index.md
+      - CCA Safety Margin & Climate: cca-safety-margin/index.md
       - What Is Reserve Capacity: what-is-reserve-capacity/index.md
       - AGM vs Flooded: agm-vs-flooded/index.md
       - What Is EFB: what-is-efb/index.md
@@ -48,6 +49,7 @@ nav:
       - Fleet Battery Management: fleet-battery-management/index.md
   - Battery Standards:
       - BCI Group Sizes: bci-group-sizes/index.md
+      - JIS vs DIN Engineering: jis-vs-din-engineering/index.md
       - Terminal Types & Orientation: terminal-types-orientation/index.md
   - Electrical Systems:
       - 12V vs 24V: 12v-vs-24v/index.md
