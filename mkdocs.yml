@@ -1,0 +1,36 @@
+site_name: DINWEY Battery Knowledge Hub
+site_url: https://docs.dinweybattery.com/
+site_description: >-
+  Official technical documentation for DINWEY truck and heavy-duty starting batteries —
+  selection guides, BCI/DIN battery standards, and 12V vs 24V system guidance.
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  palette:
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Selection Guide:
+      - Truck Battery Selection Guide: selection-guide/index.md
+  - Battery Standards:
+      - BCI Group Sizes: bci-group-sizes/index.md
+  - Electrical Systems:
+      - 12V vs 24V: 12v-vs-24v/index.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <link rel="canonical" href="https://docs.dinweybattery.com/{{ page.url | replace('index.html', '') }}" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://dinweybattery.com/#organization",
+    "name": "DINWEY",
+    "legalName": "Chengguang Energy (DINWEY brand)",
+    "url": "https://dinweybattery.com",
+    "email": "martin@dinweys.com",
+    "telephone": "+86-13323237275",
+    "foundingDate": "2002",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lvjiaying Village, Mayu Industrial Park, Jinzhou City",
+      "addressLocality": "Shijiazhuang",
+      "addressRegion": "Hebei",
+      "addressCountry": "CN"
+    },
+    "knowsAbout": [
+      "Truck starting batteries",
+      "Heavy-duty battery",
+      "BCI Group 31 battery",
+      "Cold Cranking Amps (CCA)",
+      "SLI battery",
+      "EFB battery",
+      "AGM battery",
+      "24V truck electrical systems"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://docs.dinweybattery.com/#website",
+    "url": "https://docs.dinweybattery.com/",
+    "name": "DINWEY Battery Knowledge Hub",
+    "publisher": { "@id": "https://dinweybattery.com/#organization" }
+  }
+  </script>
+{% endblock %}
