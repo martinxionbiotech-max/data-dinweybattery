@@ -36,6 +36,7 @@ batteries (SLI), covering:
 - [What Is CCA](https://docs.dinweybattery.com/what-is-cca/)
 - [CCA by Truck Class](https://docs.dinweybattery.com/cca-by-truck-class/)
 - [CCA Safety Margin & Climate](https://docs.dinweybattery.com/cca-safety-margin/)
+- [CCA vs Reserve Capacity](https://docs.dinweybattery.com/cca-vs-reserve-capacity/)
 - [What Is Reserve Capacity](https://docs.dinweybattery.com/what-is-reserve-capacity/)
 - [AGM vs Flooded](https://docs.dinweybattery.com/agm-vs-flooded/)
 - [What Is EFB](https://docs.dinweybattery.com/what-is-efb/)
