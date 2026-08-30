@@ -24,11 +24,11 @@ They are not directly interchangeable — always match the standard your vehicle
 
 ## The Three Standards at a Glance
 
-| Standard | Issuing body | Primary markets | CCA test | Heavy-duty codes |
-|---|---|---|---|---|
-| JIS | Japanese Industrial Standards | Japan, Asia, Africa, Middle East | JIS D5301 | N150, N200 |
-| DIN/EN | Deutsches Institut für Normung | Europe, Middle East, North Africa | EN 50342-1 | DIN88, DIN100 |
-| BCI | Battery Council International | North America, Latin America | SAE J537 | Group 31, 8D |
+| Standard | Issuing body | Primary markets | CCA test | CCA test temp | Heavy-duty codes |
+|---|---|---|---|---|---|
+| JIS | Japanese Industrial Standards | Japan, Asia, Africa, Middle East | JIS D5301 | **−15°C** | N150, N200 |
+| DIN/EN | Deutsches Institut für Normung | Europe, Middle East, North Africa | EN 50342-1 | **−18°C** | DIN88, DIN100 |
+| BCI | Battery Council International | North America, Latin America | SAE J537 | **−18°C** | Group 31, 8D |
 
 ## How the Codes Work
 
@@ -43,8 +43,35 @@ They are not directly interchangeable — always match the standard your vehicle
 
 1. **Different dimensions** — a JIS N150 and a BCI Group 31 are not the same physical size.
 2. **Different terminals** — terminal type and left/right positive orientation differ.
-3. **Different CCA tests** — SAE, EN and JIS cold-cranking ratings are measured differently
-   and cannot be directly equated.
+3. **Different CCA tests** — the three standards test at different temperatures and cutoffs,
+   so the numbers are not directly comparable.
+
+### The Temperature Difference That Matters
+
+One overlooked detail: the standards test cold-cranking at different temperatures.
+
+- **SAE J537 and EN 50342-1** test at **−18°C** (0°F)
+- **JIS D5301** tests at **−15°C**
+
+Because JIS tests at a slightly warmer temperature, a JIS CCA figure is **not directly
+comparable** to an SAE or EN figure — the same battery will show a higher number under JIS than
+under SAE or EN. This is a common source of confusion when buyers compare batteries across
+markets.
+
+### The Approximate SAE↔DIN Conversion
+
+There is no exact universal conversion between standards, but battery manufacturers publish an
+approximate relationship for planning. According to Yuasa's technical documentation, an
+approximation of the SAE to DIN cold-cranking relationship is:
+
+```
+SAE ≈ (DIN × 1.5) + 40
+```
+
+!!! warning "Approximation only"
+    This is a planning approximation that varies with battery design — it is not a precise
+    specification. For critical applications, use the manufacturer's verified cross-reference
+    data, never a general formula.
 
 ## Sourcing Implications
 
@@ -61,6 +88,8 @@ When importing or specifying batteries, match the standard to your target market
 1. [Battery Council International](https://batterycouncil.org/)
 2. [DIN — German Institute for Standardization](https://www.din.de/en)
 3. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+4. [Battery codes explained: DIN, EN & JIS — Suzuki Battery](https://suzukibattery.sg/blog/basics/car-battery-codes)
+5. [Battery specifications guide — Yuasa](https://www.yuasa.com/uk/info-hub/guide-to-understanding-battery-specifications)
 
 ## Related
 

@@ -34,6 +34,11 @@ standards bodies (SAE J537 in North America, EN 50342-1 in Europe, JIS D5301 in 
 2. Discharge it at a specified current for 30 seconds
 3. The battery must stay above 7.2V (for a 12V battery)
 
+!!! note "Standard-to-standard temperature difference"
+    SAE J537 and EN 50342-1 test at −18°C, but JIS D5301 tests at −15°C. Because JIS tests
+    at a warmer temperature, a JIS CCA figure is not directly comparable to an SAE or EN
+    figure. Always compare CCA within the same standard.
+
 The higher the CCA, the more current the battery can deliver in cold conditions — which is
 exactly when an engine is hardest to crank and the battery is weakest.
 

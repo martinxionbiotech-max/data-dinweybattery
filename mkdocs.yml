@@ -50,6 +50,8 @@ nav:
   - Battery Standards:
       - BCI Group Sizes: bci-group-sizes/index.md
       - JIS vs DIN Engineering: jis-vs-din-engineering/index.md
+      - Maintenance-Free vs Serviceable JIS: mf-vs-serviceable-jis/index.md
+      - China GB vs JIS Codes: china-gb-vs-jis/index.md
       - Terminal Types & Orientation: terminal-types-orientation/index.md
   - Electrical Systems:
       - 12V vs 24V: 12v-vs-24v/index.md

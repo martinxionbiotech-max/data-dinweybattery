@@ -52,6 +52,8 @@ batteries (SLI), covering:
 - [Fleet Battery Management](https://docs.dinweybattery.com/fleet-battery-management/)
 - [BCI Group Sizes](https://docs.dinweybattery.com/bci-group-sizes/)
 - [JIS vs DIN Engineering](https://docs.dinweybattery.com/jis-vs-din-engineering/)
+- [Maintenance-Free vs Serviceable JIS](https://docs.dinweybattery.com/mf-vs-serviceable-jis/)
+- [China GB vs JIS Codes](https://docs.dinweybattery.com/china-gb-vs-jis/)
 - [Terminal Types & Orientation](https://docs.dinweybattery.com/terminal-types-orientation/)
 - [12V vs 24V Systems](https://docs.dinweybattery.com/12v-vs-24v/)
 - [24V Wiring Guide](https://docs.dinweybattery.com/24v-wiring-guide/)
