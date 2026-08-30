@@ -1,46 +1,206 @@
+{#-
+  Site-wide schema override for DINWEY Battery Knowledge Hub.
+  Extends Material's base template and injects JSON-LD into <head>.
+  Author = DINWEY Technical Team (team byline, no fabricated individual expert).
+-#}
 {% extends "base.html" %}
 
 {% block extrahead %}
   {{ super() }}
-  <link rel="canonical" href="https://docs.dinweybattery.com/{{ page.url | replace('index.html', '') }}" />
+
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ page.title if page else config.site_name }}">
+  <meta property="og:description" content="{{ (page.meta.description if page and page.meta else '') | default(config.site_description, true) }}">
+  <meta property="og:type" content="{{ 'article' if (page and page.meta and page.meta.type == 'article') else 'website' }}">
+  <meta property="og:url" content="{{ page.canonical_url if page else config.site_url }}">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page.title if page else config.site_name }}">
+  <meta name="twitter:description" content="{{ (page.meta.description if page and page.meta else '') | default(config.site_description, true) }}">
+
+  <style>
+    .dw-byline {
+      margin: -0.75rem 0 1.5rem;
+      padding: 0.6rem 0.9rem;
+      font-size: 0.8rem;
+      color: var(--md-default-fg-color--light);
+      background: var(--md-code-bg-color, rgba(0,0,0,0.04));
+      border-left: 3px solid var(--md-primary-fg-color);
+      border-radius: 4px;
+      line-height: 1.5;
+    }
+    .dw-byline strong { color: var(--md-default-fg-color); font-weight: 600; }
+    .dw-byline__sep { opacity: 0.5; margin: 0 0.35rem; }
+    .dw-byline--foot { margin: 1.5rem 0 0; border-left-color: var(--md-default-fg-color--lighter); }
+    .dw-data-note {
+      font-size: 0.82rem;
+      color: var(--md-default-fg-color--light);
+      font-style: italic;
+    }
+  </style>
+
+  {# Organization + WebSite (site-wide) #}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "@id": "https://dinweybattery.com/#organization",
-    "name": "DINWEY",
-    "legalName": "Chengguang Energy (DINWEY brand)",
-    "url": "https://dinweybattery.com",
-    "email": "martin@dinweys.com",
-    "telephone": "+86-13323237275",
-    "foundingDate": "2002",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Lvjiaying Village, Mayu Industrial Park, Jinzhou City",
-      "addressLocality": "Shijiazhuang",
-      "addressRegion": "Hebei",
-      "addressCountry": "CN"
-    },
-    "knowsAbout": [
-      "Truck starting batteries",
-      "Heavy-duty battery",
-      "BCI Group 31 battery",
-      "Cold Cranking Amps (CCA)",
-      "SLI battery",
-      "EFB battery",
-      "AGM battery",
-      "24V truck electrical systems"
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "{{ config.site_url }}#organization",
+        "name": "DINWEY",
+        "legalName": "Chengguang Energy (DINWEY brand)",
+        "url": "https://dinweybattery.com",
+        "email": "martin@dinweys.com",
+        "telephone": "+86-13323237275",
+        "foundingDate": "2002",
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Chengguang Energy",
+          "url": "https://chengguangenergy.com"
+        },
+        "hasCredential": [
+          { "@type": "EducationalOccupationalCredential", "name": "IATF 16949" },
+          { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015" },
+          { "@type": "EducationalOccupationalCredential", "name": "ISO 14001:2015" },
+          { "@type": "EducationalOccupationalCredential", "name": "ISO 45001:2018" },
+          { "@type": "EducationalOccupationalCredential", "name": "OHSAS 18001" },
+          { "@type": "EducationalOccupationalCredential", "name": "CE Marking" }
+        ],
+        "knowsAbout": [
+          "Truck starting batteries",
+          "Heavy-duty battery",
+          "JIS battery (145G51, 190H52)",
+          "DIN battery (58827, 60038)",
+          "BCI Group 31 battery",
+          "Cold Cranking Amps (CCA)",
+          "Reserve Capacity (RC)",
+          "SLI battery",
+          "EFB battery",
+          "AGM battery",
+          "24V truck electrical systems"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ config.site_url }}#website",
+        "name": "DINWEY Battery Knowledge Hub",
+        "url": "{{ config.site_url }}",
+        "publisher": { "@id": "{{ config.site_url }}#organization" }
+      }
     ]
   }
   </script>
+
+  {% if page and page.meta and page.meta.type == 'article' %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "@id": "https://docs.dinweybattery.com/#website",
-    "url": "https://docs.dinweybattery.com/",
-    "name": "DINWEY Battery Knowledge Hub",
-    "publisher": { "@id": "https://dinweybattery.com/#organization" }
+    "@type": "TechArticle",
+    "headline": "{{ page.title }}",
+    "description": "{{ page.meta.description }}",
+    "author": {
+      "@type": "Organization",
+      "name": "DINWEY Technical Team",
+      "url": "https://dinweybattery.com/about/"
+    },
+    "publisher": { "@id": "{{ config.site_url }}#organization" },
+    "datePublished": "{{ page.meta.date_published }}",
+    "dateModified": "{{ page.meta.date_modified }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.canonical_url }}"
+    },
+    "inLanguage": "en"
   }
   </script>
+  {% endif %}
+
+  {% if page and page.meta and page.meta.faq %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for item in page.meta.faq %}
+      {
+        "@type": "Question",
+        "name": {{ item.q | tojson }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ item.a | tojson }}
+        }
+      }{{ "," if not loop.last else "" }}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {% if page and page.meta and page.meta.howto %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "{{ page.title }}",
+    "description": "{{ page.meta.description }}",
+    "step": [
+      {% for s in page.meta.howto %}
+      {
+        "@type": "HowToStep",
+        "position": {{ loop.index }},
+        "name": {{ s.name | tojson }},
+        "text": {{ s.text | tojson }}
+      }{{ "," if not loop.last else "" }}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {% if page and page.url and page.url != '' and page.url != '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ config.site_url }}"}
+      ,{"@type": "ListItem", "position": 2, "name": "{{ page.title }}", "item": "{{ page.canonical_url }}"}
+    ]
+  }
+  </script>
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% if "\u003ch1" not in page.content %}
+    <h1>{{ page.title | d(config.site_name, true) }}</h1>
+  {% endif %}
+
+  {% if page.meta and page.meta.type == 'article' %}
+  <div class="dw-byline" role="note" aria-label="Author and review information">
+    <span class="dw-byline__label">Written by</span>
+    <strong>{{ page.meta.author | default('DINWEY Technical Team') }}</strong>
+    {% if page.meta.date_published %}
+      <span class="dw-byline__sep">·</span>
+      <span>Published {{ page.meta.date_published }}</span>
+    {% endif %}
+    {% if page.meta.date_modified and page.meta.date_modified != page.meta.date_published %}
+      <span class="dw-byline__sep">·</span>
+      <span>Updated {{ page.meta.date_modified }}</span>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  {{ page.content }}
+
+  {% if page.meta and page.meta.type == 'article' %}
+  <div class="dw-byline dw-byline--foot" role="note" aria-label="Correction and sourcing policy">
+    <span class="dw-data-note">
+      Specifications sourced from Chengguang Energy technical documentation under an
+      IATF 16949 quality management system. CCA/Ah/RC values are per-model and verified
+      against manufacturer data sheets — always confirm against your vehicle manual.
+      Questions? <a href="https://dinweybattery.com/contact/">Contact DINWEY</a>.
+    </span>
+  </div>
+  {% endif %}
 {% endblock %}

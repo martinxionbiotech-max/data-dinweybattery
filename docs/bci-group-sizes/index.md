@@ -1,5 +1,17 @@
 ---
-description: BCI battery group sizes explained — Group 31, 8D, 4D dimensions, terminals and typical truck applications.
+description: BCI battery group sizes explained — Group 31, 8D, 4D dimensions, terminals and typical truck applications, plus how they compare to JIS and DIN truck battery standards.
+type: article
+date_published: 2026-08-30
+date_modified: 2026-08-30
+faq:
+  - q: What is the difference between BCI Group 31 and Group 8D?
+    a: Group 8D is a large legacy size (~527×283×250mm) used in large trucks and generators; Group 31 (~330×173×240mm) is smaller and lighter but delivers comparable CCA, so it is increasingly replacing 8D in modern trucks.
+  - q: Does a bigger group size mean more power?
+    a: No. Group size is about physical dimensions; CCA is about starting power. Two Group 31 batteries can have very different CCA ratings — always verify CCA independently of group size.
+  - q: Are BCI, JIS and DIN group sizes interchangeable?
+    a: Not directly. Each standard uses its own sizing system. JIS uses model codes (N150/N200), DIN uses capacity codes (DIN88/DIN100), and BCI uses group numbers (31/8D). Always match the standard your vehicle uses.
+  - q: Does DINWEY stock BCI Group 31 batteries?
+    a: DINWEY produces BCI-standard batteries on request (made-to-order) via the Chengguang Energy BCI production line. Core stocked lines are JIS and DIN.
 ---
 
 # BCI Group Sizes Explained
@@ -22,6 +34,10 @@ capacity) — two Group 31 batteries can have very different CCA ratings.
 | Group 8D | ~527 × 283 × 250 mm | Large trucks, generators | Large, heavy legacy size |
 | Group 4D | ~527 × 222 × 250 mm | Large trucks, marine | Large legacy size |
 | Group 65 | ~306 × 192 × 192 mm | Light/medium trucks | Top-post automotive |
+
+!!! note "Approximate dimensions"
+    Dimensions vary slightly between manufacturers. Always confirm the exact footprint
+    against your battery tray and hold-down.
 
 !!! warning "Group 8D vs Group 31"
     Group 8D is being increasingly replaced by Group 31, which delivers comparable CCA in a

@@ -1,5 +1,26 @@
 ---
-description: Step-by-step guide to choosing the right starting battery for your truck — group size, CCA, voltage and climate.
+description: Step-by-step guide to choosing the right starting battery for your truck — group size (JIS N150/N200, DIN88/DIN100, BCI Group 31), CCA, voltage and climate, with a HowTo flow.
+type: article
+date_published: 2026-08-30
+date_modified: 2026-08-30
+howto:
+  - name: Confirm the group size
+    text: Match the physical footprint, terminal type and orientation to your battery tray and cables. Read the group size printed on your existing battery or in the vehicle manual (JIS N150/N200, DIN88/DIN100, or BCI Group 31).
+  - name: Check the CCA requirement
+    text: Find the cold cranking amp requirement in your manual. Diesel engines need more CCA than gasoline. Light trucks 600–800, medium-duty 800–1000, heavy semis 850–1100+ CCA.
+  - name: Verify the system voltage
+    text: Confirm whether the vehicle is 12V (light trucks) or 24V (heavy trucks and buses, two 12V batteries in series).
+  - name: Account for climate
+    text: Choose higher CCA for cold climates (consider AGM) and focus on capacity and heat tolerance for hot climates.
+faq:
+  - q: What is the first thing to check when choosing a truck battery?
+    a: The group size. It must match your battery tray and cable reach, or the battery cannot be safely installed regardless of its electrical rating.
+  - q: How do I find my truck's group size?
+    a: Read the code printed on your existing battery (for example N150, DIN100, or Group 31) or check your vehicle manual.
+  - q: Should I buy the highest CCA available?
+    a: Not necessarily. Match CCA to your engine and climate. Higher CCA helps in cold climates, but it also means a larger, heavier, more expensive battery.
+  - q: Do I need to account for terminal orientation?
+    a: Yes. JIS batteries are typically right-positive and DIN batteries left-positive. The terminal type and position must match your cables.
 ---
 
 # Truck Battery Selection Guide

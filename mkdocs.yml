@@ -2,7 +2,7 @@ site_name: DINWEY Battery Knowledge Hub
 site_url: https://docs.dinweybattery.com/
 site_description: >-
   Official technical documentation for DINWEY truck and heavy-duty starting batteries —
-  selection guides, BCI/DIN battery standards, and 12V vs 24V system guidance.
+  selection guides, JIS/DIN/BCI battery standards, CCA, and 12V vs 24V system guidance.
 
 theme:
   name: material
@@ -19,12 +19,28 @@ theme:
 
 nav:
   - Home: index.md
-  - Selection Guide:
+  - Complete Guide:
+      - Truck Battery Complete Guide: complete-guide/index.md
+  - Selection:
       - Truck Battery Selection Guide: selection-guide/index.md
+      - JIS N150 vs N200: jis-n150-vs-n200/index.md
+      - JIS vs DIN vs BCI Standards: jis-vs-din-vs-bci/index.md
+  - Ratings & Specs:
+      - What Is CCA: what-is-cca/index.md
+      - What Is Reserve Capacity: what-is-reserve-capacity/index.md
+      - AGM vs Flooded: agm-vs-flooded/index.md
+  - Maintenance & Troubleshooting:
+      - Why Batteries Fail in Winter: why-diesel-batteries-fail-winter/index.md
+      - Battery for Cold & Arctic: cold-climate-arctic/index.md
+      - 7 Signs of a Dying Battery: 7-signs-dying-battery/index.md
+      - How Long Does a Battery Last: how-long-does-a-truck-battery-last/index.md
+      - Starting vs Deep Cycle: starting-vs-deep-cycle/index.md
+      - Fleet Battery Management: fleet-battery-management/index.md
   - Battery Standards:
       - BCI Group Sizes: bci-group-sizes/index.md
   - Electrical Systems:
       - 12V vs 24V: 12v-vs-24v/index.md
+      - 24V Wiring Guide: 24v-wiring-guide/index.md
 
 markdown_extensions:
   - admonition
