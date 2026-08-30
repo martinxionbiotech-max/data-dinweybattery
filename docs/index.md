@@ -1,21 +1,37 @@
+---
+description: DINWEY Battery Knowledge Hub — official technical documentation for truck and heavy-duty starting batteries. Covers JIS, DIN and BCI battery standards, cold cranking amps (CCA), reserve capacity, selection guides, maintenance and application scenarios.
+type: page
+date_published: 2026-08-30
+date_modified: 2026-08-30
+---
+
 # DINWEY Battery Knowledge Hub
 
 **Official technical documentation for DINWEY truck and heavy-duty starting batteries.**
 
-## Our Mission
+## What This Hub Answers
 
-This knowledge hub exists to answer one question well: **how do you choose the right starting
-battery for a truck?** We publish accurate, standards-based guidance on battery group sizes
-(BCI, DIN), cold cranking amps (CCA), and 12V vs 24V electrical systems — the topics commercial
-vehicle buyers and fleet operators ask about most.
+This knowledge hub exists to answer one question well: **how do you choose, use and maintain
+the right starting battery for a truck?** It is organized into five pillars of standards-based,
+sourced guidance.
 
-## Scope
+## Browse by Topic
 
-This documentation covers:
+| Pillar | Start here | What it covers |
+|---|---|---|
+| 🔋 **Battery Fundamentals** | [Truck Battery Complete Guide](complete-guide/index.md) | CCA, reserve capacity, Ah, EFB, AGM, plate chemistry, system voltage |
+| 📐 **Standards & Sizing** | [JIS vs DIN vs BCI](jis-vs-din-vs-bci/index.md) | The three regional standards, model numbers, GB codes, cross-reference |
+| 🛒 **Selection & Buying** | [Selection Guide](selection-guide/index.md) | How to choose, compare brands, read datasheets, warranty, OEM |
+| 🔧 **Maintenance & Life** | [Maintain a Truck Battery](how-to-maintain-truck-battery/index.md) | Testing, charging, jump-starting, winter failure, service life |
+| 🚚 **Applications & Fleets** | [Fleet Battery Management](fleet-battery-management/index.md) | Long-haul, cold-chain, mining, semi-trailer, generator |
 
-- **Selection guides** — step-by-step how to choose a truck battery
-- **Battery standards** — BCI group sizes, DIN/EN sizes, CCA and reserve capacity
-- **Electrical systems** — 12V vs 24V configurations and series wiring
+## Popular Guides
+
+- [What is cold cranking amps (CCA)?](what-is-cca/index.md)
+- [CCA vs Reserve Capacity](cca-vs-reserve-capacity/index.md)
+- [JIS vs DIN engineering — a density analysis](jis-vs-din-engineering/index.md)
+- [Truck battery buying guide](buying-guide/index.md)
+- [How to test a truck battery](how-to-test-battery/index.md)
 
 ## Who This Is For
 
@@ -23,24 +39,25 @@ This documentation covers:
 |---|---|
 | Fleet operators | Select and maintain batteries across a fleet |
 | Distributors & importers | Understand specifications before placing orders |
-| OEM / private label buyers | Specify the right group size and CCA for their brand |
+| OEM / private-label buyers | Specify the right group size and CCA for their brand |
 | Technicians | Troubleshoot starting and charging issues |
 
 ## Standards Referenced
 
 | Standard body | Relevance |
 |---|---|
-| BCI (Battery Council International) | North American group sizes and CCA ratings |
-| SAE J537 | Cold cranking amp test standard |
+| JIS (Japanese Industrial Standards) | Asian/African heavy-duty battery coding (N150, N200) |
 | DIN / EN | European battery sizes and cold-cranking ratings |
-| JIS | Japanese/Asian battery coding |
+| BCI (Battery Council International) | North American group sizes |
+| SAE J537 | Cold cranking amp test standard |
 
 ## Website ↔ Knowledge Hub
 
 This hub is the technical documentation companion to
-[DINWEY Battery](https://dinweybattery.com/), the truck starting battery brand of
+[DINWEY Battery](https://dinweybattery.com/), the truck starting-battery brand of
 [Chengguang Energy](https://chengguangenergy.com/) (founded 2002).
 
 ---
 
-*Last updated: 2026-08-30*
+*Specifications sourced from Chengguang Energy technical documentation under an IATF 16949
+quality management system. Always confirm final specification against your vehicle manual.*

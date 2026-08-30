@@ -67,6 +67,17 @@ reduces short-circuit risk.
 
 ## Related
 
+**Maintenance & life — explore this topic:**
+
+- [How to test a truck battery](../how-to-test-battery/index.md)
+- [Battery charging guide](../battery-charging-guide/index.md)
+- [Jump-start a semi truck](../jump-start-semi-truck/index.md)
+- [Why diesel batteries fail in winter](../why-diesel-batteries-fail-winter/index.md)
+- [Battery for cold & arctic](../cold-climate-arctic/index.md)
 - [7 signs your truck battery is dying](../7-signs-dying-battery/index.md)
 - [How long does a truck battery last](../how-long-does-a-truck-battery-last/index.md)
+- [Fleet battery management](../fleet-battery-management/index.md)
+
+**Related across the hub:**
+
 - [Truck Battery Complete Guide](../complete-guide/index.md)

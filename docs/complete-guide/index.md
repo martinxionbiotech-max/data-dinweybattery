@@ -122,7 +122,22 @@ specifications.
 
 ## Related Guides
 
+**Battery fundamentals — explore this topic:**
+
+- [What is cold cranking amps (CCA)?](../what-is-cca/index.md)
+- [What is reserve capacity (RC)?](../what-is-reserve-capacity/index.md)
+- [CCA vs Reserve Capacity](../cca-vs-reserve-capacity/index.md)
+- [CCA safety margin & climate](../cca-safety-margin/index.md)
+- [CCA by truck class](../cca-by-truck-class/index.md)
+- [What is EFB?](../what-is-efb/index.md)
+- [AGM vs flooded](../agm-vs-flooded/index.md)
+- [Calcium vs antimony](../calcium-vs-antimony/index.md)
+- [Starting vs deep-cycle](../starting-vs-deep-cycle/index.md)
+- [Terminal types & orientation](../terminal-types-orientation/index.md)
+- [12V vs 24V electrical systems](../12v-vs-24v/index.md)
+
+**Related across the hub:**
+
 - [Truck Battery Selection Guide](../selection-guide/index.md)
 - [JIS N150 vs N200 — which heavy-duty battery](../jis-n150-vs-n200/index.md)
-- [12V vs 24V electrical systems](../12v-vs-24v/index.md)
 - [BCI group sizes explained](../bci-group-sizes/index.md)

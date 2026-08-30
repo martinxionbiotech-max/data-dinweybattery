@@ -82,3 +82,20 @@ Browse [DINWEY JIS heavy-duty batteries](https://dinweybattery.com/products/jis-
 
 1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
 2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+
+## Related
+
+**Selection & buying — explore this topic:**
+
+- [Heavy-duty truck battery buying guide](../buying-guide/index.md)
+- [Truck battery brands compared](../brands-compared/index.md)
+- [Warranty guide](../warranty-guide/index.md)
+- [How to read a battery datasheet](../how-to-read-datasheet/index.md)
+- [OEM & private label](../oem-private-label/index.md)
+- [Battery shipping & transport](../battery-shipping-transport/index.md)
+- [Battery recycling & disposal](../battery-recycling-disposal/index.md)
+
+**Related across the hub:**
+
+- [Truck Battery Complete Guide](../complete-guide/index.md)
+- [JIS vs DIN vs BCI standards](../jis-vs-din-vs-bci/index.md)

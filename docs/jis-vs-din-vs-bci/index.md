@@ -93,6 +93,18 @@ When importing or specifying batteries, match the standard to your target market
 
 ## Related
 
+**Standards & sizing — explore this topic:**
+
+- [JIS vs DIN engineering — a density analysis](../jis-vs-din-engineering/index.md)
+- [JIS & DIN model numbers](../jis-din-model-numbers/index.md)
 - [BCI group sizes explained](../bci-group-sizes/index.md)
+- [China GB vs JIS codes](../china-gb-vs-jis/index.md)
+- [Maintenance-free vs serviceable JIS](../mf-vs-serviceable-jis/index.md)
 - [JIS N150 vs N200](../jis-n150-vs-n200/index.md)
+- [DIN88 vs DIN100](../din88-vs-din100/index.md)
+- [Terminal types & orientation](../terminal-types-orientation/index.md)
+
+**Related across the hub:**
+
 - [Truck Battery Complete Guide](../complete-guide/index.md)
+- [Truck Battery Selection Guide](../selection-guide/index.md)

@@ -74,6 +74,18 @@ DINWEY supports fleet operators with batch-consistent supply, full per-batch doc
 
 ## Related
 
+**Applications & fleets — explore this topic:**
+
+- [Long-haul trucking](../long-haul-trucking/index.md)
+- [Cold-chain & refrigerated](../cold-chain-refrigerated/index.md)
+- [Mining & off-highway](../mining-off-highway/index.md)
+- [Semi-trailer & heavy hauler](../semi-trailer/index.md)
+- [Diesel generator](../diesel-generator/index.md)
+- [CCA vs reserve capacity](../cca-vs-reserve-capacity/index.md)
+- [Starting vs deep-cycle](../starting-vs-deep-cycle/index.md)
+
+**Related across the hub:**
+
 - [How long does a truck battery last](../how-long-does-a-truck-battery-last/index.md)
 - [7 signs your truck battery is dying](../7-signs-dying-battery/index.md)
 - [AGM vs flooded](../agm-vs-flooded/index.md)
