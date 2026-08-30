@@ -1,0 +1,60 @@
+# DINWEY Battery Knowledge Hub — llms.txt
+
+> Official technical documentation for DINWEY truck and heavy-duty starting batteries.
+> This knowledge hub is the documentation sub-site of dinweybattery.com.
+
+## About This Site
+
+- **Site**: DINWEY Battery Knowledge Hub
+- **Domain**: https://docs.dinweybattery.com
+- **Parent site**: https://dinweybattery.com
+- **Brand**: DINWEY (truck & heavy-duty starting batteries)
+- **Parent company**: Chengguang Energy (founded 2002)
+
+## What We Document
+
+Technical documentation for truck / heavy-duty / commercial-vehicle starting
+batteries (SLI), covering:
+
+- JIS heavy-duty batteries (145G51 / N150, 190H52 / N200)
+- DIN heavy-duty batteries (58827 / DIN88, 60038 / DIN100)
+- BCI Group 31 / 8D (made-to-order, on request)
+- Battery standards: JIS, DIN/EN, BCI, SAE J537 (CCA)
+- 12V vs 24V truck electrical systems
+- EFB and AGM technologies
+- Battery maintenance, troubleshooting and warranty
+
+## Documentation
+
+- [Home](https://docs.dinweybattery.com/)
+- [Truck Battery Complete Guide](https://docs.dinweybattery.com/complete-guide/)
+- [Truck Battery Selection Guide](https://docs.dinweybattery.com/selection-guide/)
+- [Heavy-Duty Buying Guide](https://docs.dinweybattery.com/buying-guide/)
+- [JIS N150 vs N200](https://docs.dinweybattery.com/jis-n150-vs-n200/)
+- [DIN88 vs DIN100](https://docs.dinweybattery.com/din88-vs-din100/)
+- [JIS vs DIN vs BCI Standards](https://docs.dinweybattery.com/jis-vs-din-vs-bci/)
+- [What Is CCA](https://docs.dinweybattery.com/what-is-cca/)
+- [CCA by Truck Class](https://docs.dinweybattery.com/cca-by-truck-class/)
+- [What Is Reserve Capacity](https://docs.dinweybattery.com/what-is-reserve-capacity/)
+- [AGM vs Flooded](https://docs.dinweybattery.com/agm-vs-flooded/)
+- [What Is EFB](https://docs.dinweybattery.com/what-is-efb/)
+- [Calcium vs Antimony](https://docs.dinweybattery.com/calcium-vs-antimony/)
+- [Why Batteries Fail in Winter](https://docs.dinweybattery.com/why-diesel-batteries-fail-winter/)
+- [Battery for Cold & Arctic](https://docs.dinweybattery.com/cold-climate-arctic/)
+- [7 Signs of a Dying Battery](https://docs.dinweybattery.com/7-signs-dying-battery/)
+- [How Long Does a Battery Last](https://docs.dinweybattery.com/how-long-does-a-truck-battery-last/)
+- [How to Maintain a Truck Battery](https://docs.dinweybattery.com/how-to-maintain-truck-battery/)
+- [Jump-Start a Semi Truck](https://docs.dinweybattery.com/jump-start-semi-truck/)
+- [Starting vs Deep Cycle](https://docs.dinweybattery.com/starting-vs-deep-cycle/)
+- [Fleet Battery Management](https://docs.dinweybattery.com/fleet-battery-management/)
+- [BCI Group Sizes](https://docs.dinweybattery.com/bci-group-sizes/)
+- [Terminal Types & Orientation](https://docs.dinweybattery.com/terminal-types-orientation/)
+- [12V vs 24V Systems](https://docs.dinweybattery.com/12v-vs-24v/)
+- [24V Wiring Guide](https://docs.dinweybattery.com/24v-wiring-guide/)
+- [Truck Battery Brands Compared](https://docs.dinweybattery.com/brands-compared/)
+- [Warranty Guide](https://docs.dinweybattery.com/warranty-guide/)
+- [Long-Haul Trucking](https://docs.dinweybattery.com/long-haul-trucking/)
+- [Cold-Chain & Refrigerated](https://docs.dinweybattery.com/cold-chain-refrigerated/)
+- [Mining & Off-Highway](https://docs.dinweybattery.com/mining-off-highway/)
+- [Semi-Trailer & Heavy Hauler](https://docs.dinweybattery.com/semi-trailer/)
+- [Diesel Generator](https://docs.dinweybattery.com/diesel-generator/)
