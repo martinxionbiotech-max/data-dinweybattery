@@ -7,6 +7,8 @@ date_modified: 2026-08-30
 
 # DINWEY Battery Knowledge Hub
 
+<img class="brand-logo" src="assets/logo.png" alt="DINWEY logo" width="110" height="110">
+
 **Official technical documentation for DINWEY truck and heavy-duty starting batteries.**
 
 ## What This Hub Answers

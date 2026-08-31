@@ -8,6 +8,8 @@ theme:
   name: material
   language: en
   custom_dir: overrides
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     primary: indigo
     accent: amber
@@ -77,6 +79,9 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search

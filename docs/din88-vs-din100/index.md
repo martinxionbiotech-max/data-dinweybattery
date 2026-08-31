@@ -22,6 +22,12 @@ faq:
 DIN100 (60038) is the larger option at 100Ah / 870A EN. Choose DIN100 for more cranking power
 or higher electrical load if your tray fits it; otherwise DIN88 is lighter and cheaper.
 
+## Model Photos
+
+| DIN88 (58827) | DIN100 (60038) |
+|---|---|
+| ![DINWEY 58827 DIN88 truck battery](../assets/58827-DIN88.jpg) | ![DINWEY 60038 DIN100 truck battery](../assets/60038-DIN100.jpg) |
+
 ## What "DIN88" and "DIN100" Mean
 
 In the DIN/EN system, the number reflects the battery's capacity in amp-hours. DIN88 is an

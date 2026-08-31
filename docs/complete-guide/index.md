@@ -20,6 +20,8 @@ faq:
 
 # Truck Battery Complete Guide
 
+![DINWEY 190H52 N200 heavy-duty truck battery](../assets/190H52-N200.jpg)
+
 **TL;DR** — Choose a truck starting battery by matching four things: (1) the group size that
 fits your tray, (2) the CCA your diesel engine needs, (3) the system voltage (12V or 24V), and
 (4) your climate. In JIS markets the heavy-duty workhorses are N150/N200; in Europe they are

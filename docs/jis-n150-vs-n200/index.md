@@ -23,6 +23,12 @@ faq:
 maximum cranking power or cold-climate reliability and your tray fits it; otherwise N150 is
 lighter, cheaper and enough for most heavy trucks.
 
+## Model Photos
+
+| N150 (145G51) | N200 (190H52) |
+|---|---|
+| ![DINWEY 145G51 JIS N150 truck battery](../assets/145G51-N150.jpg) | ![DINWEY 190H52 JIS N200 truck battery](../assets/190H52-N200.jpg) |
+
 ## What "N150" and "N200" Mean
 
 In the JIS (Japanese Industrial Standards) system, large commercial batteries are identified

@@ -22,6 +22,12 @@ faq:
 like N150/N200), DIN (capacity codes like DIN88/DIN100) and BCI (group numbers like 31/8D).
 They are not directly interchangeable — always match the standard your vehicle uses.
 
+## Representative Models
+
+| JIS heavy-duty (N150) | DIN heavy-duty (DIN88) |
+|---|---|
+| ![DINWEY 145G51 JIS N150 truck battery](../assets/145G51-N150.jpg) | ![DINWEY 58827 DIN88 truck battery](../assets/58827-DIN88.jpg) |
+
 ## The Three Standards at a Glance
 
 | Standard | Issuing body | Primary markets | CCA test | CCA test temp | Heavy-duty codes |

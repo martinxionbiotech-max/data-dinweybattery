@@ -1,0 +1,91 @@
+/* DINWEY Knowledge Hub — brand theme */
+:root {
+  --md-primary-fg-color: #0f1f3d;
+  --md-primary-fg-color--light: #1e3a5f;
+  --md-primary-fg-color--dark: #0a1528;
+  --md-accent-fg-color: #f5a623;
+
+  --dinwey-navy: #0f1f3d;
+  --dinwey-navy-dark: #0a1528;
+  --dinwey-steel: #1e3a5f;
+  --dinwey-amber: #f5a623;
+  --dinwey-border: #e2e8f0;
+  --dinwey-bg-soft: #f4f6f9;
+}
+
+/* Header */
+.md-header,
+.md-tabs {
+  background-color: var(--dinwey-navy);
+  background-image: linear-gradient(120deg, var(--dinwey-navy-dark) 0%, var(--dinwey-navy) 55%, var(--dinwey-steel) 100%);
+}
+.md-header__title {
+  font-weight: 700;
+}
+
+/* Typography */
+.md-typeset h1 {
+  color: var(--dinwey-navy);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.md-typeset h2 {
+  color: var(--dinwey-navy);
+  font-weight: 700;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid rgba(245, 166, 35, 0.55);
+}
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--dinwey-steel);
+  font-weight: 600;
+}
+
+.md-typeset a {
+  color: var(--dinwey-navy);
+  text-decoration-thickness: 0.08em;
+}
+.md-typeset a:hover {
+  color: var(--dinwey-amber);
+}
+
+/* Tables */
+.md-typeset table {
+  border-color: var(--dinwey-border);
+  box-shadow: 0 8px 24px rgba(15, 31, 61, 0.08);
+}
+.md-typeset table th {
+  background: var(--dinwey-navy);
+  color: #fff;
+  border-color: var(--dinwey-navy);
+}
+.md-typeset table td,
+.md-typeset table th {
+  border-color: var(--dinwey-border);
+}
+.md-typeset table tr:nth-child(even) td {
+  background: var(--dinwey-bg-soft);
+}
+
+/* Product and hero images */
+.md-typeset img {
+  display: block;
+  max-width: min(100%, 620px);
+  height: auto;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(15, 31, 61, 0.14);
+}
+.md-typeset img.brand-logo {
+  width: 110px;
+  height: auto;
+  margin: 1.5rem auto 0.5rem;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+/* Admonitions get a subtle brand touch */
+.md-typeset .admonition {
+  border-radius: 10px;
+  border-left-width: 4px;
+}
