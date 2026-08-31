@@ -14,17 +14,20 @@ date_modified: 2026-08-30
 ## What This Hub Answers
 
 This knowledge hub exists to answer one question well: **how do you choose, use and maintain
-the right starting battery for a truck?** It is organized into five pillars of standards-based,
-sourced guidance.
+the right starting battery for a truck?** It is organized into eight pillar topics of
+standards-based, sourced guidance.
 
 ## Browse by Topic
 
 | Pillar | Start here | What it covers |
 |---|---|---|
 | 🔋 **Battery Fundamentals** | [Truck Battery Complete Guide](complete-guide/index.md) | CCA, reserve capacity, Ah, EFB, AGM, plate chemistry, system voltage |
-| 📐 **Standards & Sizing** | [JIS vs DIN vs BCI](jis-vs-din-vs-bci/index.md) | The three regional standards, model numbers, GB codes, cross-reference |
-| 🛒 **Selection & Buying** | [Selection Guide](selection-guide/index.md) | How to choose, compare brands, read datasheets, warranty, OEM |
+| 🛒 **Selection** | [Selection Guide](selection-guide/index.md) | Group size, CCA, voltage and climate — a four-step selection method |
+| 📊 **Ratings & Specs** | [What Is CCA](what-is-cca/index.md) | CCA, reserve capacity, EFB, AGM, plate alloys — every rating explained |
 | 🔧 **Maintenance & Life** | [Maintain a Truck Battery](how-to-maintain-truck-battery/index.md) | Testing, charging, jump-starting, winter failure, service life |
+| 📐 **Battery Standards** | [JIS vs DIN vs BCI](jis-vs-din-vs-bci/index.md) | The three regional standards, model numbers, GB codes, cross-reference |
+| ⚡ **Electrical Systems** | [12V vs 24V](12v-vs-24v/index.md) | System voltage, series wiring and 24V configuration |
+| 🛍️ **Buying & Warranty** | [Buying Guide](buying-guide/index.md) | Brands, warranty, OEM/private label, datasheets, shipping |
 | 🚚 **Applications & Fleets** | [Fleet Battery Management](fleet-battery-management/index.md) | Long-haul, cold-chain, mining, semi-trailer, generator |
 
 ## Popular Guides

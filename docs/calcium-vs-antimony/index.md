@@ -86,6 +86,7 @@ offers a lower-maintenance, economical option.
 
 ## Related
 
+- [What is CCA](../what-is-cca/index.md)
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [AGM vs flooded](../agm-vs-flooded/index.md)
 - [Starting vs deep cycle](../starting-vs-deep-cycle/index.md)
