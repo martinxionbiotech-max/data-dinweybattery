@@ -1,19 +1,19 @@
 ---
-description: OEM and private-label truck batteries — how the OEM/ODM program works, what to prepare, and how distributors build their own battery brand.
+description: OEM and private-label truck battery programs — how distributors and fleets build their own battery brand, what you can customize, and the process from sample to shipment.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is a private-label battery program?
-    a: A private-label (OEM/ODM) program lets a distributor or fleet buy batteries made by a manufacturer but branded with their own name, logo and specification — letting them build their own brand without owning a factory.
+    a: A private-label (OEM/ODM) program lets distributors and fleets sell batteries under their own brand, with the manufacturer handling production under an IATF 16949 quality system.
   - q: What can I customize in a private-label battery?
-    a: Typically the label and branding, the case color, the terminal type, the specification (CCA/capacity), and the packaging. The extent depends on the manufacturer's program and order volume.
-  - q: What is the minimum order for private label?
-    a: At DINWEY, the standard MOQ is 1 × 20ft container, with lead time of 20–45 days. Contact us for program-specific minimums and terms.
-  - q: How do I start a private-label battery program?
-    a: Define your target market and specification, contact the manufacturer, agree on spec/labeling/MOQ, approve samples, then place a production order. A good supplier guides you through each step.
-  - q: How long does private-label production take?
-    a: Standard lead time is 20–45 days depending on specification and volume, plus shipping. Sample approval and label design add time before full production.
+    a: You control the brand name and logo, the specification (CCA, capacity, terminal type), the case and packaging, and your branding on datasheets and certificates.
+  - q: What is the minimum order for OEM batteries?
+    a: Typically a 1 × 20ft container as the standard MOQ, with a lead time of 20–45 days — confirm exact terms with the manufacturer.
+  - q: How does the private-label process work?
+    a: Define the target market and spec, agree on labeling/MOQ/pricing, approve a pre-production sample, then produce and ship with full documentation.
+  - q: Why do distributors choose private label over a factory brand?
+    a: Brand ownership and equity, margin control, market-fit specification, and per-batch consistency under IATF 16949.
 ---
 
 # OEM & Private-Label Truck Battery Guide
@@ -49,12 +49,22 @@ sold under your own brand. It is how most battery distributors build a regional 
 4. **Produce** — full production order (20–45 days)
 5. **Ship** — full documentation and export support
 
+### Why the Sample Step Is Critical
+
+The pre-production sample is the point where any mismatch — a terminal type, a label color, a
+CCA target — is caught before it becomes a container-load of mistakes. Approving the sample in
+writing, against an agreed specification sheet, is the single most important risk-control step
+in a private-label program.
+
 ## Why Distributors Choose Private Label
 
 - **Brand ownership** — build equity in your own name
 - **Margin control** — no competing with the factory's retail brand
 - **Market fit** — match specs to your regional demand
 - **Consistency** — per-batch quality under IATF 16949
+
+For how to evaluate a factory before committing, see
+[truck battery brands compared](../brands-compared/index.md).
 
 ## About the DINWEY OEM Program
 
@@ -77,4 +87,3 @@ standards with MOQ of 1 × 20ft container and lead time of 20–45 days. Contact
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (OEM & private-label programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

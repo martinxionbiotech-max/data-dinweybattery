@@ -2,18 +2,18 @@
 description: AGM vs flooded battery for heavy-duty trucks — how absorbent glass mat and flooded lead-acid compare for vibration, cold starts, cycle life, charge acceptance and cost.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: Is AGM better than flooded for trucks?
     a: For demanding heavy-duty use, AGM generally outperforms flooded in cold starts, vibration resistance and charge acceptance, but costs more. Flooded remains a proven, economical choice for standard duty cycles.
   - q: Can I replace a flooded truck battery with an AGM?
-    a: In most cases yes, if the group size and voltage match and your charging system is compatible. AGM is sensitive to overcharging, so ensure your alternator voltage is within AGM spec.
+    a: Usually yes, if the group size, voltage and terminal orientation match. AGM offers better cycle life and vibration resistance at a higher price.
   - q: How much longer does an AGM battery last?
-    a: AGM typically offers roughly double the cycle life of flooded (600–1200 cycles vs 200–300 at 25°C), which can translate to longer service life in demanding applications.
+    a: AGM typically lasts longer than flooded in demanding duty — roughly 600–1200 cycles vs 200–300 for flooded — but actual life depends on conditions.
   - q: Do AGM batteries need special charging?
-    a: AGM batteries should not be overcharged. Charging voltage must be within AGM specification; many modern vehicles handle this automatically, but older alternators may need verification.
+    a: AGM benefits from a controlled charge profile within specification. Most modern vehicles handle AGM automatically, but a charger with an AGM setting is recommended.
   - q: Is AGM worth the extra cost for a fleet?
-    a: It depends on duty cycle. For high-vibration, start-stop or cold-climate fleets, AGM's longer life and reliability can justify the higher upfront cost. For standard conventional duty, flooded may be the better value.
+    a: In high-vibration, cold-climate or high-uptime fleets, AGM's longer service life and reliability often offset the higher price. In gentle duty, flooded is the better value.
 ---
 
 # AGM vs Flooded for Heavy-Duty Trucks
@@ -41,6 +41,19 @@ conventional use, flooded remains the economical choice.
 
 *Data from Chengguang Energy technical documentation.*
 
+## The Construction Difference
+
+The performance gap comes down to one design decision. In a flooded battery, the electrolyte
+is a free-flowing liquid. In AGM, that same electrolyte is absorbed into a thin glass-mat
+separator pressed between the plates. The result is three practical gains:
+
+- **Sealed and spill-proof** — no free liquid to leak, so it tolerates tilt and rough handling
+- **Vibration-resistant** — the compressed mat holds the plates rigidly, resisting shedding
+- **Higher charge acceptance** — the design accepts charge faster, useful in high-load vehicles
+
+This is also why AGM classifies as UN2800 (non-spillable) for shipping — see
+[battery shipping & transport](../battery-shipping-transport/index.md).
+
 ## When to Choose AGM
 
 - **High-vibration applications** — off-highway, mining, construction
@@ -61,6 +74,9 @@ and better reliability. In applications where a flooded battery is stressed (vib
 frequent starts), AGM's longer service life can offset its higher price. In gentle duty cycles,
 flooded remains the better value.
 
+The decision is not "which is better" but "which is better for *this* duty cycle." For a
+mid-tier option between the two, see [what is EFB](../what-is-efb/index.md).
+
 ## References
 
 1. [Battery Council International — VRLA / AGM technology](https://batterycouncil.org/)
@@ -75,4 +91,3 @@ flooded remains the better value.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (EFB & AGM commercial batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

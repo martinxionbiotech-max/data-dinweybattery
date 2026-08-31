@@ -1,19 +1,19 @@
 ---
-description: Truck battery shipping and transport rules — UN2800 dangerous goods classification, packaging and documentation for shipping wet and AGM lead-acid batteries.
+description: Truck battery shipping and transport rules — UN2794 vs UN2800 dangerous goods classification, IMDG sea freight requirements, and export documentation.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: Are truck batteries classified as dangerous goods?
-    a: Yes. Lead-acid batteries are classified as UN2794 (wet, filled with acid) under the UN dangerous goods system, and shipped under UN2800 when packed in a specific spill-proof arrangement. AGM (VRLA) batteries are generally classified as UN2800, non-spillable when they pass the required tests.
-  - q: What is UN2800?
-    a: UN2800 is the UN number for batteries, wet, non-spillable — including AGM and gel (VRLA) batteries that pass vibration and pressure tests. These are easier to ship than standard flooded wet batteries.
-  - q: Can truck batteries ship by sea?
-    a: Yes. Lead-acid batteries ship regularly by sea under the IMDG Code, provided they are correctly classified, packed and documented. AGM/VRLA batteries that meet the non-spillable criteria are the simplest to ship.
-  - q: What documentation do I need to ship batteries?
-    a: Typical documents include a commercial invoice, packing list, MSDS (Material Safety Data Sheet), and the appropriate dangerous-goods declaration where required. Your freight forwarder can confirm the exact set for your destination.
-  - q: Do DINWEY batteries ship worldwide?
-    a: Yes. Chengguang Energy exports to 70+ countries, with standard MOQ of 1 × 20ft container and lead time of 20–45 days. Full MSDS and shipping documentation are provided per batch.
+  - q: Are truck batteries dangerous goods for shipping?
+    a: Yes. Lead-acid truck batteries are classified as dangerous goods — UN2794 for wet flooded batteries, and UN2800 for non-spillable AGM/VRLA batteries that pass the relevant tests.
+  - q: What is the difference between UN2794 and UN2800?
+    a: UN2794 covers wet, acid-filled batteries; UN2800 covers non-spillable batteries (typically AGM/VRLA). UN2800 is exempt from some wet-battery requirements, making it simpler and cheaper to ship.
+  - q: How do truck batteries ship internationally?
+    a: By sea freight under the IMDG Code, with batteries secured against short circuit and movement, terminals protected, and full documentation (invoice, packing list, MSDS, dangerous goods declaration where required).
+  - q: What documentation is needed to ship batteries?
+    a: A commercial invoice, packing list, a current MSDS, and a dangerous-goods declaration where required. Some destination countries impose additional import requirements.
+  - q: Why is AGM easier to export than flooded?
+    a: AGM batteries that meet the non-spillable criteria classify as UN2800, which is exempt from some of the more onerous wet-battery requirements — a key reason AGM is attractive for export programs.
 ---
 
 # Truck Battery Shipping & Transport Rules
@@ -36,6 +36,14 @@ Truck starting batteries are lead-acid, which the UN system classifies as danger
     UN2800 (non-spillable) batteries are simpler and cheaper to ship because they are exempt
     from some of the more onerous wet-battery requirements — one reason AGM is attractive for
     export programs.
+
+### What "Non-Spillable" Actually Means
+
+A battery qualifies as UN2800 only if it passes a vibration and pressure-differential test
+proving the electrolyte will not leak even if the case is cracked. AGM and VRLA batteries meet
+this because the electrolyte is absorbed in the glass mat, not free-flowing. This is not a
+label any battery can claim — it is a test result, so confirm the classification with your
+manufacturer before declaring it on shipping documents.
 
 ## How Truck Batteries Ship
 
@@ -77,4 +85,3 @@ For export terms and destination-specific requirements, contact
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (shipping documentation) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

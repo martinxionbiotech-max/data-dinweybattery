@@ -1,19 +1,19 @@
 ---
-description: 12V vs 24V truck electrical systems explained — which voltage your truck uses, how series wiring works for heavy-duty vehicles, and the pros and cons of each.
+description: 12V vs 24V truck electrical systems — why light trucks use 12V and heavy trucks use 24V, how series wiring works, and how to choose batteries for each.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: Why do heavy trucks use 24V instead of 12V?
-    a: A 24V system halves the current for the same power, allowing thinner wiring, less voltage drop and more reliable cranking of large diesel engines. Light vehicles stay with 12V for simplicity and lower cost.
-  - q: How is a 24V truck system built?
-    a: It is typically built from two 12V batteries connected in series. In series, voltages add (12V + 12V = 24V) while the current stays the same.
-  - q: Can I replace just one battery in a 24V pair?
-    a: It is strongly recommended to replace both batteries as a matched pair of the same model, age and rating. Mismatched batteries charge and discharge unevenly, shortening service life.
-  - q: What happens if I wire two 12V batteries in parallel?
-    a: Wiring in parallel doubles capacity (Ah) but keeps the voltage at 12V. Use series for 24V systems and parallel for 12V systems needing longer runtime.
-  - q: How do I know if my truck is 12V or 24V?
-    a: Check the battery compartment — a 24V system has two 12V batteries wired in series — or read your vehicle manual. Light trucks are 12V; heavy trucks and buses are usually 24V.
+  - q: Do trucks use 12V or 24V?
+    a: Light trucks and pickups use 12V; heavy trucks, semi trailers and buses use 24V systems built from two 12V batteries in series.
+  - q: Why do heavy trucks use 24V?
+    a: 24V halves the current for the same power, allowing thinner wiring, lower voltage drop and more reliable cranking of large diesel engines.
+  - q: How is a 24V system built?
+    a: Two 12V batteries are wired in series — voltage adds (12V + 12V = 24V) while current stays the same.
+  - q: Do I need matching batteries for a 24V system?
+    a: Yes. Use two identical 12V batteries of the same model, rating, age and batch, and always replace both together.
+  - q: Can I wire two 12V batteries in parallel for more power?
+    a: Parallel wiring doubles capacity (Ah) but stays at 12V. It does not give 24V — use series for 24V systems.
 ---
 
 # 12V vs 24V Truck Electrical Systems
@@ -47,11 +47,21 @@ In series, voltages add (12V + 12V = 24V) while the current stays the same.
 | Two 12V in series | 24V | Halved current | Heavy trucks, buses |
 | Two 12V in parallel | 12V | Doubled capacity | Extended runtime |
 
+## The Physics: Why Voltage Wins for Big Engines
+
+Power is voltage × current. To crank a large diesel engine you need a lot of power. You can
+deliver it either as high current at 12V, or half the current at 24V. Halving the current means
+thinner cables, less voltage drop over long runs, and less heat at every connection — which is
+why the industry standardized on 24V for heavy trucks rather than running ever-thicker 12V
+cables.
+
 ## Choosing Batteries for a 24V System
 
 - Use **two identical 12V batteries** — same model, rating, age and ideally the same batch.
 - For maximum 24V cranking power, two JIS 190H52 (N200) or two DIN 60038 (DIN100) units.
 - **Always replace both together** to keep charging balanced.
+
+For the step-by-step wiring procedure see [24V wiring guide](../24v-wiring-guide/index.md).
 
 ## Common Mistakes
 
@@ -70,3 +80,7 @@ In series, voltages add (12V + 12V = 24V) while the current stays the same.
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [Truck Battery Selection Guide](../selection-guide/index.md)
 - [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/24v/) (24V battery systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.

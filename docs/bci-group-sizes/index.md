@@ -1,19 +1,19 @@
 ---
-description: BCI battery group sizes explained — Group 31, 8D, 4D dimensions, terminals and typical truck applications, plus how they compare to JIS and DIN truck battery standards.
+description: BCI battery group sizes explained — Group 31 vs 8D vs 4D physical dimensions, terminal layout, and why group size is about fit, not starting power.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: What is the difference between BCI Group 31 and Group 8D?
-    a: Group 8D is a large legacy size (~527×283×250mm) used in large trucks and generators; Group 31 (~330×173×240mm) is smaller and lighter but delivers comparable CCA, so it is increasingly replacing 8D in modern trucks.
+  - q: What is a BCI group size?
+    a: The BCI group size is a code defining a battery's physical dimensions, terminal type and terminal orientation. It does not define CCA or capacity — two Group 31 batteries can have very different CCA ratings.
+  - q: What group size do heavy-duty trucks use?
+    a: Group 31 is the modern standard for Class 7–8 trucks and off-highway equipment. Group 8D and 4D are large legacy sizes still found in older trucks and generators.
+  - q: Is Group 8D the same as Group 31?
+    a: No. Group 8D is a larger, heavier legacy size; Group 31 delivers comparable CCA in a smaller package. Check your tray before switching.
   - q: Does a bigger group size mean more power?
-    a: No. Group size is about physical dimensions; CCA is about starting power. Two Group 31 batteries can have very different CCA ratings — always verify CCA independently of group size.
-  - q: Are BCI, JIS and DIN group sizes interchangeable?
-    a: Not directly. Each standard uses its own sizing system. JIS uses model codes (N150/N200), DIN uses capacity codes (DIN88/DIN100), and BCI uses group numbers (31/8D). Always match the standard your vehicle uses.
-  - q: Does DINWEY stock BCI Group 31 batteries?
-    a: DINWEY produces BCI-standard batteries on request (made-to-order) via the Chengguang Energy BCI production line. Core stocked lines are JIS and DIN.
-  - q: Is BCI the same as JIS or DIN?
-    a: No. BCI, JIS and DIN are three separate sizing systems used in different markets (North America, Asia, and Europe respectively). They are not directly interchangeable.
+    a: No. Group size defines physical dimensions; CCA defines starting power. Always verify both independently.
+  - q: Why does group size matter for replacement?
+    a: The battery must physically fit the tray and hold-down, and the terminal type and left/right positive position must match your cables.
 ---
 
 # BCI Group Sizes Explained
@@ -56,6 +56,17 @@ capacity) — two Group 31 batteries can have very different CCA ratings.
 A common mistake is assuming a larger group size means more power. Group size is about
 **dimensions**; CCA is about **starting power**. Always verify both independently.
 
+The two dimensions are independent by design. A compact Group 31 with a high-CCA plate design
+can out-crank a physically larger battery — which is exactly why the industry has migrated
+from 8D to 31 for new trucks. When replacing, capture *both* the group size and the CCA from
+the old battery, not one or the other.
+
+## BCI vs JIS vs DIN
+
+BCI is only one of three regional sizing systems. North American trucks use BCI groups; Asian
+and African markets use JIS (N150/N200); European markets use DIN (DIN88/DIN100). They are not
+interchangeable — see [JIS vs DIN vs BCI standards](../jis-vs-din-vs-bci/index.md).
+
 ## References
 
 1. [Battery Council International](https://batterycouncil.org/)
@@ -66,3 +77,7 @@ A common mistake is assuming a larger group size means more power. Group size is
 - [Truck Battery Selection Guide](../selection-guide/index.md)
 - [DINWEY JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/)
 - [DINWEY BCI batteries (on request)](https://dinweysbattery.com/products/bci-request/)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/bci-request/) (BCI on request) or [contact us](https://dinweysbattery.com/contact/) for a quote.

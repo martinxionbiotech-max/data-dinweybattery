@@ -1,19 +1,19 @@
 ---
-description: 7 signs your truck battery is dying — slow cranking, dim lights, swelling case, sulfur smell, and more warning signs to replace a battery before it strands you.
+description: 7 signs your truck battery is dying — slow cranking, dim lights, frequent jump-starts, swollen case, sulfur smell, age and corrosion, and what to do next.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: What are the first signs of a dying truck battery?
-    a: The most common early signs are slow or labored cranking, dimmer headlights, and the need for more frequent jump-starts. Any of these warrants a load test.
-  - q: How do I know if my battery is dying or the alternator is failing?
-    a: If the battery dies while driving, the alternator is likely at fault. If the engine cranks slowly or fails to start after sitting, the battery is the more likely culprit. A load test and charging-system check will confirm.
-  - q: Can a battery smell like rotten eggs?
-    a: Yes. A sulfur or rotten-egg smell indicates the battery is overheating and venting gas, which can signal overcharging or an internal fault. Handle with care and replace.
-  - q: How long should I let a truck battery last before replacing?
-    a: Heavy-duty truck batteries typically last 3–5 years. In harsh conditions (extreme heat, vibration, deep cycling) they may need replacement sooner.
-  - q: What should I do if my battery case is swollen?
-    a: A swollen or bulging case means the battery has been overcharged or overheated and is a safety risk. Stop using it and replace it promptly.
+  - q: What are the signs of a dying truck battery?
+    a: Slow cranking, dim or flickering lights, frequent jump-starts, a swollen case, a sulfur smell, age over 3–5 years, and corroded terminals are the main warning signs.
+  - q: What is the most common early sign of a failing battery?
+    a: Slow or labored cranking, especially when cold, is the most common early warning — the battery is losing cranking power.
+  - q: Is a swollen battery dangerous?
+    a: Yes. A swollen or bulging case indicates overcharging or overheating and is a safety risk — replace it promptly and handle with care.
+  - q: What does a sulfur smell from a battery mean?
+    a: A sulfur or rotten-egg smell means the battery is overheating and venting gas, usually from overcharging or an internal fault. Handle with care.
+  - q: What should I do if I see these signs?
+    a: Load-test the battery. A load test measures whether it still delivers rated CCA. If it fails, replace it with the correct group size and CCA for your truck.
 ---
 
 # 7 Signs Your Truck Battery Is Dying
@@ -62,6 +62,11 @@ If you see one or more of these signs, load-test the battery. A professional loa
 whether the battery still delivers its rated CCA. If it fails, replace it with the correct
 group size and CCA for your truck.
 
+The key point is to act on the *first* sign rather than waiting for several. A slow crank in
+September becomes a no-start in January — the decline is gradual, but the failure is sudden.
+For the test procedure see [how to test a truck battery](../how-to-test-battery/index.md), and
+for expected life see [how long does a truck battery last](../how-long-does-a-truck-battery-last/index.md).
+
 ## References
 
 1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
@@ -75,4 +80,3 @@ group size and CCA for your truck.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (Fleet & OEM battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

@@ -1,19 +1,19 @@
 ---
-description: Starting battery vs deep cycle battery for trucks — how SLI starting batteries and deep cycle batteries differ, and why you should never use a deep cycle for engine starting.
+description: Starting vs deep cycle batteries for trucks — why SLI batteries crank the engine and deep-cycle batteries run loads, and how to use both in the same vehicle.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is the difference between a starting and deep cycle battery?
-    a: A starting (SLI) battery delivers a short, high-current burst to crank the engine. A deep cycle battery delivers lower current over a long period and tolerates deep discharges. They are built differently and serve different purposes.
+    a: A starting (SLI) battery delivers a short, high-current burst to crank the engine. A deep cycle battery delivers lower current over a long time and tolerates deep discharge. They are built differently and are not interchangeable.
   - q: Can I use a deep cycle battery to start my truck?
-    a: It is not recommended. Deep cycle batteries are not designed for the high current of engine starting and will wear out quickly under that load. Use a proper starting battery.
-  - q: Can I use a starting battery for auxiliary loads?
-    a: Starting batteries are not designed for deep discharge. For heavy auxiliary loads (refrigeration, sleeper-cab power), use a separate deep cycle or dual-purpose battery.
+    a: Not recommended. Deep cycle batteries are not built for the high current of engine cranking and will degrade rapidly under that load.
+  - q: Can I run accessories off my starting battery?
+    a: No. Repeated deep discharge will quickly ruin a starting battery's thin plates. Use a separate deep cycle or auxiliary bank for continuous loads.
   - q: What is a dual-purpose battery?
-    a: A dual-purpose battery provides both starting power and some deep-cycle capability. It is a compromise for vehicles that need both but cannot fit two separate batteries.
-  - q: How do I power truck auxiliary equipment?
-    a: Use a separate deep cycle or auxiliary battery bank charged via an isolator or DC-DC charger, keeping the starting battery dedicated to engine starting.
+    a: A dual-purpose battery offers both starting power and some deep-cycle capability — a compromise for vehicles that need both but cannot fit two batteries. Separate batteries are better for demanding use.
+  - q: How do I power a reefer or lift gate?
+    a: Use a separate deep-cycle or AGM auxiliary bank isolated from the starting battery with a battery isolator or DC-DC charger.
 ---
 
 # Starting vs Deep Cycle Battery for Trucks
@@ -32,6 +32,14 @@ a starting battery for the engine and a separate deep cycle or auxiliary bank fo
 | Cycle life | 200–300 cycles | Hundreds to thousands |
 | Primary job | Crank the engine | Run loads, tolerate cycling |
 
+## Why the Plate Design Differs
+
+The difference is physical, not a marketing label. A starting battery has many thin plates,
+which maximizes the surface area exposed to electrolyte — that is what delivers the enormous
+short-duration current burst of cranking. A deep-cycle battery has fewer, thicker plates, which
+sacrifices some peak current in exchange for surviving repeated deep discharge without shedding
+active material. Asking one battery to do both jobs means compromising on both.
+
 ## Why You Should Not Mix Them Up
 
 - **Using a deep cycle to start** — deep cycle batteries are not built for the high current of
@@ -47,6 +55,9 @@ lift gates. The correct approach is:
 1. Keep the **starting battery** dedicated to engine cranking
 2. Add a **separate deep cycle or auxiliary bank** for auxiliary loads
 3. Isolate them with a battery isolator or DC-DC charger
+
+For a concrete example of this split, see
+[cold-chain & refrigerated transport](../cold-chain-refrigerated/index.md).
 
 ## What About Dual-Purpose Batteries?
 
@@ -68,4 +79,3 @@ applications, separate batteries are the better solution.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (starting batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-
