@@ -2,7 +2,7 @@
 description: Battery selection for long-haul trucking fleets — why 24V systems, high CCA and vibration resistance matter for over-the-road trucks, and how to specify batteries for maximum uptime.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What battery do long-haul trucks use?
     a: Long-haul trucks typically use a 24V system (two 12V batteries in series) with high CCA to crank large diesel engines. JIS markets use N150/N200; European markets use DIN88/DIN100.
@@ -47,12 +47,34 @@ Vibration is a leading cause of premature truck battery failure. Heavy-duty batt
 robust plate construction (often Pb-Sb thick-plate for the JIS heavy-duty range) to resist it.
 For high-vibration or demanding applications, AGM offers superior vibration resistance.
 
+Over-the-road vibration is cumulative: it is not a single hard impact that kills a battery, but
+millions of small oscillations that gradually shed active material from the plates and fatigue
+internal connections. This is why hold-down brackets are not optional — a battery that can move
+a few millimetres in its tray experiences far more damage than one locked firmly in place. For
+the full picture see [how to maintain a truck battery](../how-to-maintain-truck-battery/index.md).
+
+## The Auxiliary Load Problem
+
+A modern long-haul tractor carries electrical loads that did not exist a generation ago:
+sleeper-cab HVAC, refrigerators, inverters, telematics and hotel lighting. When these run
+with the engine off, they draw from the same batteries that must start the engine in the
+morning.
+
+This is why many fleets separate starting and auxiliary duties — a dedicated deep-cycle or
+AGM auxiliary bank for hotel loads, isolated from the starting batteries. Deep-cycling a
+starting battery shortens its life dramatically; see
+[starting vs deep cycle](../starting-vs-deep-cycle/index.md) for how to split the two.
+
 ## Fleet Best Practices
 
 1. **Standardize** on one or two group sizes and CCA ratings
 2. **Test proactively** — load-test at least annually, before winter
 3. **Track age** — replace at 3–5 years or when load-test fails
 4. **Match technology to duty** — flooded for standard, AGM for demanding
+
+Standardization is the quiet win here: a fleet that runs a single group size and CCA rating can
+stock fewer spares, train technicians on one battery, and negotiate better pricing. For the
+management framework see [fleet battery management](../fleet-battery-management/index.md).
 
 ## References
 
@@ -68,4 +90,3 @@ For high-vibration or demanding applications, AGM offers superior vibration resi
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (long-haul fleet batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

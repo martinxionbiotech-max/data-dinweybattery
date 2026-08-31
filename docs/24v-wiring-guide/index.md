@@ -1,8 +1,8 @@
 ---
-description: 24V truck battery wiring guide — how to wire two 12V batteries in series for 24V, correct terminal connections, and common wiring mistakes to avoid.
+description: 24V truck battery wiring guide — how to wire two 12V batteries in series for 24V, correct terminal connections, cable sizing, and common wiring mistakes to avoid.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: How do I wire two 12V batteries for 24V?
     a: Connect the positive terminal of battery 1 to the negative terminal of battery 2 with a jumper cable. The remaining positive terminal of battery 1 and negative terminal of battery 2 become the 24V output.
@@ -45,6 +45,11 @@ terminals. Always use two identical batteries and replace them as a pair.
 | Series (+ to −) | 24V, same capacity | Heavy trucks, buses |
 | Parallel (+ to +, − to −) | 12V, doubled capacity | Extended 12V runtime |
 
+The distinction matters because the two configurations solve opposite problems. Series raises
+voltage while holding amp-hours constant — that is what a 24V starter needs. Parallel holds
+voltage at 12V while doubling amp-hours — that is what a long 12V hotel-load runtime needs.
+Wiring one when you meant the other is the most common 24V mistake.
+
 ## Wiring Rules
 
 1. **Use two identical batteries** — same model, rating, age and batch.
@@ -53,12 +58,35 @@ terminals. Always use two identical batteries and replace them as a pair.
 4. **Use proper terminals** — clean, tight connections prevent voltage drop and heat.
 5. **Mark polarity clearly** — prevents costly reverse-connection mistakes.
 
+## Cable Sizing: Why 24V Allows Thinner Wire
+
+Power is voltage × current. A 24V system delivers the same cranking power as a 12V system at
+half the current, which means lower voltage drop over a given cable and — in principle —
+thinner, lighter wiring. This is one of the reasons heavy trucks moved to 24V in the first
+place.
+
+In practice, still size cables to the *actual* starter draw and total cable length: a long run
+on a large diesel engine can demand a heavy gauge even at 24V. When in doubt, follow the
+vehicle manufacturer's wiring diagram rather than guessing.
+
+## Charging a 24V Pair
+
+A 24V series pair needs a 24V charger. Two practical options:
+
+- Use a charger rated for **24V nominal** output, connected across the +24V and 0V terminals.
+- Or charge each **12V battery individually** by disconnecting the pair — slower, but safe and
+  simple when a 24V charger is not available.
+
+A 12V charger connected across the full pair will not charge it properly and can leave the two
+batteries imbalanced.
+
 ## Common Mistakes
 
 - Wiring in parallel when 24V is needed (stays 12V)
 - Replacing only one battery of the pair
 - Mixing flooded and AGM batteries in the same pair
 - Loose or corroded jumper connections
+- Charging the whole pair with a 12V charger
 
 ## References
 
@@ -69,3 +97,7 @@ terminals. Always use two identical batteries and replace them as a pair.
 - [12V vs 24V systems](../12v-vs-24v/index.md)
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/24v/) (24V battery systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.

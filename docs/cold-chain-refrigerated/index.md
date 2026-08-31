@@ -1,19 +1,19 @@
 ---
-description: Battery selection for cold-chain and refrigerated transport — how refrigeration loads and engine-off operation affect truck battery requirements.
+description: Battery selection for cold-chain and refrigerated trucks — why reefers need a starting battery plus a separate deep-cycle auxiliary bank, and how to configure both.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: What battery does a refrigerated truck need?
-    a: A refrigerated truck needs a starting battery with adequate CCA for the engine, plus a separate deep cycle or auxiliary battery bank for the refrigeration unit — the two loads should not share a single starting battery.
-  - q: Why do reefer trucks need separate batteries?
-    a: The refrigeration unit draws continuous power and can deep-discharge a starting battery, which is not designed for that. A separate auxiliary bank protects the starting battery and keeps the refrigeration running.
-  - q: Do cold-chain trucks need more CCA?
-    a: The starting battery still needs CCA matched to the engine and climate. The refrigeration load is handled by the auxiliary bank, not by raising the starting battery's CCA.
-  - q: How is a reefer truck's electrical system configured?
-    a: Typically the starting battery is dedicated to engine cranking, while a separate deep cycle or auxiliary bank powers the refrigeration unit, isolated via a battery isolator or DC-DC charger.
-  - q: How long should a reefer battery last?
-    a: With a properly sized and isolated auxiliary bank and regular charging, a reefer truck starting battery typically lasts 3–5 years, similar to other heavy-duty truck batteries.
+  - q: What battery does a reefer truck need?
+    a: A refrigerated truck needs two separate systems: a starting battery for the engine (matched CCA), and a deep-cycle or AGM auxiliary bank for the refrigeration unit.
+  - q: Can I run the reefer off the starting battery?
+    a: No. The refrigeration unit draws continuously and will deep-discharge a starting battery, damaging it and risking a no-start. Use a separate auxiliary bank.
+  - q: What battery is best for the refrigeration unit?
+    a: Deep-cycle batteries (or AGM) are best for the reefer's continuous draw, as they tolerate repeated discharge better than starting batteries.
+  - q: How do I keep the reefer from draining the starting battery?
+    a: Use a battery isolator or DC-DC charger to separate the starting battery from the auxiliary bank, so the reefer cannot drain the starting battery.
+  - q: How do I size the auxiliary bank for a reefer?
+    a: Size it to the reefer unit's continuous current draw and the required runtime between charges. Confirm the unit's current draw from its specification.
 ---
 
 # Batteries for Cold-Chain & Refrigerated Transport
@@ -41,6 +41,9 @@ a reefer off the starting battery will:
 - Shorten its service life dramatically
 - Risk a no-start when the truck needs to move
 
+The failure mode is the worst kind: the truck starts fine on the lot, then strands the driver
+mid-route because the reefer quietly drained the starting battery during an overnight stop.
+
 ## Recommended Configuration
 
 1. **Starting battery** — dedicated to engine cranking, matched CCA to the engine and climate
@@ -48,11 +51,23 @@ a reefer off the starting battery will:
 3. **Isolation** — a battery isolator or DC-DC charger prevents the reefer from draining the
    starting battery
 
+### Isolator vs DC-DC Charger
+
+A basic **battery isolator** simply blocks current from flowing back from the auxiliary bank to
+the starting battery when the engine is off. A **DC-DC charger** does more: it provides a
+proper multi-stage charge to the auxiliary bank, which matters for deep-cycle batteries that
+need a controlled charge profile. For a reefer that runs for hours, a DC-DC charger is the
+better investment because it keeps the auxiliary bank healthy over many cycles.
+
 ## Battery Selection Tips
 
 - Match the starting battery's group size and CCA to the vehicle (JIS N150/N200, DIN88/DIN100)
 - Size the auxiliary bank to the reefer unit's continuous draw and required runtime
 - Consider AGM for the auxiliary bank — it tolerates cycling better than flooded
+
+For how deep-cycle batteries differ from starting batteries, see
+[starting vs deep cycle](../starting-vs-deep-cycle/index.md). For runtime planning, see
+[what is reserve capacity](../what-is-reserve-capacity/index.md).
 
 ## References
 
@@ -68,4 +83,3 @@ a reefer off the starting battery will:
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet battery solutions) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

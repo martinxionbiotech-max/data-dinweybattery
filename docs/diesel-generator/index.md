@@ -1,8 +1,8 @@
 ---
-description: Battery selection for diesel generators — how generator starting batteries differ from vehicle batteries and how to choose the right one.
+description: Battery selection for diesel generators — how generator starting batteries differ from vehicle batteries, the standby sulfation problem, and how to choose the right one.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What battery does a diesel generator use?
     a: Diesel generators use a starting battery matched to the engine's cranking requirement, often a heavy-duty flooded or AGM battery. Larger generators may use 24V starting systems.
@@ -32,6 +32,10 @@ Generator batteries face a different challenge than vehicle batteries:
 | Main risk | Vibration, cycling | Sulfation from sitting discharged |
 | Charging | Alternator while driving | Maintainer / float charger |
 
+The irony of standby power is that the component most likely to fail is the one that gets used
+least. A generator engine that starts a dozen times a year still relies on a battery that must
+deliver full cranking current on the one day it is actually needed — often in an emergency.
+
 ## Selection Criteria
 
 1. **CCA** — match the generator engine's cranking requirement (large diesels need 850–1100+
@@ -47,12 +51,26 @@ A battery left partially discharged sulfates — lead sulfate crystals harden on
 permanently reducing capacity. Standby generators are especially vulnerable because they sit
 idle. The fix is a float charger that keeps the battery at full charge.
 
+Sulfation is progressive and largely invisible until it is too late. A standby battery that
+sits at 70% charge for months will start the generator fine on a mild day, then fail on the
+cold night when the engine oil is thick and every amp matters. This is why the float charger is
+not optional equipment for a standby unit — it is the difference between a generator that
+starts and one that does not.
+
 ## Maintenance for Generator Batteries
 
 - **Keep on a maintainer** — prevents sulfation during idle periods
 - **Test annually** — load-test to confirm the battery still delivers rated CCA
 - **Clean terminals** — corrosion adds resistance at the worst time
 - **Replace proactively** — at 3–5 years or when load-test fails
+
+## 24V and Larger Installations
+
+Large industrial generators often use 24V starting systems for the same reason heavy trucks do:
+halving the current for the same power. If the generator uses two 12V batteries in series, the
+matched-pair rule applies — replace both together, same model and age. See
+[12V vs 24V systems](../12v-vs-24v/index.md) and
+[24V wiring guide](../24v-wiring-guide/index.md).
 
 ## References
 
@@ -68,4 +86,3 @@ idle. The fix is a float charger that keeps the battery at full charge.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/24v/) (24V battery systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

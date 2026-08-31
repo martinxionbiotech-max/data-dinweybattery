@@ -1,19 +1,19 @@
 ---
-description: Calcium vs antimony lead-acid truck batteries — how Ca-Ca and Pb-Sb grid alloys differ in water loss, self-discharge, deep-cycle tolerance and cost.
+description: Calcium vs antimony lead-acid grid alloys — why Pb-Sb thick-plate grids suit heavy-duty truck batteries and Ca-Ca suits conventional SLI, with a comparison table.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is the difference between calcium and antimony batteries?
-    a: Calcium-calcium (Ca-Ca) batteries use calcium alloy grids, giving low water loss and self-discharge. Lead-antimony (Pb-Sb) batteries tolerate deep cycling better and are used in heavy-duty batteries, but consume more water.
-  - q: Which is better for a truck, calcium or antimony?
-    a: For conventional truck starting, Ca-Ca is low-maintenance and economical. For heavy-duty applications with vibration and deeper cycling, antimony (Pb-Sb) grids are more robust — which is why DINWEY heavy-duty batteries use Pb-Sb.
-  - q: Do antimony batteries need more maintenance?
-    a: Yes. Antimony grids cause higher water consumption, so Pb-Sb batteries historically needed regular topping-up. Modern maintenance-free designs reduce this, but the characteristic remains.
-  - q: What does Ca-Ca mean?
-    a: Ca-Ca means both the positive and negative grids use calcium alloy, which reduces water loss and self-discharge, making the battery low-maintenance.
-  - q: Are calcium batteries maintenance-free?
-    a: Calcium batteries have low water loss and are usually marketed as low- or maintenance-free. Antimony batteries have higher water loss and may need periodic topping up with distilled water.
+    a: Calcium-calcium (Ca-Ca) grids give low water loss and self-discharge, ideal for low-maintenance conventional batteries. Lead-antimony (Pb-Sb) grids tolerate vibration and deeper cycling better, which is why heavy-duty truck batteries often use them.
+  - q: Why do heavy-duty truck batteries use antimony?
+    a: Antimony strengthens the lead grid and improves deep-cycle and vibration tolerance — exactly what commercial trucks demand — at the cost of higher water consumption.
+  - q: Are calcium batteries better than antimony?
+    a: It depends on the application. Calcium is better for low-maintenance conventional vehicles; antimony is better for heavy-duty trucks and equipment that endure vibration and deeper discharge.
+  - q: What is a maintenance-free battery made of?
+    a: Maintenance-free batteries typically use calcium or calcium-tin grid alloys, which reduce water loss and self-discharge so the battery rarely needs topping up.
+  - q: Which grid alloy does DINWEY use?
+    a: DINWEY heavy-duty batteries (like the JIS 145G51 and 190H52) use Pb-Sb thick-plate construction for vibration and deep-cycle tolerance in commercial vehicles.
 ---
 
 # Calcium vs Antimony Lead-Acid for Trucks
@@ -36,6 +36,21 @@ conducts current. The alloy used changes the battery's behavior:
 
 *Data from Chengguang Energy technical documentation.*
 
+## The Underlying Trade-Off
+
+The alloy choice is a trade-off between two competing properties:
+
+- **Antimony** makes the grid mechanically strong and resistant to the corrosion and
+  deep-discharge damage that heavy-duty cycling causes. The price is higher water consumption
+  (it promotes gassing) and higher self-discharge.
+- **Calcium** reduces gassing and self-discharge dramatically, which is what makes a battery
+  "maintenance-free" and stable in storage. The price is a grid that is more brittle under
+  vibration and less tolerant of deep discharge.
+
+This is why the two alloys dominate different markets: calcium for the low-maintenance
+passenger and light-duty world, antimony for the heavy-duty commercial world where vibration
+and cycling are the real killers.
+
 ## Calcium-Calcium (Ca-Ca)
 
 - **Pros** — low water loss, low self-discharge, low maintenance
@@ -51,6 +66,12 @@ conducts current. The alloy used changes the battery's behavior:
 This is why DINWEY heavy-duty batteries (like the JIS 145G51 and 190H52) use **Pb-Sb
 thick-plate** construction — it stands up to the vibration and duty cycles of commercial
 vehicles.
+
+## A Note on Maintenance-Free Heavy-Duty
+
+Heavy-duty batteries can still be low-maintenance: a Pb-Sb battery with good-quality alloying
+and a sealed or low-gassing design reduces topping-up frequency. The trade-off is not binary —
+modern heavy-duty designs balance antimony's strength with reduced-maintenance construction.
 
 ## Which Should You Choose?
 
@@ -72,4 +93,3 @@ offers a lower-maintenance, economical option.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

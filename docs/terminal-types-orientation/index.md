@@ -1,22 +1,22 @@
 ---
-description: Truck battery terminal types and group size orientation — JIS type A/D, European conical (T1), left vs right positive, and hold-down systems explained.
+description: Truck battery terminal types and orientation — JIS A/D posts vs DIN conical T1 terminals, positive terminal position, and hold-down systems explained.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: What are the different truck battery terminal types?
-    a: JIS batteries use type A (large post) or type D (small post). European DIN batteries use the conical T1 terminal (19.5mm positive, 17.9mm negative). BCI batteries use SAE posts.
-  - q: What does left positive vs right positive mean?
-    a: It refers to which side the positive terminal is on when viewing the battery from the front. JIS batteries are typically right-positive; DIN batteries are typically left-positive.
+  - q: What is the difference between JIS and DIN battery terminals?
+    a: JIS batteries use type A/D posts (larger positive, smaller negative); DIN batteries use the conical T1 terminal (19.5 mm positive, 17.9 mm negative). They are not interchangeable without adapters.
+  - q: What does "right positive" mean on a battery?
+    a: "Right positive" (R) means the positive terminal is on the right when you look at the battery from the terminal side. JIS batteries are typically right-positive; DIN batteries are typically left-positive.
   - q: How do I know my battery's terminal orientation?
-    a: Check the existing battery's terminal positions or your vehicle manual. Installing a battery with the wrong orientation can stress cables and cause short circuits.
-  - q: What is a B13 hold-down?
-    a: B13 is the DIN bottom-bracket hold-down system, where the battery base has a lip gripped by the vehicle tray clamp. JIS batteries typically use a B0 top-frame clamp.
-  - q: Can I change a battery's terminal orientation?
-    a: No — orientation is fixed by the battery's internal layout. Always order the correct left-positive or right-positive configuration; using the wrong one can cause reversed-polarity damage.
+    a: Look at the battery from the terminal side. If the positive terminal is on the right, it is right-positive (R/0); if on the left, it is left-positive (L/1).
+  - q: Can I use a DIN battery in a JIS vehicle?
+    a: Only with care. The terminal types and orientation differ, so you may need terminal adapters and must confirm the positive-terminal position matches your cables and tray.
+  - q: What hold-down system does my truck use?
+    a: JIS vehicles typically use a B0 top-frame clamp; European (DIN) vehicles typically use a B13 bottom bracket. Match the hold-down to your vehicle's battery tray.
 ---
 
-# Truck Battery Terminal Types & Group Size Orientation
+# Truck Battery Terminal Types & Orientation
 
 **TL;DR** — Terminals and orientation matter as much as size. JIS batteries use type A/D
 posts (typically right-positive); DIN batteries use the conical T1 terminal (typically
@@ -30,12 +30,22 @@ left-positive). Match the terminal type and orientation to your cables.
 | D | JIS standard small post | 12.5 mm | 11.0 mm | JIS N40–N50 |
 | A (Euro) | European conical (T1) | 19.5 mm | 17.9 mm | DIN batteries |
 
+### Why the Taper Matters
+
+The conical DIN T1 terminal is deliberately tapered so the clamp tightens as it is driven
+down — a secure, self-locking fit. JIS A/D posts, by contrast, are cylindrical and rely on a
+bolt-tightened clamp. The two are not interchangeable: a DIN cable clamp on a JIS post (or
+vice versa) will not grip correctly, leading to resistance, heat and poor cranking.
+
 ## Positive Terminal Position
 
 | Code | Positive position | Common in |
 |---|---|---|
 | 0 / R | Right-hand side | JIS batteries (Japanese vehicles) |
 | 1 / L | Left-hand side | DIN batteries (European vehicles) |
+
+To read the orientation, look at the battery **from the terminal side** (the side where the
+posts are, not the top). If the positive post is on your right, it is right-positive.
 
 ## Hold-Down Systems
 
@@ -45,7 +55,8 @@ left-positive). Match the terminal type and orientation to your cables.
 | B13 | Bottom bracket | DIN batteries |
 
 The B13 bottom bracket is standard on European vehicles; the B0 top-frame clamp is standard on
-JIS vehicles.
+JIS vehicles. A battery that physically fits the tray but uses the wrong hold-down can shift
+under vibration — which is exactly what shortens battery life in trucks.
 
 ## Why Orientation Matters
 
@@ -71,4 +82,3 @@ and vehicle.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

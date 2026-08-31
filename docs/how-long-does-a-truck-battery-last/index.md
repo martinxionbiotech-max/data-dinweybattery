@@ -2,7 +2,7 @@
 description: How long does a truck battery last? Typical 3–5 year lifespan, the factors that shorten it (heat, vibration, deep discharge), and how to extend truck battery life.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: How long should a truck battery last?
     a: A heavy-duty truck battery typically lasts 3–5 years. In harsh conditions — extreme heat, heavy vibration or frequent deep discharges — it may fail sooner.
@@ -32,9 +32,27 @@ and replace proactively rather than waiting for a failure.
 
 These are general figures. Actual life depends heavily on conditions.
 
+## Why "3–5 Years" Is a Range, Not a Promise
+
+The 3–5 year figure is an average, not a guarantee. Two identical batteries in the same fleet
+can diverge by years depending on where each vehicle operates. The lifespan is set by a
+handful of physical processes:
+
+- **Grid corrosion** — the lead grid that holds the active material slowly corrodes over time;
+  heat accelerates this exponentially.
+- **Active-material shedding** — vibration and cycling physically dislodge paste from the plates.
+- **Sulfation** — if the battery sits in a low state of charge, lead sulfate hardens on the
+  plates and becomes difficult to reverse, permanently reducing capacity.
+
+Understanding which of these dominates tells you where to focus maintenance. A battery that
+fails from sulfation was under-charged; one that fails from shedding was vibrated or
+deep-cycled; one that fails from grid corrosion simply aged out in a hot environment.
+
 ## The Factors That Shorten Life
 
 1. **Heat** — the single biggest aging factor. High temperatures accelerate internal corrosion.
+   Roughly, every sustained temperature rise shortens life; engine bays in hot climates are
+   the worst case.
 2. **Vibration** — loose hold-downs cause plate damage and internal shorts.
 3. **Deep discharge** — draining the battery below ~50% repeatedly reduces cycle life.
 4. **Overcharging** — cooks the electrolyte and damages plates.
@@ -48,10 +66,19 @@ These are general figures. Actual life depends heavily on conditions.
 - **Avoid deep discharges** — don't run accessories with the engine off.
 - **Load-test annually** — catch a weak battery before it fails.
 
+For the full maintenance procedure see
+[how to maintain a truck battery](../how-to-maintain-truck-battery/index.md).
+
 ## When to Replace Proactively
 
 For fleet reliability, consider replacing batteries at the 3–5 year mark, or sooner if they
 fail a load test. The cost of a proactive replacement is far lower than a roadside breakdown.
+
+A practical rule: track each battery's install date, and flag anything approaching three years
+for a load test before the cold season. A battery that passes at three years may still fail at
+four — the point of annual testing is to catch the decline curve, not to predict an exact
+failure date. See [7 signs your truck battery is dying](../7-signs-dying-battery/index.md) for
+the early warnings.
 
 ## References
 
@@ -66,4 +93,3 @@ fail a load test. The cost of a proactive replacement is far lower than a roadsi
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

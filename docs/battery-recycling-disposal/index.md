@@ -1,19 +1,19 @@
 ---
-description: Truck battery recycling and disposal — why lead-acid is the world's most recycled product, and how to recycle commercial batteries responsibly.
+description: Truck battery recycling and disposal — why lead-acid is the world's most recycled product, what gets recovered, and how to recycle or dispose of a truck battery safely.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: Are lead-acid batteries recyclable?
-    a: Yes. Lead-acid batteries are the most recycled consumer product in the world — the lead, plastic and electrolyte can all be recovered and reused in new batteries.
-  - q: What happens to a recycled truck battery?
-    a: The battery is broken down: lead plates are melted and reused, the plastic case is recycled into new cases, and the electrolyte is neutralized or reclaimed. Most of a battery's material is recovered.
-  - q: Is it illegal to throw away a lead-acid battery?
-    a: In most countries, yes — lead is toxic and batteries must be returned to a retailer, recycler or collection point rather than disposed of in general waste.
-  - q: Can I sell old truck batteries?
-    a: Many scrap dealers and recyclers pay for used lead-acid batteries because of their recoverable lead value. Check local regulations and use a licensed recycler.
-  - q: How should I store old batteries before recycling?
-    a: Store them upright, away from ignition sources, and on a surface that will not be damaged by any acid. Keep terminals from short-circuiting and recycle promptly.
+  - q: Can I throw a truck battery in the trash?
+    a: No. Lead-acid batteries contain toxic lead and corrosive sulfuric acid and must be returned to a licensed recycler or collection point — not general waste.
+  - q: Are lead-acid batteries really recycled?
+    a: Yes — lead-acid batteries are the most recycled product globally, with the lead, plastic and electrolyte all recovered and reused. Most of the lead in a new battery comes from recycled batteries.
+  - q: Can I get money for an old truck battery?
+    a: In many markets, yes. Recyclers pay for used lead-acid batteries for their recoverable lead, so an old battery often has a scrap value.
+  - q: How do I store old batteries before recycling?
+    a: Store upright, away from ignition sources, on an acid-safe surface, with terminals protected from short circuits. Recycle promptly — do not accumulate old batteries.
+  - q: What happens to the recycled materials?
+    a: Lead is melted and refined for reuse in new batteries, the plastic case is reground into new cases, and the electrolyte is neutralized or reclaimed as sodium sulfate.
 ---
 
 # Truck Battery Recycling & Disposal
@@ -27,6 +27,14 @@ return it to a licensed recycler or collection point.
 Lead-acid batteries are widely recognized as the most recycled consumer product globally.
 Because the materials (lead, plastic, electrolyte) are all recoverable, the recycling loop is
 highly efficient — a large portion of the lead in a new battery comes from recycled batteries.
+
+### Why Lead-Acid Is So Recyclable
+
+The reason is practical, not sentimental: the battery is heavy, toxic and — crucially —
+*nearly 100% recoverable*. A lead-acid battery is essentially a box of lead plates in a
+plastic case filled with acid, with no exotic materials to separate. The economics of recovery
+are so favorable that an established collection and smelting industry has grown up around it,
+which is why scrap value is often paid for used batteries.
 
 ## What Gets Recovered
 
@@ -64,9 +72,7 @@ disposed of in general waste.
 ## References
 
 1. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
-2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
 
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (contact DINWEY) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-
