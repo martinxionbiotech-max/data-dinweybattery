@@ -89,3 +89,27 @@
   border-radius: 10px;
   border-left-width: 4px;
 }
+
+/* Visible FAQ section (matches FAQPage schema) */
+.dw-faq {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 2px solid rgba(245, 166, 35, 0.55);
+}
+.dw-faq h2 {
+  border-bottom: none;
+}
+.dw-faq-item {
+  padding: 0.85rem 1rem;
+  margin: 0.75rem 0;
+  background: var(--dinwey-bg-soft);
+  border-left: 3px solid var(--dinwey-amber);
+  border-radius: 6px;
+}
+.dw-faq-item h3 {
+  margin-top: 0;
+  font-size: 1.02rem;
+}
+.dw-faq-item p {
+  margin-bottom: 0;
+}

@@ -211,6 +211,18 @@
 
   {{ page.content }}
 
+  {% if page.meta and page.meta.faq %}
+  <section class="dw-faq" aria-label="Frequently asked questions">
+    <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+    {% for item in page.meta.faq %}
+    <div class="dw-faq-item">
+      <h3 id="faq-{{ loop.index }}">{{ item.q }}</h3>
+      <p>{{ item.a }}</p>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
   {% if page.meta and page.meta.type == 'article' %}
   <div class="dw-byline dw-byline--foot" role="note" aria-label="Correction and sourcing policy">
     <span class="dw-data-note">
