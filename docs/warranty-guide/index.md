@@ -1,8 +1,8 @@
 ---
-description: Truck battery warranty guide — what battery warranties cover, pro-rated vs free replacement, and how to read warranty terms before buying.
+description: Truck battery warranty guide — what battery warranties cover, free replacement vs pro-rated, typical coverage periods, what voids a claim, and how to file one.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What does a truck battery warranty cover?
     a: Battery warranties typically cover manufacturing defects and premature failure, with either a free-replacement period followed by a pro-rated (partial credit) period. They do not usually cover damage from misuse or deep discharge.
@@ -44,6 +44,14 @@ It typically does **not** cover:
 
 Many warranties combine both: a free-replacement period, then a pro-rated period.
 
+### How Pro-Rating Is Calculated
+
+In a pro-rated claim, the credit is usually proportional to the *unused* portion of the
+warranty. If a battery has a 24-month pro-rated warranty and fails at month 18, you have 6 of
+24 months remaining — roughly 25% credit toward a replacement. The exact formula, and whether
+it is based on list price or a replacement price, is defined by each manufacturer, so always
+read the terms before assuming a credit amount.
+
 ## Typical Coverage Periods
 
 | Battery type | Common warranty range |
@@ -54,12 +62,39 @@ Many warranties combine both: a free-replacement period, then a pro-rated period
 
 *Coverage varies by manufacturer — always confirm the specific terms.*
 
+## What Voids a Warranty
+
+The most common claim rejections come from a handful of causes:
+
+- **Deep discharge** — running the battery flat, especially repeatedly, ages it fast and is
+  usually treated as misuse rather than a defect
+- **Incorrect installation** — reversed polarity, wrong group size, loose or corroded terminals
+- **Physical damage** — dropped, cracked or punctured cases
+- **Charging-system faults** — an over- or under-charging alternator that damages the battery
+  is not the battery's fault
+- **Use outside specification** — e.g., a starting battery used for deep-cycle service
+
+For how to avoid the deep-discharge failure mode, see
+[how to maintain a truck battery](../how-to-maintain-truck-battery/index.md).
+
 ## How to Protect Your Claim
 
 1. **Keep proof of purchase** and installation date
-2. **Record the vehicle and application**
+2. **Record the vehicle and application** — which truck, and the group size fitted
 3. **Have a load test done** — claims usually require confirming the battery failed
 4. **Read the exclusions** — know what voids coverage
+
+A load test is the key evidence in almost every claim: it distinguishes a genuinely failed
+battery from one that is simply discharged or suffering a charging-system fault. See
+[how to test a truck battery](../how-to-test-battery/index.md) for the procedure.
+
+## A Note on B2B and Fleet Purchases
+
+Commercial battery purchases often run on different terms than retail — warranty, return and
+replacement policies are typically defined in the written quotation or supply agreement rather
+than on a retail label. Fleet operators should confirm warranty terms at the RFQ stage and
+record them alongside the purchase order, since batch traceability (batch number, production
+date) is usually what the manufacturer needs to process a claim quickly.
 
 ## References
 
@@ -73,5 +108,4 @@ Many warranties combine both: a free-replacement period, then a pro-rated period
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (warranty & support) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

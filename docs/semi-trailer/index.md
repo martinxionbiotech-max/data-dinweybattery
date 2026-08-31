@@ -1,8 +1,8 @@
 ---
-description: Battery selection for semi-trailers and heavy haulers — 24V systems, high CCA, and battery configuration for the largest commercial vehicles.
+description: Battery selection for semi-trailers and heavy haulers — 24V systems, high CCA, series battery configuration, auxiliary loads, and matched-pair replacement for the largest commercial vehicles.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What battery does a semi-trailer truck use?
     a: A semi-trailer truck uses a 24V system built from two 12V batteries in series, with high CCA (850–1100+) to crank large diesel engines. JIS markets use N200/N150; European markets use DIN100/DIN88.
@@ -42,6 +42,21 @@ A 24V system halves the current for the same power, which:
 - Reduces voltage drop over long cable runs
 - Provides more reliable cranking of the large diesel engine
 
+For a deeper look at the trade-off between 12V and 24V architecture, see
+[12V vs 24V systems](../12v-vs-24v/index.md).
+
+## Series Wiring: How Two 12V Become 24V
+
+In a series configuration, the positive terminal of one battery connects to the negative
+terminal of the other. Voltage adds (12V + 12V = 24V) while capacity (Ah) stays the same as a
+single battery. This is the opposite of parallel wiring, which doubles capacity while keeping
+voltage at 12V.
+
+Series wiring is unforgiving in one specific way: **both batteries must be as close to
+identical as possible.** If they differ in age, capacity or internal resistance, the weaker
+battery is over-discharged and over-charged on every cycle, failing early and dragging the
+good battery down with it. This is why the matched-pair rule below is non-negotiable.
+
 ## Battery Selection for Semi Trucks
 
 1. **Match the group size** — N200/N150 in JIS markets, DIN100/DIN88 in European markets
@@ -49,11 +64,38 @@ A 24V system halves the current for the same power, which:
 3. **Replace in pairs** — always replace both 24V batteries together
 4. **Consider AGM** — for high-vibration or cold-climate duty
 
+## Auxiliary Loads: The Sleeper Cab and Trailer
+
+Many semi trucks run a second, separate electrical system for "hotel" loads — the sleeper-cab
+HVAC, refrigerator, inverter and lighting that draw power while the engine is off. These loads
+are often served by a dedicated auxiliary battery (or a deep-cycle bank) isolated from the
+starting batteries, so a night of hotel loads cannot strand the truck in the morning.
+
+When specifying a semi truck's batteries, confirm whether the truck separates starting and
+auxiliary loads. Starting batteries are built for short, high-current bursts; deep-cycling
+them to power hotel loads shortens their life dramatically. For that duty see
+[starting vs deep cycle](../starting-vs-deep-cycle/index.md).
+
 ## The Pair Replacement Rule
 
 In a 24V system, the two batteries charge and discharge together. If you replace only one, the
 new battery works against the aged one, causing imbalance and shortening life. Always replace
-both as a matched pair.
+both as a matched pair — same model, same age, same rating.
+
+Practical checklist when replacing:
+
+- Buy both from the same batch where possible
+- Confirm identical group size, CCA and capacity
+- Record the install date for both
+- Have the charging system checked if one battery failed early — an alternator fault often
+  kills batteries in pairs
+
+## Cold-Climate Note
+
+In arctic conditions the CCA requirement pushes to the top of the range, and the cold
+thickens engine oil while reducing battery output. Semi operators in cold regions commonly
+specify the highest CCA in the group size and may move from flooded to AGM for the most
+reliable cold starts. See [battery for cold & arctic](../cold-climate-arctic/index.md).
 
 ## References
 
@@ -69,4 +111,3 @@ both as a matched pair.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/24v/) (24V semi-trailer systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-
