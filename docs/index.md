@@ -2,7 +2,7 @@
 description: DINWEY OEM Factory | Battery Knowledge Hub — official technical documentation from the DINWEY truck and heavy-duty battery OEM factory. Covers JIS, DIN and BCI battery standards, cold cranking amps (CCA), reserve capacity, selection guides, maintenance and application scenarios.
 type: page
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 ---
 
 # DINWEY OEM Factory | Battery Knowledge Hub

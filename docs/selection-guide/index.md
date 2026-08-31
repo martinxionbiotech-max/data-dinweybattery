@@ -2,7 +2,7 @@
 description: Step-by-step guide to choosing the right starting battery for your truck — group size (JIS N150/N200, DIN88/DIN100, BCI Group 31), CCA, voltage and climate, with a HowTo flow.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 howto:
   - name: Confirm the group size
     text: Match the physical footprint, terminal type and orientation to your battery tray and cables. Read the group size printed on your existing battery or in the vehicle manual (JIS N150/N200, DIN88/DIN100, or BCI Group 31).

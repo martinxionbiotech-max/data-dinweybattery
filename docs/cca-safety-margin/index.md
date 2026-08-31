@@ -2,7 +2,7 @@
 description: Cold-weather CCA derating explained — how temperature reduces battery cranking power and how much CCA safety margin you should specify by climate.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: How much does cold reduce battery cranking power?
     a: A lead-acid battery loses a large share of its cranking power at very low temperatures. The CCA rating itself is measured at −18°C, so any temperature below that pushes the battery below its rated capability.

@@ -2,7 +2,7 @@
 description: Maintenance-free (MF) vs serviceable JIS truck batteries — the calcium vs antimony design difference, how MF reduces water loss, and what it means for heavy-truck buyers.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is an MF (maintenance-free) truck battery?
     a: An MF (maintenance-free) battery uses a calcium-alloy grid that reduces water loss, so it needs no periodic electrolyte top-up. It is sealed and maintenance-free, in contrast to a traditional serviceable (antimony) battery with removable caps.

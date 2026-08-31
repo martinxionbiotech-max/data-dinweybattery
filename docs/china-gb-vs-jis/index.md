@@ -2,7 +2,7 @@
 description: China GB battery codes vs JIS — how Chinese national standard 6-QW model numbers map to JIS N150/N200, and what buyers importing from China need to know.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is a 6-QW battery number?
     a: The Chinese national standard (GB) uses codes like "6-QW-150". "6" means 6 cells (12V), "Q" means starting (automotive), "W" means maintenance-free, and the number is the nominal 20-hour capacity in Ah.

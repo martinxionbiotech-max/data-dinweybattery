@@ -2,7 +2,7 @@
 description: JIS vs DIN battery engineering compared with original density analysis — why DIN batteries pack more cold-cranking power per litre, while JIS thick-plate batteries trade energy density for cycle life.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: Why do DIN batteries have higher CCA than JIS batteries of similar size?
     a: DIN batteries are designed for European cold-start demands and use a more compact cell layout, delivering more cold-cranking power per litre. JIS thick-plate batteries trade some energy density for deeper cycling and vibration tolerance.

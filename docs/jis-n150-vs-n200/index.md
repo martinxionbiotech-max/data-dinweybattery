@@ -2,7 +2,7 @@
 description: JIS N150 vs N200 truck battery comparison — 145G51 (N150) and 190H52 (N200) specifications, dimensions, CCA, capacity, and how to choose the right one for your heavy-duty truck.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is the difference between JIS N150 and N200?
     a: The N150 (model 145G51) has 135Ah capacity and 900A CCA in a 508×222×212mm case. The N200 (model 190H52) is larger and more powerful with 200Ah and 1100A CCA in a 520×278×220mm case. N200 suits larger engines and colder climates.

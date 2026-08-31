@@ -2,7 +2,7 @@
 description: The complete guide to truck starting batteries — group sizes (JIS N150/N200, DIN88/DIN100, BCI Group 31), CCA, voltage systems and how to choose the right one for your commercial vehicle.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What group size battery does my truck need?
     a: Match the group size printed on your existing battery or in the vehicle manual. Heavy-duty trucks in JIS markets commonly use 145G51 (N150) or 190H52 (N200); European trucks use DIN88 or DIN100; North American trucks use BCI Group 31 (available on request from DINWEY).

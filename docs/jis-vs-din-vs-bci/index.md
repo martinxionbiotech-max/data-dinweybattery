@@ -2,7 +2,7 @@
 description: JIS vs DIN vs BCI truck battery standards explained — how the three major sizing and rating systems differ, their markets, and how to convert between them when sourcing batteries.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is the difference between JIS, DIN and BCI battery standards?
     a: They are three regional sizing and rating systems. JIS (Japan/Asia) uses model codes like N150/N200; DIN (Europe) uses capacity codes like DIN88/DIN100; BCI (North America) uses group numbers like 31/8D. Each also defines its own cold-cranking test.

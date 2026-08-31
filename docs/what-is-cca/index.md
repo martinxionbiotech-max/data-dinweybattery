@@ -2,7 +2,7 @@
 description: What is CCA (cold cranking amps) and how much does a diesel truck need? CCA explained with a truck-class requirement table and how to calculate the right rating for your engine and climate.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What does CCA stand for?
     a: CCA stands for Cold Cranking Amps — the current a battery can deliver for 30 seconds at −18°C (0°F) while maintaining a voltage above 7.2V.

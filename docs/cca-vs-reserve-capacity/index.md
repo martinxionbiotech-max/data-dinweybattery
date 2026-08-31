@@ -2,7 +2,7 @@
 description: CCA vs Reserve Capacity for heavy-duty fleets — how burst starting power and sustained runtime differ, and a dual-metric profile of the DINWEY range to match battery to duty cycle.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is the difference between CCA and reserve capacity?
     a: CCA (cold cranking amps) measures the short burst of current to start a cold engine. Reserve capacity (RC) measures how long the battery can sustain a 25-amp load before dropping below 10.5V — i.e. endurance, not burst power.
