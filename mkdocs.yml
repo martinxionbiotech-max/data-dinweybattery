@@ -1,8 +1,9 @@
-site_name: DINWEY Battery Knowledge Hub
+site_name: DINWEY OEM Factory | Battery Knowledge Hub
 site_url: https://docs.dinweybattery.com/
 site_description: >-
-  Official technical documentation for DINWEY truck and heavy-duty starting batteries —
-  selection guides, JIS/DIN/BCI battery standards, CCA, and 12V vs 24V system guidance.
+  Official technical documentation from the DINWEY OEM factory — truck and heavy-duty
+  starting batteries: JIS/DIN/BCI battery standards, CCA, reserve capacity, selection
+  guides, maintenance and application scenarios.
 
 theme:
   name: material
