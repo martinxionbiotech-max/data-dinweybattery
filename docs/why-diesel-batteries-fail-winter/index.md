@@ -2,7 +2,7 @@
 description: Why diesel truck batteries fail in winter — how cold reduces CCA, thickens engine oil and slows the chemical reaction, plus how to prevent winter starting failure.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: Why do truck batteries die more in winter?
     a: Cold slows the battery's internal chemical reaction, reducing available current, while simultaneously thickening engine oil and increasing the cranking effort required. The result is a battery that is weaker just when the engine needs more power.
@@ -37,6 +37,14 @@ Winter starting failure is rarely one problem — it is three problems compoundi
 The battery is weakest exactly when the engine needs the most — which is why CCA (measured at
 −18°C) is the specification that matters most for winter reliability.
 
+### The Chemistry of Cold Cranking
+
+A lead-acid battery produces current through an electrochemical reaction between the lead
+plates and the sulfuric acid electrolyte. That reaction slows as temperature drops, so at
+−18°C a battery can deliver only a fraction of the current it produces at room temperature.
+The CCA rating exists precisely to quantify this: it is the current a battery can deliver for
+30 seconds at −18°C while staying above 7.2V.
+
 ## The Role of CCA in Winter
 
 CCA is the current a battery can deliver for 30 seconds at −18°C while staying above 7.2V.
@@ -62,7 +70,8 @@ the [190H52 (N200)](https://dinweysbattery.com/products/jis-heavy-duty/) provide
 | Cost | Lower | Higher |
 
 AGM batteries generally deliver more reliable cold starts and resist the vibration of heavy
-trucks better than flooded batteries, making them a strong winter choice.
+trucks better than flooded batteries, making them a strong winter choice. For the full
+comparison see [AGM vs flooded](../agm-vs-flooded/index.md).
 
 ## How to Prevent Winter Starting Failure
 
@@ -71,6 +80,10 @@ trucks better than flooded batteries, making them a strong winter choice.
 3. **Clean and tighten terminals** — corrosion adds resistance at the worst time.
 4. **Test before winter** — load-test the battery in autumn and replace if weak.
 5. **Consider a battery warmer** in extreme cold.
+
+The autumn load test is the highest-leverage step: it catches a weak battery *before* the cold
+arrives, when a replacement is a planned expense rather than a roadside emergency. For the
+procedure see [how to test a truck battery](../how-to-test-battery/index.md).
 
 ## References
 
@@ -82,3 +95,7 @@ trucks better than flooded batteries, making them a strong winter choice.
 - [What is CCA](../what-is-cca/index.md)
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [12V vs 24V systems](../12v-vs-24v/index.md)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (cold-climate JIS batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

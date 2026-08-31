@@ -2,7 +2,7 @@
 description: DIN88 vs DIN100 truck battery comparison — 58827 (DIN88) and 60038 (DIN100) specifications, dimensions, EN cold-cranking amps, capacity, and how to choose for European trucks.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What is the difference between DIN88 and DIN100?
     a: DIN100 (model 60038) has higher capacity (100Ah vs 88Ah) and cold-cranking rating (870A EN vs 800A EN) and is physically longer (393mm vs 353mm). DIN88 (model 58827) is the shorter, lighter option.
@@ -80,6 +80,13 @@ provides the same build quality at lower cost and weight.
     Always confirm the required size and cold-cranking rating in your vehicle manual. The
     wrong physical size cannot be safely installed.
 
+## A Note on EN vs SAE Ratings
+
+The DIN88 and DIN100 are rated in **EN** cold-cranking amps, not SAE. EN and SAE use slightly
+different test temperatures and voltage thresholds, so an "800A EN" is not directly comparable
+to an "800 CCA SAE." When comparing a DIN battery against a JIS or BCI option, normalize both
+to the same standard. See [JIS vs DIN vs BCI standards](../jis-vs-din-vs-bci/index.md).
+
 ## 24V Systems
 
 Both are 12V batteries. In 24V European truck systems, two are wired in series — for example
@@ -95,3 +102,7 @@ two DIN100 units for maximum 24V cranking power. Always replace the pair togethe
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [JIS N150 vs N200](../jis-n150-vs-n200/index.md)
 - [DINWEY DIN heavy-duty batteries](https://dinweysbattery.com/products/din-heavy-duty/)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/din-heavy-duty/) (DIN heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

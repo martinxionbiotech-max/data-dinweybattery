@@ -1,8 +1,8 @@
 ---
-description: Decoding JIS and DIN battery model numbers — what 145G51, 190H52, 58827 and 60038 mean, and how the numbering systems work.
+description: Decoding JIS and DIN battery model numbers — what 145G51, 190H52, 58827 and 60038 mean, how the numbering systems work, and why the type number beats the shorthand.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: What does the N in N150 mean?
     a: "N" is a JIS battery size class for larger heavy-duty batteries. N150 and N200 are widely used JIS heavy-duty truck battery designations. The number broadly indicates size, but the underlying JIS type number (like 145G51 or 190H52) is the precise identifier.
@@ -35,6 +35,15 @@ In JIS markets, heavy-duty truck batteries are often sold by a short "N" name:
 The "N" name is a broad size class. The **type number** (145G51, 190H52) is the precise
 identifier — it defines the exact dimensions, terminal layout and performance class.
 
+### What the JIS Number Actually Encodes
+
+A JIS type number such as **145G51** is not random. The leading digits track the physical size
+and performance class (larger numbers generally mean larger, higher-capacity batteries), while
+the trailing letter-and-number combination identifies the terminal configuration and case
+layout. The point for a buyer is practical: two batteries with the same shorthand name can
+still differ in terminal position or case height, which is why the full type number — not the
+"N" name — is what should go on a purchase order.
+
 ## DIN: The "DIN88" Shorthand vs the Type Number
 
 European heavy-duty batteries follow the same pattern:
@@ -63,6 +72,10 @@ specifying:
 | 58827 | DIN/EN | DIN88 | 88 Ah | 800 A EN | 353×175×190 |
 | 60038 | DIN/EN | DIN100 | 100 Ah | 870 A EN | 393×175×190 |
 
+For the full comparison within each standard, see
+[JIS N150 vs N200](../jis-n150-vs-n200/index.md) and
+[DIN88 vs DIN100](../din88-vs-din100/index.md).
+
 ## Related
 
 - [JIS N150 vs N200](../jis-n150-vs-n200/index.md)
@@ -77,4 +90,3 @@ specifying:
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-
