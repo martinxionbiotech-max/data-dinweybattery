@@ -114,3 +114,8 @@ When importing or specifying batteries, match the standard to your target market
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [Truck Battery Selection Guide](../selection-guide/index.md)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+

@@ -37,6 +37,24 @@
       color: var(--md-default-fg-color--light);
       font-style: italic;
     }
+    .dw-main-cta {
+      margin: 1.75rem 0 0;
+      padding: 1rem 1.1rem;
+      background: linear-gradient(120deg, #0a1528 0%, #0f1f3d 55%, #1e3a5f 100%);
+      border-radius: 8px;
+      border-left: 4px solid #f5a623;
+    }
+    .dw-main-cta__link {
+      display: block;
+      font-size: 1.02rem;
+      font-weight: 700;
+      color: #fff !important;
+      text-decoration: none;
+      margin-bottom: 0.3rem;
+    }
+    .dw-main-cta__link:hover { color: #f5a623 !important; }
+    .dw-main-cta .dw-data-note { color: #d6e0ec; font-style: normal; }
+    .dw-main-cta a { color: #f5a623; }
   </style>
 
   {# Organization + WebSite (site-wide) #}
@@ -203,4 +221,13 @@
     </span>
   </div>
   {% endif %}
+
+  <div class="dw-main-cta" role="note" aria-label="Manufacturer link">
+    <a href="https://dinweysbattery.com/" class="dw-main-cta__link">DINWEY OEM Factory — Truck &amp; Heavy-Duty Starting Batteries</a>
+    <span class="dw-data-note">
+      This guide is published by DINWEY, the truck-battery brand of Chengguang Energy (founded 2002).
+      Browse the <a href="https://dinweysbattery.com/">full product range</a>, request a datasheet, or
+      discuss <a href="https://dinweysbattery.com/contact/">OEM / private-label programs</a>.
+    </span>
+  </div>
 {% endblock %}

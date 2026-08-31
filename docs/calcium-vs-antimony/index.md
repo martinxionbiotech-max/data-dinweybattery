@@ -68,3 +68,8 @@ offers a lower-maintenance, economical option.
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [AGM vs flooded](../agm-vs-flooded/index.md)
 - [Starting vs deep cycle](../starting-vs-deep-cycle/index.md)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+

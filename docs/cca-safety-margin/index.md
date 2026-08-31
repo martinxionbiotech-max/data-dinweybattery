@@ -84,3 +84,8 @@ corrosion and water loss. In hot climates:
 
 1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
 2. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (cold-climate JIS batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+

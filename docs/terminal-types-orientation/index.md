@@ -67,3 +67,8 @@ and vehicle.
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [JIS vs DIN vs BCI standards](../jis-vs-din-vs-bci/index.md)
 - [BCI group sizes](../bci-group-sizes/index.md)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+

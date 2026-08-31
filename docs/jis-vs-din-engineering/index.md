@@ -92,3 +92,8 @@ over compactness — the right trade-off for hot, demanding commercial duty.
     Density figures are original calculations from the manufacturer's published datasheet
     values (length × width × height → volume; CCA ÷ volume; CCA ÷ Ah; Ah ÷ volume). They are
     a comparative tool, not a universal rating.
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/din-heavy-duty/) (DIN heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+

@@ -80,3 +80,8 @@ technology — and the price and performance — differ.
 1. [Calcium battery — Wikipedia](https://en.wikipedia.org/wiki/Calcium_battery)
 2. [Antimony — Wikipedia](https://en.wikipedia.org/wiki/Antimony)
 3. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+

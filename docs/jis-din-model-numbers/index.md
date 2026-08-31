@@ -73,3 +73,8 @@ specifying:
 
 1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
 2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+
+## Find the Right Battery
+
+Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+
