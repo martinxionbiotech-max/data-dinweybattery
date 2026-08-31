@@ -79,6 +79,7 @@ For the step-by-step wiring procedure see [24V wiring guide](../24v-wiring-guide
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [Truck Battery Selection Guide](../selection-guide/index.md)
+- [Battery isolators & auxiliary systems](../battery-isolators-auxiliary/index.md)
 - [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)
 
 ## Find the Right Battery

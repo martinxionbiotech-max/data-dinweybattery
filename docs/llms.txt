@@ -59,6 +59,7 @@ batteries (SLI), covering:
 - [Terminal Types & Orientation](https://docs.dinweysbattery.com/terminal-types-orientation/)
 - [12V vs 24V Systems](https://docs.dinweysbattery.com/12v-vs-24v/)
 - [24V Wiring Guide](https://docs.dinweysbattery.com/24v-wiring-guide/)
+- [Battery Isolators & Auxiliary](https://docs.dinweysbattery.com/battery-isolators-auxiliary/)
 - [Truck Battery Brands Compared](https://docs.dinweysbattery.com/brands-compared/)
 - [Warranty Guide](https://docs.dinweysbattery.com/warranty-guide/)
 - [OEM & Private Label](https://docs.dinweysbattery.com/oem-private-label/)
