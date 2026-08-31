@@ -49,7 +49,7 @@ A higher CCA rating means more margin against cold-weather starting failure.
 | Heavy-duty semi | 1000–1100+ CCA |
 
 For the coldest climates, choose the highest CCA in your group size. In the DINWEY JIS range,
-the [190H52 (N200)](https://dinweybattery.com/products/jis-heavy-duty/) provides 1100A CCA.
+the [190H52 (N200)](https://dinweysbattery.com/products/jis-heavy-duty/) provides 1100A CCA.
 
 ## Flooded vs AGM in Winter
 

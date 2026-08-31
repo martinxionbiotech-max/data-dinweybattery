@@ -8,7 +8,7 @@ date_modified: 2026-08-30
 # About This Knowledge Hub
 
 The **DINWEY Battery Knowledge Hub** is the official technical documentation
-sub-site of [dinweybattery.com](https://dinweybattery.com).
+sub-site of [dinweysbattery.com](https://dinweysbattery.com).
 
 ## Who We Are
 
@@ -57,5 +57,5 @@ distributors and buyers specify the right truck battery:
 ## Contact
 
 For product datasheets, OEM/private-label programs and quotations, visit the
-[main site contact page](https://dinweybattery.com/contact/) or email
+[main site contact page](https://dinweysbattery.com/contact/) or email
 martin@dinweys.com.

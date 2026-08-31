@@ -56,7 +56,7 @@ sourced guidance.
 ## Website ↔ Knowledge Hub
 
 This hub is the technical documentation companion to
-[DINWEY Battery](https://dinweybattery.com/), the truck starting-battery brand of
+[DINWEY Battery](https://dinweysbattery.com/), the truck starting-battery brand of
 [Chengguang Energy](https://chengguangenergy.com/) (founded 2002).
 
 ---

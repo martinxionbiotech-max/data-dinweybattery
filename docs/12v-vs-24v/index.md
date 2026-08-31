@@ -69,4 +69,4 @@ In series, voltages add (12V + 12V = 24V) while the current stays the same.
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [Truck Battery Selection Guide](../selection-guide/index.md)
-- [DINWEY 24V systems](https://dinweybattery.com/products/24v/)
+- [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)

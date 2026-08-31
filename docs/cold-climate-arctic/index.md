@@ -60,9 +60,9 @@ often justify the higher cost.
 
 ## DINWEY Cold-Climate Options
 
-The [190H52 (N200)](https://dinweybattery.com/products/jis-heavy-duty/) leads the DINWEY JIS
+The [190H52 (N200)](https://dinweysbattery.com/products/jis-heavy-duty/) leads the DINWEY JIS
 range at 1100A CCA — the maximum cold-cranking power for the coldest climates. DIN markets can
-use the [60038 (DIN100)](https://dinweybattery.com/products/din-heavy-duty/) at 870A EN.
+use the [60038 (DIN100)](https://dinweysbattery.com/products/din-heavy-duty/) at 870A EN.
 
 ## References
 

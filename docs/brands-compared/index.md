@@ -58,7 +58,7 @@ that consistency — regardless of how famous the brand is.
 DINWEY is the truck-battery brand of Chengguang Energy (founded 2002), a 200,000 m² facility
 with 18 automated lines producing 40,000 batteries daily. Certified IATF 16949, ISO 9001, ISO
 14001, ISO 45001, OHSAS 18001 and CE — with per-batch documentation and OEM/private-label
-support. See [About DINWEY](https://dinweybattery.com/about/).
+support. See [About DINWEY](https://dinweysbattery.com/about/).
 
 ## References
 

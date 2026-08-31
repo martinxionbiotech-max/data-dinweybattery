@@ -75,8 +75,8 @@ better at low temperatures than flooded lead-acid.
 
 ## Next Steps
 
-Browse [DINWEY JIS heavy-duty batteries](https://dinweybattery.com/products/jis-heavy-duty/) or use our
-[selection tool](https://dinweybattery.com/selection-tool/) for a recommendation.
+Browse [DINWEY JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/) or use our
+[selection tool](https://dinweysbattery.com/selection-tool/) for a recommendation.
 
 ## References
 

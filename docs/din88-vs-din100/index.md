@@ -94,4 +94,4 @@ two DIN100 units for maximum 24V cranking power. Always replace the pair togethe
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [JIS N150 vs N200](../jis-n150-vs-n200/index.md)
-- [DINWEY DIN heavy-duty batteries](https://dinweybattery.com/products/din-heavy-duty/)
+- [DINWEY DIN heavy-duty batteries](https://dinweysbattery.com/products/din-heavy-duty/)

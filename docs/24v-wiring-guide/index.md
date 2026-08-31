@@ -68,4 +68,4 @@ terminals. Always use two identical batteries and replace them as a pair.
 
 - [12V vs 24V systems](../12v-vs-24v/index.md)
 - [Truck Battery Complete Guide](../complete-guide/index.md)
-- [DINWEY 24V systems](https://dinweybattery.com/products/24v/)
+- [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)

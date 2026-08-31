@@ -99,5 +99,5 @@ See the [12V vs 24V guide](../12v-vs-24v/index.md).
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)
-- [DINWEY JIS heavy-duty batteries](https://dinweybattery.com/products/jis-heavy-duty/)
+- [DINWEY JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/)
 - [12V vs 24V electrical systems](../12v-vs-24v/index.md)

@@ -101,8 +101,8 @@ CCA is less critical and capacity (Ah) plus heat tolerance matter more.
 | 58827 (DIN88) | DIN/EN | 12V | 88 Ah | 800 A (EN) | 150 min | 353×175×190 |
 | 60038 (DIN100) | DIN/EN | 12V | 100 Ah | 870 A (EN) | 170 min | 393×175×190 |
 
-Browse the [JIS heavy-duty range](https://dinweybattery.com/products/jis-heavy-duty/) or
-[DIN heavy-duty range](https://dinweybattery.com/products/din-heavy-duty/) for full
+Browse the [JIS heavy-duty range](https://dinweysbattery.com/products/jis-heavy-duty/) or
+[DIN heavy-duty range](https://dinweysbattery.com/products/din-heavy-duty/) for full
 specifications.
 
 ## The Right Choice in One Table

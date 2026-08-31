@@ -65,7 +65,7 @@ replacement is always cheaper than an unscheduled breakdown.
 
 DINWEY supports fleet operators with batch-consistent supply, full per-batch documentation
 (CCA test data, certificate of analysis, MSDS) and OEM/private-label programs. See
-[Fleet & OEM solutions](https://dinweybattery.com/products/fleet/).
+[Fleet & OEM solutions](https://dinweysbattery.com/products/fleet/).
 
 ## References
 

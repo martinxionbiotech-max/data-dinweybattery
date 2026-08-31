@@ -95,7 +95,7 @@ versa — do not confuse the two.
 | 58827 (DIN88) | DIN/EN | 800 A (EN) |
 | 60038 (DIN100) | DIN/EN | 870 A (EN) |
 
-For maximum cold-climate cranking power, the [190H52 (N200)](https://dinweybattery.com/products/jis-heavy-duty/)
+For maximum cold-climate cranking power, the [190H52 (N200)](https://dinweysbattery.com/products/jis-heavy-duty/)
 leads the JIS range at 1100A CCA.
 
 ## References

@@ -35,4 +35,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://docs.dinweybattery.com/sitemap.xml
+Sitemap: https://docs.dinweysbattery.com/sitemap.xml
