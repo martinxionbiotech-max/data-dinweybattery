@@ -69,7 +69,7 @@ more common.
 ## References
 
 1. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
-2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Related
 

@@ -70,8 +70,8 @@ water and overheats. Getting the charging right is the single biggest lever for 
 
 ## References
 
-1. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
-2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
+2. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Find the Right Battery
 

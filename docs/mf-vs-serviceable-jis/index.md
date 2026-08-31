@@ -77,9 +77,9 @@ technology — and the price and performance — differ.
 
 ## References
 
-1. [Calcium battery — Wikipedia](https://en.wikipedia.org/wiki/Calcium_battery)
-2. [Antimony — Wikipedia](https://en.wikipedia.org/wiki/Antimony)
-3. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+1. [Battery Council International — lead-calcium alloys](https://batterycouncil.org/)
+2. [Battery Council International — lead-antimony alloys](https://batterycouncil.org/)
+3. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
 
 ## Find the Right Battery
 

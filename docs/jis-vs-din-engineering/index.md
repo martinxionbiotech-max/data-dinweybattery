@@ -85,8 +85,8 @@ over compactness — the right trade-off for hot, demanding commercial duty.
 
 ## References
 
-1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
-2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
+2. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 !!! note "Methodology"
     Density figures are original calculations from the manufacturer's published datasheet

@@ -82,8 +82,8 @@ corrosion and water loss. In hot climates:
 
 ## References
 
-1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
-2. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+1. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
+2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
 
 ## Find the Right Battery
 

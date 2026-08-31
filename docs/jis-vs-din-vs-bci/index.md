@@ -93,7 +93,7 @@ When importing or specifying batteries, match the standard to your target market
 
 1. [Battery Council International](https://batterycouncil.org/)
 2. [DIN — German Institute for Standardization](https://www.din.de/en)
-3. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+3. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 4. [Battery codes explained: DIN, EN & JIS — Suzuki Battery](https://suzukibattery.sg/blog/basics/car-battery-codes)
 5. [Battery specifications guide — Yuasa](https://www.yuasa.com/uk/info-hub/guide-to-understanding-battery-specifications)
 

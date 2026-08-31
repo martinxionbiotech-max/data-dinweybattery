@@ -93,8 +93,8 @@ See the [12V vs 24V guide](../12v-vs-24v/index.md).
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
-2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
+2. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
 
 ## Related
 

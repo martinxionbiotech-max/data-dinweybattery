@@ -74,8 +74,8 @@ trucks better than flooded batteries, making them a strong winter choice.
 
 ## References
 
-1. [Sulfation — Wikipedia](https://en.wikipedia.org/wiki/Sulfation)
-2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+1. [Battery Council International — battery maintenance & sulfation](https://batterycouncil.org/)
+2. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
 
 ## Related
 

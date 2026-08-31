@@ -56,8 +56,8 @@ For high-vibration or demanding applications, AGM offers superior vibration resi
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
-2. [Diesel engine — Wikipedia](https://en.wikipedia.org/wiki/Diesel_engine)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
+2. [SAE International — diesel engine systems](https://www.sae.org/)
 
 ## Related
 

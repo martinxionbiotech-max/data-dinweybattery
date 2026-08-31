@@ -66,8 +66,8 @@ use the [60038 (DIN100)](https://dinweysbattery.com/products/din-heavy-duty/) at
 
 ## References
 
-1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
-2. [VRLA battery — Wikipedia](https://en.wikipedia.org/wiki/VRLA_battery)
+1. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
+2. [Battery Council International — VRLA / AGM technology](https://batterycouncil.org/)
 
 ## Related
 

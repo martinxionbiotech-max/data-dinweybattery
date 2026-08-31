@@ -58,8 +58,8 @@ construction resists vibration and it is fully sealed against dust and spillage.
 
 ## References
 
-1. [VRLA battery — Wikipedia](https://en.wikipedia.org/wiki/VRLA_battery)
-2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [Battery Council International — VRLA / AGM technology](https://batterycouncil.org/)
+2. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Related
 

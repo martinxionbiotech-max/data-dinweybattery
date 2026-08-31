@@ -71,7 +71,7 @@ standards with MOQ of 1 × 20ft container and lead time of 20–45 days. Contact
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 2. [Battery Council International](https://batterycouncil.org/)
 
 ## Find the Right Battery

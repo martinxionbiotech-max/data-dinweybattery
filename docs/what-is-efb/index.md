@@ -47,8 +47,8 @@ cycle life. It sits between flooded and AGM in both performance and price.
 
 ## References
 
-1. [Enhanced flooded battery — Wikipedia](https://en.wikipedia.org/wiki/Enhanced_flooded_battery)
-2. [Start-stop system — Wikipedia](https://en.wikipedia.org/wiki/Start-stop_system)
+1. [Battery Council International — enhanced flooded battery (EFB)](https://batterycouncil.org/)
+2. [SAE International — start-stop systems](https://www.sae.org/)
 
 ## Related
 

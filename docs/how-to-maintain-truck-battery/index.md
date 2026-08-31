@@ -62,8 +62,8 @@ reduces short-circuit risk.
 
 ## References
 
-1. [Sulfation — Wikipedia](https://en.wikipedia.org/wiki/Sulfation)
-2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [Battery Council International — battery maintenance & sulfation](https://batterycouncil.org/)
+2. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Related
 

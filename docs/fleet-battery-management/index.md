@@ -69,7 +69,7 @@ DINWEY supports fleet operators with batch-consistent supply, full per-batch doc
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
 
 ## Related

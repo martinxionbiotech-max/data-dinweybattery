@@ -58,8 +58,8 @@ automotive jump packs are usually insufficient — check the peak amps and diese
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
-2. [Series and parallel circuits — Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
+2. [SAE International — vehicle electrical systems](https://www.sae.org/)
 
 ## Related
 

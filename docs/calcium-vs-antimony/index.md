@@ -60,8 +60,8 @@ offers a lower-maintenance, economical option.
 
 ## References
 
-1. [Calcium battery — Wikipedia](https://en.wikipedia.org/wiki/Calcium_battery)
-2. [Antimony — Wikipedia](https://en.wikipedia.org/wiki/Antimony)
+1. [Battery Council International — lead-calcium alloys](https://batterycouncil.org/)
+2. [Battery Council International — lead-antimony alloys](https://batterycouncil.org/)
 
 ## Related
 

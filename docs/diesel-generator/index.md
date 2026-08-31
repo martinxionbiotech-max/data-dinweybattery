@@ -56,8 +56,8 @@ idle. The fix is a float charger that keeps the battery at full charge.
 
 ## References
 
-1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
-2. [Diesel engine — Wikipedia](https://en.wikipedia.org/wiki/Diesel_engine)
+1. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
+2. [SAE International — diesel engine systems](https://www.sae.org/)
 
 ## Related
 

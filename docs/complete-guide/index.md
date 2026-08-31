@@ -118,9 +118,9 @@ specifications.
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
-3. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+3. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
 
 ## Related Guides
 

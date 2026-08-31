@@ -79,7 +79,7 @@ core commercial range — confirming that JIS is the safe specification for thes
 
 1. [Battery standards cross-reference — AltusVolt](https://altusvolt.com/support/battery-standards)
 2. [Battery codes explained: DIN, EN & JIS — Suzuki Battery](https://suzukibattery.sg/blog/basics/car-battery-codes)
-3. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+3. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Find the Right Battery
 

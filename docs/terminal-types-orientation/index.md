@@ -60,7 +60,7 @@ and vehicle.
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Related
 

@@ -66,7 +66,7 @@ buy from a documented supplier.
 ## References
 
 1. [Battery Council International](https://batterycouncil.org/)
-2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+2. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Related
 

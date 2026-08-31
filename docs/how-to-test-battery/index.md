@@ -72,8 +72,8 @@ the battery can actually deliver its rated cold cranking amps.
 
 ## References
 
-1. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
-2. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+1. [Battery Council International — lead battery technology](https://batterycouncil.org/)
+2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
 
 ## Find the Right Battery
 

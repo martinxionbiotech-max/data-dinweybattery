@@ -88,7 +88,7 @@ two DIN100 units for maximum 24V cranking power. Always replace the pair togethe
 ## References
 
 1. [DIN — German Institute for Standardization](https://www.din.de/en)
-2. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+2. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
 
 ## Related
 

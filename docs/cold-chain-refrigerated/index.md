@@ -56,8 +56,8 @@ a reefer off the starting battery will:
 
 ## References
 
-1. [Deep-cycle battery — Wikipedia](https://en.wikipedia.org/wiki/Deep-cycle_battery)
-2. [Automotive battery — Wikipedia](https://en.wikipedia.org/wiki/Automotive_battery)
+1. [Battery Council International — deep-cycle batteries](https://batterycouncil.org/)
+2. [Battery Council International — lead battery technology](https://batterycouncil.org/)
 
 ## Related
 

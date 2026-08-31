@@ -60,7 +60,7 @@ higher CCA.
 
 ## References
 
-1. [Cold Cranking Amperes — Wikipedia](https://en.wikipedia.org/wiki/Cold_cranking_amperes)
+1. [SAE J537 (cold cranking amp test standard)](https://www.sae.org/standards/content/j537_201711/)
 2. [SAE J537 (CCA test standard)](https://www.sae.org/standards/content/j537_201711/)
 
 ## Related

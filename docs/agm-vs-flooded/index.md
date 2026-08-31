@@ -63,8 +63,8 @@ flooded remains the better value.
 
 ## References
 
-1. [VRLA battery — Wikipedia](https://en.wikipedia.org/wiki/VRLA_battery)
-2. [Lead–acid battery — Wikipedia](https://en.wikipedia.org/wiki/Lead-acid_battery)
+1. [Battery Council International — VRLA / AGM technology](https://batterycouncil.org/)
+2. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
 
 ## Related
 

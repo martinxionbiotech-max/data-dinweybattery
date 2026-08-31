@@ -62,7 +62,7 @@ terminals. Always use two identical batteries and replace them as a pair.
 
 ## References
 
-1. [Series and parallel circuits — Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
+1. [SAE International — vehicle electrical systems](https://www.sae.org/)
 
 ## Related
 
