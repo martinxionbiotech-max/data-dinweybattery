@@ -1,22 +1,22 @@
 ---
-description: What is reserve capacity (RC) for a truck battery? How RC differs from CCA and Ah, typical RC ranges, and why it matters for commercial vehicles with heavy electrical loads.
+description: What is reserve capacity (RC) in a truck battery — the minutes it delivers 25A at 27°C, how RC differs from CCA and Ah, and why it matters for commercial vehicles.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: What does reserve capacity (RC) mean?
-    a: Reserve capacity is the number of minutes a fully charged battery can deliver 25 amps at 27°C before dropping below 10.5V. It measures how long the battery can run electrical loads if the alternator fails.
+  - q: What is reserve capacity in a battery?
+    a: Reserve capacity (RC) is the number of minutes a battery can deliver 25 amps at 27°C before dropping below 10.5V. It measures emergency runtime without the alternator.
   - q: What is a good reserve capacity for a truck battery?
-    a: Heavy-duty truck batteries typically have RC values around 130–320 minutes. Larger models (like the JIS N200 at 320 min) provide more emergency runtime.
-  - q: How is RC different from CCA?
-    a: CCA measures short, high-current cold-start power; RC measures sustained lower-current runtime. They are different dimensions and are not interchangeable.
-  - q: How is RC different from Ah?
-    a: Ah measures total energy storage at a 20-hour discharge rate; RC measures runtime at a fixed 25-amp draw. Both relate to capacity but are measured differently.
-  - q: Why does RC matter for trucks?
-    a: Trucks increasingly carry electrical loads (telematics, refrigeration, lighting) that may run when the engine is off or the alternator fails. Higher RC provides more emergency runtime.
+    a: Heavy-duty truck batteries typically range from roughly 130 to 320 minutes RC. The right figure depends on your electrical load — telematics, refrigeration and accessories push you toward the higher end.
+  - q: Is reserve capacity the same as amp-hours?
+    a: No. RC is minutes at a fixed 25A load; amp-hours (Ah) is total energy at a specified discharge rate. They are related but measured differently.
+  - q: Is CCA or reserve capacity more important for trucks?
+    a: CCA matters most for cold-climate starting; RC matters most for runtime if the alternator fails or accessory loads are heavy. Both should be specified for demanding fleets.
+  - q: How is reserve capacity tested?
+    a: The battery is fully charged, discharged at a constant 25A at 27°C (80°F), and the time until voltage drops below 10.5V is recorded in minutes.
 ---
 
-# What Is Reserve Capacity (RC) for a Truck Battery?
+# What Is Reserve Capacity (RC)?
 
 **TL;DR** — Reserve capacity (RC) is the number of minutes a battery can deliver 25 amps at
 27°C before dropping below 10.5V. It measures emergency runtime without the alternator — a
@@ -47,6 +47,14 @@ The result is expressed in minutes.
 These three ratings measure different things. A battery can have high CCA but modest RC, or
 vice versa — do not assume one predicts the others.
 
+### Why Three Separate Ratings Exist
+
+Each rating answers a different real-world question, and they are measured under different
+conditions. CCA tests a short, cold, high-current burst. RC tests a steady, warm, moderate draw.
+Ah tests total energy at a slow discharge. A battery optimized for one is not automatically
+optimized for the others — which is why a complete datasheet lists all three and why you should
+specify the one that matches your dominant risk. For the CCA side see [what is CCA](../what-is-cca/index.md).
+
 ## Typical RC for Heavy-Duty Batteries
 
 | DINWEY model | Standard | RC |
@@ -66,6 +74,11 @@ For fleets operating in developing markets with older vehicles, RC is often the 
 specification (per Chengguang Energy technical documentation), because electrical faults are
 more common.
 
+The practical implication: a fleet that mostly fears a cold no-start should prioritize CCA; a
+fleet that mostly fears a roadside alternator failure while running refrigeration should
+prioritize RC. Many heavy-duty fleets specify both. See
+[CCA vs reserve capacity](../cca-vs-reserve-capacity/index.md) for the combined view.
+
 ## References
 
 1. [About lead batteries — Battery Council International](https://batterycouncil.org/battery-facts-and-applications/about-lead-batteries/)
@@ -80,4 +93,3 @@ more common.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

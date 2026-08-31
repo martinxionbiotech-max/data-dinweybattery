@@ -1,19 +1,19 @@
 ---
-description: How to read a truck battery datasheet — decoding CCA, CA, Ah, RC, terminal type, dimensions and other specification fields.
+description: How to read a truck battery datasheet — decode voltage, Ah, CCA, CA, reserve capacity, dimensions, terminal type and polarity to avoid a wrong purchase.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
+  - q: What do the numbers on a battery datasheet mean?
+    a: They are the battery's specification — voltage, Ah (energy capacity), CCA (cold-start power), reserve capacity (runtime), dimensions, terminal type and polarity. Reading all of them correctly prevents a wrong purchase.
+  - q: What is the difference between CCA and CA on a datasheet?
+    a: CCA is cold cranking amps at −18°C (0°F); CA is cranking amps at 0°C (32°F). CA values are higher because the warmer temperature lets the battery deliver more current.
   - q: What does Ah mean on a battery?
-    a: Ah (ampere-hours) is the battery's capacity — how much current it can deliver over time. A 135Ah battery can theoretically deliver 135A for one hour (or 6.75A for 20 hours). It measures energy storage, not starting power.
-  - q: What is the difference between CCA and CA?
-    a: CCA (cold cranking amps) is measured at −18°C (0°F); CA (cranking amps) is measured at a warmer 0°C (32°F). CA is always a higher number than CCA for the same battery.
-  - q: What is RC (reserve capacity)?
-    a: Reserve capacity is how many minutes a battery can deliver 25A before dropping below 10.5V — essentially how long it can run essential loads if the alternator fails.
-  - q: What do the terminal codes mean?
-    a: Common terminals include SAE posts (A or D type), JIS posts (T1/T2 conical), and stud terminals. The code tells you the shape and size — it must match your vehicle's cables.
-  - q: What dimensions matter on a datasheet?
-    a: Length, width and height, plus terminal type and polarity (left-positive or right-positive). These must match your battery tray and cable reach exactly.
+    a: Ah (amp-hours) is the battery's total energy capacity at a specified discharge rate — roughly how much energy it holds. It is different from CCA, which measures cold-start power.
+  - q: Why do CCA values differ between standards?
+    a: SAE, EN, DIN and JIS each use slightly different test temperatures and voltage thresholds, so a battery rated "870 A EN" cannot be directly compared to "870 CCA SAE". Compare like-for-like.
+  - q: What is the most common datasheet mistake?
+    a: Focusing only on CCA and ignoring dimensions and polarity. A high-CCA battery that does not fit the tray or has reversed polarity is unusable.
 ---
 
 # How to Read a Truck Battery Datasheet
@@ -47,6 +47,14 @@ it fits your truck. Reading all of them correctly prevents a costly wrong purcha
     CCA values differ by test standard (SAE, EN, DIN, JIS). A battery rated "870 A EN" cannot
     be directly compared to one rated "870 CCA SAE" — the test conditions differ.
 
+## CCA vs CA: The Temperature Difference
+
+The same battery always shows a higher CA than CCA, because CA is measured at 0°C (32°F) and
+CCA at −18°C (0°F). The warmer temperature lets the chemistry deliver more current. A buyer
+who compares a competitor's CA number against another's CCA number is comparing apples to
+oranges — always normalize to the same standard and the same temperature. For the full CCA
+explanation see [what is CCA](../what-is-cca/index.md).
+
 ## Example: Reading a DINWEY Datasheet
 
 A DINWEY 190H52 (N200) datasheet shows:
@@ -68,6 +76,9 @@ The most common datasheet mistake is focusing only on CCA and ignoring **dimensi
 polarity**. A high-CCA battery that does not fit the tray or has reversed polarity is unusable.
 Check all fields, not just the headline number.
 
+For terminal and polarity detail see
+[terminal types & orientation](../terminal-types-orientation/index.md).
+
 ## Related
 
 - [What is CCA](../what-is-cca/index.md)
@@ -82,4 +93,3 @@ Check all fields, not just the headline number.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (request a full datasheet) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

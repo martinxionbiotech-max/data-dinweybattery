@@ -1,19 +1,19 @@
 ---
-description: Truck battery charging guide — charging voltage, three-stage charging, charging system health and how to prevent overcharge and undercharge.
+description: Truck battery charging guide — correct charging voltage by battery type, the three-stage charge profile, and how to avoid the two silent killers of battery life.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
-  - q: What voltage should a 12V truck battery charge at?
-    a: A 12V lead-acid battery charges at roughly 13.8–14.4V (absorption) from the alternator, then settles to about 13.2–13.8V (float). Exact values depend on the battery type (flooded vs AGM) and temperature. Follow the manufacturer's specification.
-  - q: What are the three stages of battery charging?
-    a: Bulk (constant current at maximum rate), absorption (constant voltage, current tapers), and float (low maintenance voltage). This three-stage process safely returns a battery to full charge without overcharging.
-  - q: Can a bad alternator ruin a truck battery?
-    a: Yes. An alternator that overcharges (voltage too high) boils off electrolyte, while one that undercharges leaves the battery sulfated. Both shorten battery life dramatically.
-  - q: How do I know if my battery is overcharging?
-    a: Signs include frequent water loss (in serviceable batteries), a hot battery case, and voltage above ~14.8V at the terminals while running. Have the charging system checked.
-  - q: Can I use a car charger on a truck battery?
-    a: Only if the charger's voltage matches (12V or 24V) and it can supply enough current. A 24V system needs a 24V charger, or each 12V battery charged separately. Match the charger to the battery type (flooded, EFB or AGM).
+  - q: What voltage should I charge a 12V truck battery at?
+    a: For a 12V flooded battery, absorption is roughly 14.4–14.8V and float 13.2–13.5V. AGM charges at a slightly lower absorption (14.2–14.7V) and must not exceed about 14.8V. A 24V system charges at roughly double these figures.
+  - q: Can I charge a 24V truck battery with a 12V charger?
+    a: No. Use a charger rated for 24V, or charge each 12V battery separately. A 12V charger will not properly charge a 24V series pair.
+  - q: What is the difference between bulk, absorption and float charging?
+    a: Bulk is constant current at maximum safe rate; absorption is constant voltage as current tapers to full charge; float is a low maintenance voltage that holds full charge without overcharging.
+  - q: What kills a truck battery faster — overcharging or undercharging?
+    a: Both shorten life. Undercharging causes sulfation and capacity loss; overcharging causes water loss and plate corrosion. Keeping the charging system within specification is the key.
+  - q: How often should I check the charging system?
+    a: Test the charging voltage at every service, and check more often in high-load or harsh-climate fleets.
 ---
 
 # Truck Battery Charging Guide
@@ -41,11 +41,22 @@ water and overheats. Getting the charging right is the single biggest lever for 
     A 24V system charges at roughly double these figures (≈28.8V absorption). Always use a
     charger rated for the full system voltage, or charge each 12V battery separately.
 
+### Why AGM Needs a Lower Ceiling
+
+AGM is a sealed, pressure-regulated design. Charging it too aggressively generates gas the
+battery cannot vent freely, which dries out the absorbed electrolyte and permanently reduces
+capacity. This is why AGM chargers have a dedicated profile that caps absorption below ~14.8V —
+the margin is not optional.
+
 ## The Three Charging Stages
 
 1. **Bulk** — constant current at the maximum safe rate; voltage rises as the battery fills
 2. **Absorption** — constant voltage; current tapers as the battery reaches full charge
 3. **Float** — low maintenance voltage; holds the battery at full charge without overcharging
+
+A three-stage charger is safer than a simple constant-voltage charger because it stops forcing
+current once the battery is full — the difference between a battery that lasts years and one
+that is slowly cooked.
 
 ## The Two Silent Killers
 
@@ -62,6 +73,10 @@ water and overheats. Getting the charging right is the single biggest lever for 
 4. **Don't deep-discharge** — recharge promptly after any deep discharge
 5. **In cold climates** — a discharged battery freezes more easily; keep it charged
 
+For how to verify the charging system is working, see
+[how to test a truck battery](../how-to-test-battery/index.md). For generator-specific idle
+charging see [batteries for diesel generators](../diesel-generator/index.md).
+
 ## Related
 
 - [How to maintain a truck battery](../how-to-maintain-truck-battery/index.md)
@@ -76,4 +91,3 @@ water and overheats. Getting the charging right is the single biggest lever for 
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (request a datasheet) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-

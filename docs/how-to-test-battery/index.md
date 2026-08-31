@@ -1,19 +1,19 @@
 ---
-description: How to test a truck battery — multimeter voltage, load testing, conductance testing and how to interpret the results.
+description: How to test a truck battery — resting voltage, charging voltage and load test explained, with pass/fail interpretation for 12V and 24V systems.
 type: article
 date_published: 2026-08-30
-date_modified: 2026-08-30
+date_modified: 2026-08-31
 faq:
   - q: How do I test a truck battery with a multimeter?
-    a: With the engine off, a healthy 12V battery reads about 12.6–12.8V at rest. Below 12.4V indicates partial discharge; below 12.0V is deeply discharged. A multimeter shows voltage, but a load test is needed to confirm CCA capacity.
+    a: Measure resting voltage with the engine off. A healthy 12V battery reads about 12.6–12.8V at rest. Below 12.4V indicates partial discharge; below 12.0V is deeply discharged. A multimeter shows charge state, but a load test is needed to confirm CCA capacity.
+  - q: What voltage should a truck battery read at rest?
+    a: A healthy 12V battery reads 12.6–12.8V at rest; a 24V pair reads about 25.2–25.6V. Lower readings indicate a state of discharge.
+  - q: What voltage should the alternator put out?
+    a: With the engine running, a healthy 12V system should read 13.8–14.4V, proving the alternator is charging. Below about 13.5V suggests the alternator is not keeping up.
   - q: What is a battery load test?
-    a: A load test applies a controlled load and measures how the battery holds voltage under load. It is the most reliable way to confirm whether a battery can still deliver its rated CCA.
-  - q: What is a conductance test?
-    a: A conductance tester sends a small AC signal through the battery and estimates its health from the internal resistance. It is quick and non-invasive, but a load test remains the gold standard.
-  - q: What voltage should a healthy battery show when running?
-    a: With the engine running, a 12V system should show about 13.8–14.4V at the battery — this confirms the alternator is charging. Below ~13.5V may indicate a charging problem.
-  - q: When should I replace a truck battery?
-    a: Replace it when it fails a load test, shows a resting voltage that will not hold charge, or reaches the end of its typical 3–5 year service life. A failing battery risks stranding the vehicle.
+    a: A load tester applies a controlled load (typically half the CCA rating) for about 15 seconds and measures how the battery holds voltage. It is the definitive test of whether the battery can still crank.
+  - q: Can a battery read 12.6V and still be bad?
+    a: Yes. A battery can hold a surface charge that reads normal but fail under cranking load. That is why voltage alone is not enough — a load test confirms real CCA delivery.
 ---
 
 # How to Test a Truck Battery
@@ -49,6 +49,11 @@ With the engine off (and after any surface charge has settled), measure across t
 Start the engine and measure again. A healthy 12V system should read **13.8–14.4V**, proving
 the alternator is charging. Below ~13.5V suggests the alternator is not keeping up.
 
+This test is often the real diagnosis. A battery that "keeps dying" is frequently not the
+battery at all — it is an alternator that is not charging it. Checking running voltage
+separates battery failure from charging-system failure, which determines whether you replace
+the battery, the alternator, or both.
+
 ## Test 3: Load Test (CCA Confirmation)
 
 A load tester applies a controlled load (typically half the CCA rating) for ~15 seconds and
@@ -78,4 +83,3 @@ the battery can actually deliver its rated cold cranking amps.
 ## Find the Right Battery
 
 Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (request CCA test data) or [contact us](https://dinweysbattery.com/contact/) for a quote.
-
