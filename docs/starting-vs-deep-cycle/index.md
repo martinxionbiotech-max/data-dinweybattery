@@ -55,6 +55,8 @@ active material. Asking one battery to do both jobs means compromising on both.
 - **Using a starting battery for deep loads** — repeated deep discharges will quickly ruin a
   starting battery's thin plates.
 
+Depth of discharge and cycle life trade off roughly inversely — and the article's own numbers make the trade exact. A starting battery that earns its **300-cycle** ceiling at a **20%** depth of discharge carries a lifetime throughput of roughly **300 × 0.20 = 60** "full-cycle-equivalents" (cycles × depth). Drag that same battery to an **80%** depth and the same 60 units divide by 0.80 to give only **60 ÷ 0.80 = 75 cycles** — a 4× deeper discharge (80% ÷ 20% = 4×) buying a 4× shorter life (300 ÷ 75 = 4×). That is the arithmetic behind the warning that deep-cycling a starter "quickly ruins" it: the 80% depth a deep-cycle bank is built to survive for hundreds of cycles would exhaust a starter's entire lifetime throughput in roughly 75 discharges. Deep-cycle batteries don't break this rule — they engineer a far larger throughput constant by using thick plates instead of thin ones.
+
 ## Powering Auxiliary Equipment
 
 Trucks increasingly carry heavy auxiliary loads — refrigeration, telematics, sleeper-cab power,

@@ -78,6 +78,8 @@ A DINWEY 190H52 (N200) datasheet shows:
 This tells you it is a large, high-capacity, high-CCA battery for heavy trucks — but you must
 still confirm the 520×278×220mm footprint and terminal orientation fit your vehicle.
 
+Convert the example's RC to amp-hours and you can see why Ah and RC are not interchangeable. Reserve capacity is minutes at a **25 A** draw, so the 190H52's **320 min** works out to **320 × 25 = 8000 A·min ÷ 60 ≈ 133 Ah**. That is only about **67%** of the **200 Ah** nameplate (133 ÷ 200 ≈ 0.67) — not an inconsistency but two different tests: Ah is measured at one specified discharge rate, RC at the harder 25 A rate, and lead-acid delivers less total capacity the faster you pull it. Reading the 133 Ah figure as "the real capacity" or the 200 Ah as "what you get in reserve" would both be wrong — each number answers its own question at its own rate.
+
 ## The One Mistake to Avoid
 
 The most common datasheet mistake is focusing only on CCA and ignoring **dimensions and

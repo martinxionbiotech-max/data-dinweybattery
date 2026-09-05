@@ -53,6 +53,15 @@ capacity) — two Group 31 batteries can have very different CCA ratings.
     Group 8D is being increasingly replaced by Group 31, which delivers comparable CCA in a
     smaller, lighter package. Check your battery tray before switching sizes.
 
+The size gap is easy to under-read from a table. Multiply each footprint and Group 31 displaces
+**≈13.7 L** (330 × 173 × 240 mm) while Group 8D displaces **≈37.3 L** (527 × 283 × 250 mm) —
+**about 2.7× the volume** for a battery that does not deliver 2.7× the CCA. Reversed, a Group 31
+occupies only **~37%** (13.7 ÷ 37.3) of an 8D's space, so an 8D-to-31 swap frees **~63%** of the
+tray volume. The 4D sits in between at **≈29.2 L** (527 × 222 × 250 mm); because it shares 8D's
+exact length and height, the 8D-vs-4D difference is purely width — 283 ÷ 222 = **1.27** — so 8D
+is ~27% bulkier than 4D. This is the arithmetic behind the industry's move off 8D: Group 31
+reclaims most of the tray while keeping comparable cranking power.
+
 ## Why Group Size Matters
 
 - **Fit** — the battery must physically fit the tray and hold-down

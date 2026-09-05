@@ -61,6 +61,14 @@ model it replaces:
     layout. Always cross-check the physical footprint, terminal type and polarity before
     substituting one for the other.
 
+The two rows hide a clean proportionality. Divide CCA by capacity and both classes land on the
+same number: **900 A ÷ 150 Ah = 6.0 A/Ah**, and **1200 A ÷ 200 Ah = 6.0 A/Ah**. The GB code's
+trailing number therefore carries a fixed **6 A of CCA per Ah** across the range. That means the
+step from the 150 class to the 200 class is **+50 Ah** of capacity and **+300 A** of CCA — **both
++33%** (50 ÷ 150 and 300 ÷ 900). So even though the "equivalent" JIS names (N150/N200) read like
+two separate tiers, the underlying GB numbers scale capacity and CCA in lockstep — which is why a
+quick "6× capacity" rule of thumb predicts the quoted CCA of either code.
+
 ## Why This Matters for Importers
 
 Many JIS-market buyers source from Chinese factories, where batteries are quoted in GB codes

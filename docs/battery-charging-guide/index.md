@@ -49,6 +49,17 @@ water and overheats. Getting the charging right is the single biggest lever for 
     A 24V system charges at roughly double these figures (≈28.8V absorption). Always use a
     charger rated for the full system voltage, or charge each 12V battery separately.
 
+### Why 24V Charging Is Exactly Double
+
+The 24V figures are not a separate specification — they are the 12V figures multiplied by two,
+because a 24V system is two 12V batteries in series sharing one current while their voltages
+add. Verify it against the table: absorption 14.4–14.8V × 2 = 28.8–29.6V, which is why the
+warning above quotes ≈28.8V absorption; and float 13.2–13.5V × 2 = 26.4–27.0V. The AGM hard
+ceiling scales the same way — 14.8V × 2 = 29.6V, so a 24V AGM pair must never be pushed past
+≈29.6V. This gives a quick check when reading a 24V charger's setpoints: every figure should
+land at exactly double the matching 12V value, and a charger that cannot reach 28.8V absorption
+is silently undercharging the pair.
+
 ### Why AGM Needs a Lower Ceiling
 
 AGM is a sealed, pressure-regulated design. Charging it too aggressively generates gas the

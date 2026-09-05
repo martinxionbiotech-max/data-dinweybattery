@@ -72,6 +72,14 @@ comparable** to an SAE or EN figure — the same battery will show a higher numb
 under SAE or EN. This is a common source of confusion when buyers compare batteries across
 markets.
 
+To put the 3°C gap in physical terms: the two test points sit at **255.15 K** (−18°C) and
+**258.15 K** (−15°C) on the absolute temperature scale, so the JIS test is run at a point that
+is **≈1.18% warmer** (3 ÷ 255.15 ≈ 0.0118). Because a lead-acid battery delivers more cranking
+current as the electrolyte warms, that 1.18% warmer test point always shifts the reading *up* —
+a JIS CCA figure is systematically flattered relative to the same battery measured at −18°C.
+Three degrees sounds trivial, but it is a directional bias, not a rounding error: it is exactly
+why no single conversion factor can reconcile JIS with SAE or EN.
+
 ### The Approximate SAE↔DIN Conversion
 
 There is no exact universal conversion between standards, but battery manufacturers publish an

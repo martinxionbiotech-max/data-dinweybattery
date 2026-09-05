@@ -82,6 +82,18 @@ For the full maintenance procedure see
 For fleet reliability, consider replacing batteries at the 3–5 year mark, or sooner if they
 fail a load test. The cost of a proactive replacement is far lower than a roadside breakdown.
 
+The arithmetic behind that cost is worth doing once: per-year cost is the purchase price
+divided by the years of service, so a shorter life concentrates the same price into fewer
+years. A battery that lasts 3 years costs 1/3 of its price per year, while one that lasts 5
+years costs 1/5 — divide the two and the 3-year unit comes to (1/3) ÷ (1/5) = 5/3 ≈ 1.67×, or
+about **67% more per year** than the 5-year unit at the same purchase price. Run the same
+division across the lifespan table above: an SLI that dies at 3 years (the floor of its 3–5
+year range) costs 67% more per year than one that reaches 5, and an AGM that quits at 4 years
+costs (1/4) ÷ (1/6) = 1.5× — 50% more per year — than one that makes the 6-year top of its
+4–6 year range. Every extra year of service is therefore a direct discount on the same battery,
+which is what makes the maintenance steps above a per-year cost lever, not just a reliability
+one.
+
 A practical rule: track each battery's install date, and flag anything approaching three years
 for a load test before the cold season. A battery that passes at three years may still fail at
 four — the point of annual testing is to catch the decline curve, not to predict an exact

@@ -82,6 +82,8 @@ corrosion and water loss. In hot climates:
 | 60038 (DIN100) | DIN/EN | 870 A EN | Cold European trucks |
 | 58827 (DIN88) | DIN/EN | 800 A EN | Temperate European trucks |
 
+Put numbers on the 20–30% rule and it stops being abstract. An engine that genuinely needs **800 A** should carry a battery rated **800 × 1.20 = 960 A** up to **800 × 1.30 = 1040 A**. That band immediately rules out the 58827's 800 A and even the 145G51's 900 A — both fall below the 960 A floor — and points straight at the 190H52's 1100 A. The math scales with the demand: a **900 A** requirement targets **1080–1170 A**, a band the 1100 A N200 sits squarely inside (1100 lies between 1080 and 1170), while an **1100 A** requirement would demand **1320–1430 A** — beyond every model in the table, which is exactly why the arctic guidance pairs the top-CCA model with AGM rather than chasing a bigger flooded battery.
+
 ## Related
 
 - [What is CCA](../what-is-cca/index.md)

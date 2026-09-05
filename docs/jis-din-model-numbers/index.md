@@ -71,6 +71,16 @@ specifying:
 2. Confirm **dimensions** (the N200 is physically larger than the N150)
 3. Confirm **voltage, CCA, terminal type and polarity**
 
+The leading digits in a JIS type number are an index, not a spec. Divide to expose the miss:
+**135 Ah ÷ 145 = 0.93** (so 145G51 carries ~7% *less* than its number implies), while
+**200 Ah ÷ 190 = 1.05** (190H52 carries ~5% *more*). The error is nearly equal in size —
+**10 Ah** — but points in opposite directions (145 overstates, 190 understates), so there is no
+fixed offset to add or subtract. DIN runs the opposite game: **DIN88 = 88 Ah** and
+**DIN100 = 100 Ah**, so capacity is readable straight off the shorthand, while the type numbers
+58827 and 60038 encode nothing readable at all. The practical rule: treat a JIS leading number as
+a rough size index (accurate only to about ±7%), and read DIN capacity from the "DINxx" name,
+never the type number.
+
 ## DINWEY Model Reference
 
 | Model | Standard | Type number | Capacity | CCA | Dimensions (mm) |

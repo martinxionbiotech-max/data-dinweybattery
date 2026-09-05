@@ -59,6 +59,8 @@ construction — which is why EFB is usually described as the "mid-tier" option 
 *Cycle-life and charge-acceptance figures are typical ranges from Chengguang Energy technical
 documentation — real values vary by model, duty cycle and climate.*
 
+Read the cycle-life row's top ends and the "mid-tier" label becomes arithmetic. EFB tops out at **600 cycles** — exactly **2×** flooded's **300-cycle** ceiling (600 ÷ 300 = 2.0) and exactly **half** of AGM's **1200-cycle** ceiling (1200 ÷ 600 = 2.0). The bottom end tells the same story with one tighter step: EFB's 400 cycles double flooded's 200 (400 ÷ 200 = 2.0), while AGM's 600 is only 1.5× EFB's 400 (600 ÷ 400 = 1.5). So at the top of the range the three tiers stack in an exact 2× ladder — flooded 300, EFB 600, AGM 1200 — with EFB sitting on the midpoint, which is the entire "enhanced flooded" positioning in one line: double a flooded battery's durability without paying AGM's 1.8–2.2× price.
+
 ## Why Charge Acceptance Matters for Commercial Vehicles
 
 Modern trucks carry far more electrical load than a basic starting battery was designed for —

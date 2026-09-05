@@ -72,6 +72,26 @@ specify the one that matches your dominant risk. For the CCA side see [what is C
 | 58827 (DIN88) | DIN/EN | 150 min |
 | 60038 (DIN100) | DIN/EN | 170 min |
 
+### Converting RC to Amp-Hours
+
+RC is quoted in minutes, but the energy behind it is one multiplication away. During the test
+the battery holds a constant 25 amps, and energy is current × time, so the ampere-hours
+delivered before the battery drops below 10.5V is simply 25 A × (minutes ÷ 60). Applied to the
+table above:
+
+| Model | RC | Ah delivered (25 A × min ÷ 60) |
+|---|---|---|
+| 145G51 | 220 min | 25 × 220 ÷ 60 ≈ 92 Ah |
+| 190H52 | 320 min | 25 × 320 ÷ 60 ≈ 133 Ah |
+| 58827 | 150 min | 25 × 150 ÷ 60 ≈ 63 Ah |
+| 60038 | 170 min | 25 × 170 ÷ 60 ≈ 71 Ah |
+
+So the 320-minute 190H52 delivers roughly 133 Ah before hitting 10.5V — more than double the
+≈63 Ah of the 150-minute 58827. One caveat: this is the energy actually delivered during the RC
+test, not the nameplate C20 Ah rating. Because a 25A draw is far faster than the 20-hour rate,
+the RC-derived figure reads lower than a full C20 Ah rating for the same battery — which is
+exactly why RC and Ah stay separate specifications.
+
 ## Why RC Matters for Commercial Vehicles
 
 Modern trucks carry more electrical load than ever — telematics, refrigeration, lighting,
