@@ -13,7 +13,7 @@ faq:
   - q: What is a battery load test?
     a: A load tester applies a controlled load (typically half the CCA rating) for about 15 seconds and measures how the battery holds voltage. It is the definitive test of whether the battery can still crank.
   - q: Can a battery read 12.6V and still be bad?
-    a: Yes. A battery can hold a surface charge that reads normal but fail under cranking load. That is why voltage alone is not enough — a load test confirms real CCA delivery.
+    a: Yes. A battery can hold a surface charge that reads 12.6V but fail under cranking load. That is why voltage alone is not enough — a load test confirms real CCA delivery.
 ---
 
 # How to Test a Truck Battery
@@ -28,7 +28,7 @@ battery can read 12.6V and still fail to crank. A load test is the definitive ch
 2. **12.6–12.8V is the healthy resting window** — below 12.0V means deeply discharged and needs an immediate charge; a 24V pair doubles to ~25.2–25.6V.
 3. **The "keeps dying" battery is often the alternator** — a running reading below ~13.5V (or above 15V) points at the charging system, which changes whether you replace the battery, the alternator, or both.
 4. **A load test is the definitive check** — it applies half the CCA rating for ~15 seconds and exposes weakness that a resting-voltage reading cannot.
-5. **Run all three tests, not one** — resting voltage answers charge state, running voltage answers the alternator, and the load test answers cranking ability; a single test only answers a single question.
+5. **Run all 3 tests, not 1** — 12.6–12.8V answers charge state, 13.8–14.4V answers the alternator, and the load test answers cranking ability; a single test only answers a single question.
 
 ## Three Tests, Three Answers
 

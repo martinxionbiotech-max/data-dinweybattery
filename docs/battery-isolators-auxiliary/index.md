@@ -5,15 +5,15 @@ date_published: 2026-08-31
 date_modified: 2026-08-31
 faq:
   - q: What does a battery isolator do?
-    a: A battery isolator separates the starting battery from an auxiliary battery bank so auxiliary loads (sleeper cab, reefer, lift gate) cannot drain the starting battery. When the engine runs, the alternator charges both; when it stops, the two banks are isolated.
+    a: A battery isolator separates the starting battery from an auxiliary bank so loads (sleeper cab, reefer, lift gate) cannot drain the start battery. When the engine runs, the alternator charges both; when it stops, the two banks are isolated — with only a ~0.3–0.7 V drop across the isolator.
   - q: What is the difference between an isolator and a DC-DC charger?
-    a: An isolator simply blocks current from flowing back to the starting battery when the engine is off. A DC-DC charger does that and also provides a proper multi-stage charge to the auxiliary bank, which deep-cycle and AGM batteries need to stay healthy.
+    a: An isolator simply blocks reverse current when the engine is off. A DC-DC charger also provides a proper multi-stage charge (bulk to ~14.4 V, then float at 13.5–13.8 V), which a deep-cycle or AGM auxiliary needs to stay healthy over hundreds of cycles.
   - q: Do I need an auxiliary battery in a truck?
-    a: Only if you run loads with the engine off — sleeper-cab HVAC, refrigeration, inverters or lift gates. If everything runs while driving, the starting battery and alternator are usually enough.
+    a: Only if you run loads with the engine off — sleeper-cab HVAC, refrigeration, inverters or lift gates. A 25 A reefer over 8 hours draws ~200 Ah, which a starting battery was never built to provide.
   - q: Can I charge two batteries with one alternator?
-    a: Yes — through an isolator or DC-DC charger the alternator charges both banks while the engine runs, while keeping them electrically separate when it stops.
+    a: Yes — through an isolator or DC-DC charger the alternator charges both banks while the engine runs, keeping them electrically separate when it stops, with only a ~0.3–0.7 V drop across the isolator.
   - q: What battery should I use for the auxiliary bank?
-    a: A deep-cycle or AGM battery, sized to the load's continuous draw and required runtime. A starting battery is the wrong tool for sustained hotel loads.
+    a: A deep-cycle or AGM battery, sized to the load's continuous draw and required runtime. For example, a 25 A load over 8 hours needs ~200 Ah usable, or ~400 Ah at the 50% depth-of-discharge limit — a starting battery is the wrong tool.
 ---
 
 # Battery Isolators & Auxiliary Systems for Trucks
@@ -24,10 +24,10 @@ battery from being drained. Use a deep-cycle or AGM auxiliary battery sized to t
 
 ## Key Takeaways
 
-1. **The two jobs need opposite battery designs** — a starting battery's thin plates are built for a big current burst, while a deep-cycle battery's thick plates survive repeated discharge; using the wrong one strands you.
+1. **The 2 jobs need opposite battery designs** — a starting battery's thin plates are built for a 900–1100 A burst, while a deep-cycle battery's thick plates survive repeated discharge to ~50%; using the wrong one strands you.
 2. **The 50% rule drives bank sizing** — a 25 A reefer running 8 hours needs roughly 200 Ah usable, and because lead-acid should not drop below ~50% for service life, that means a bank of roughly 400 Ah or more.
-3. **An isolator is the minimum-viable separation** — it protects the start, but an AGM or deep-cycle auxiliary is only "marginal" on a plain isolator because it gets no proper charge profile.
-4. **The DC-DC charger is the real investment** — its bulk-absorption-float profile is what keeps a hard-cycled auxiliary bank healthy over hundreds of cycles, not just connected.
+3. **An isolator is the minimum-viable separation** — it protects the start, but a diode isolator drops ~0.3–0.7 V across it, and an AGM or deep-cycle auxiliary gets no proper charge profile, so it is only marginal.
+4. **The DC-DC charger is the real investment** — its bulk-absorption-float profile (bulk to ~14.4 V, float at 13.5–13.8 V) is what keeps a hard-cycled auxiliary bank healthy over hundreds of cycles, not just connected.
 5. **The auxiliary bank is a second parallel system, not a replacement** — it still lives in the same 12V (or 24V) architecture as the rest of the truck, so system-voltage logic still applies.
 
 ## Why a Second Battery System Exists

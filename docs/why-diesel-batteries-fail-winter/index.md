@@ -5,13 +5,13 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: Why do truck batteries die more in winter?
-    a: Cold slows the battery's internal chemical reaction, reducing available current, while simultaneously thickening engine oil and increasing the cranking effort required. The result is a battery that is weaker just when the engine needs more power.
+    a: Cold slows the battery's internal chemical reaction while thickening the oil. At −18 °C the battery holds only ~50–60% of its room-temperature capacity, exactly when the engine needs more cranking power.
   - q: How much does cold reduce battery capacity?
     a: A lead-acid battery loses a significant fraction of its cranking ability at freezing temperatures compared to room temperature. This is why the CCA rating (measured at −18°C) is the key winter specification.
   - q: How can I prevent winter starting failure?
-    a: Choose a battery with adequate CCA for your climate, keep terminals clean and tight, maintain a full state of charge, and in extreme cold consider an AGM battery or a battery warmer.
+    a: Choose a battery with adequate CCA for your climate (700–800+ light, 900–1000+ medium, 1000–1100+ heavy), keep terminals clean and tight, maintain a full charge, and in extreme cold consider an AGM battery or a battery warmer.
   - q: Is AGM better than flooded for winter?
-    a: AGM batteries generally deliver more reliable cold-cranking performance and are more resistant to vibration than flooded lead-acid, making them a strong choice for extreme cold and heavy-duty applications.
+    a: AGM batteries deliver more reliable cold-cranking and faster charge acceptance at −18 °C, where a flooded battery holds only ~50–60% of its rated capacity, making AGM a strong choice for extreme cold.
   - q: Does a 24V truck handle winter better than 12V?
     a: A 24V system cranks with half the current for the same power, which reduces voltage drop. But the underlying cold-temperature chemistry limits still apply — CCA selection matters regardless of voltage.
 ---
@@ -26,10 +26,10 @@ with adequate CCA for your climate, kept fully charged and well-maintained.
 ## Key Takeaways
 
 1. **At −18°C a battery delivers only a fraction of its room-temperature current** — the CCA rating exists precisely to quantify that 30-second, above-7.2V collapse.
-2. **Winter is three failures compounding** — a weaker battery, thicker engine oil, and higher electrical demand (glow plugs, heaters, lights) that compete with the starter.
+2. **Winter is 3 failures compounding** — a weaker battery (~50–60% capacity at −18 °C), thicker engine oil, and higher electrical demand (glow plugs, heaters, lights) that compete with the starter.
 3. **CCA selection matters regardless of voltage** — a 24V system halves the current for the same power, but the cold-chemistry limit still applies.
 4. **Heavy semis need 1000–1100+ CCA in cold climates** — light pickups 700–800 and medium-duty 900–1000; minimum spec is not enough margin in a hard freeze.
-5. **A discharged battery freezes more easily** — keep it fully charged and load-test in autumn so a planned replacement never becomes a January roadside emergency.
+5. **A discharged battery freezes more easily** — at 50% charge it freezes near −20 °C instead of −60 °C; keep it fully charged and load-test in autumn so a planned replacement never becomes a January roadside emergency.
 
 ## The Triple Effect of Cold
 

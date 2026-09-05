@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: How do I maintain a truck battery?
-    a: Keep terminals clean and tight, maintain a full charge, secure against vibration, check electrolyte (where applicable), and load-test twice a year.
+    a: Keep terminals clean and tight, maintain a full charge (12.6–12.8V at rest), secure against vibration, check electrolyte (where applicable), and load-test 2× a year.
   - q: How often should I check a truck battery?
-    a: Visually inspect at every service, and do a full maintenance pass with a load test twice a year — before winter and before summer.
+    a: Visually inspect at every service, and do a full maintenance pass with a load test 2× a year — before winter and before summer, when capacity drops to ~50–60%.
   - q: Should I top up a truck battery with water?
-    a: Only for batteries with removable caps, and only with distilled water — never tap water. Sealed and maintenance-free batteries need no topping up.
+    a: Only for batteries with removable caps, and only with distilled water — never tap water, whose minerals poison the plates. Top up to ~1.265 specific gravity; sealed and maintenance-free batteries need no topping up.
   - q: Which terminal do I disconnect first?
-    a: Remove the negative terminal first and reconnect it last, to reduce the risk of a short circuit.
+    a: Remove the negative terminal first and reconnect it last — at 900–1100 A of cranking current, the order prevents a short-circuit spark.
   - q: What is the single most important maintenance habit?
-    a: Keeping the battery fully charged. A battery left partially discharged sulfates and permanently loses capacity.
+    a: Keeping the battery fully charged (12.6–12.8V at rest). A battery left partially discharged sulfates and permanently loses capacity, dropping ~3–5% a month while idle.
 ---
 
 # How to Maintain a Truck Battery
@@ -24,11 +24,11 @@ a year can double service life.
 
 ## Key Takeaways
 
-1. **Full charge is the highest-leverage habit** — a battery left partially discharged sulfates and permanently loses capacity, and by the time it visibly struggles the capacity is already gone.
-2. **Load-test twice a year, not once** — before winter and before summer, because a battery that passes in autumn can still fail in the worst of winter.
-3. **Disconnect the negative terminal first and last** — remove it first and reconnect it last to cut short-circuit risk; getting the order backwards is the classic spark incident.
-4. **Distilled water only, never tap water** — and only for batteries with removable caps; sealed and maintenance-free batteries need no topping up at all.
-5. **Corrosion is a resistance problem, not just cosmetic** — it sits exactly where the starter draws hundreds of amps, so a thin dielectric-grease coat after cleaning pays for itself.
+1. **Full charge is the highest-leverage habit** — a battery left at 70% charge self-discharges ~3–5% a month and sulfates permanently, and by the time it visibly struggles the capacity is already gone.
+2. **Load-test 2× a year, not once** — before winter and before summer, because a battery that passes in autumn can still fall to ~50–60% capacity by the worst of winter.
+3. **Disconnect the negative terminal first and last** — remove it first and reconnect it last to cut short-circuit risk; at the 900–1100 A a heavy truck draws, the order is a safety rule, not a formality.
+4. **Distilled water only, never tap water** — tap water's minerals poison the plates; a topped-up flooded battery should read ~1.265 specific gravity when full, and sealed units need no topping up at all.
+5. **Corrosion is a resistance problem, not just cosmetic** — every 1 mΩ of terminal resistance drops ~1 V at a 1000 A crank, so a thin dielectric-grease coat after cleaning pays for itself.
 
 ## 1. Keep Terminals Clean and Tight
 
