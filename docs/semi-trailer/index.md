@@ -26,9 +26,9 @@ group size to your market (JIS N200/N150 or DIN100/DIN88).
 
 1. **24V halves the current for the same power** — thinner, lighter wiring and less voltage drop over long cable runs; that is why an 850–1100+ CCA semi bank cranks a large diesel more reliably than a 12V equivalent.
 2. **Series wiring adds voltage but not capacity** — 12V + 12V = 24V while Ah stays at a single battery's rating; parallel does the opposite, doubling capacity while keeping voltage at 12V.
-3. **The matched-pair rule is non-negotiable** — in a series bank the weaker battery is over-discharged and over-charged on every cycle, failing early and dragging the good battery down with it.
-4. **Always replace both 24V batteries together** — same model, same age, same rating; if one dies early, check the charging system first, because an alternator fault kills batteries in pairs.
-5. **Cold climate pushes CCA to the top of the range** — thick oil and reduced cold output justify the highest CCA in the group size, and often a move from flooded to AGM for dependable cold starts.
+3. **The matched-pair rule is non-negotiable** — in a 24V series bank the weaker battery is over-discharged and over-charged on every cycle, failing early and dragging the good battery down with it.
+4. **Always replace both 24V batteries together** — same model, same age, same rating; if 1 dies early, check the charging system first, because an alternator fault kills batteries in pairs.
+5. **Cold climate pushes CCA to 1000–1100+** — thick oil and reduced cold output justify the highest CCA in the group size, and often a move from flooded to AGM for dependable cold starts.
 
 ## The Semi Truck Electrical System
 

@@ -11,9 +11,9 @@ faq:
   - q: What gauge jumper cables for a semi truck?
     a: Use 2 AWG or thicker cables rated for 400–600+ amps. Standard passenger-car cables are usually too thin for a large diesel starter.
   - q: What jump pack do I need for a semi?
-    a: A heavy-duty jump pack rated for large diesel engines. Standard automotive jump packs are usually insufficient — check the peak amps and diesel rating.
+    a: A heavy-duty jump pack rated for 400–600+ amps and large diesel engines. Standard automotive jump packs are usually insufficient — check the peak amps and diesel rating.
   - q: What is the correct jump-start connection order?
-    a: Match voltage, connect positive to positive, connect the negative to a clean ground on the dead vehicle (not the battery negative terminal), start the donor then the dead vehicle, and disconnect in reverse order.
+    a: Match voltage (24V to 24V, never 12V), connect positive to positive, connect the negative to a clean ground on the dead vehicle (not the battery negative terminal), start the donor then the dead vehicle, and disconnect in reverse order.
 ---
 
 # How Many Amps to Jump-Start a Semi Truck
@@ -26,9 +26,9 @@ system from a 12V source directly.
 
 1. **2 AWG or thicker is non-negotiable** — cables must be rated for 400–600+ amps; a thin cable heats up and drops voltage, the most common cause of a failed jump on a large diesel.
 2. **Never jump a 24V truck from a 12V source** — the voltage mismatch can damage both systems; use a 24V source or two 12V batteries in series.
-3. **The final connection goes to ground, not the battery** — the last connection is the one most likely to spark, and a spark near the battery can ignite hydrogen gas.
-4. **A semi's starter draws several hundred amps** — far beyond a passenger car, so a standard automotive jump pack is usually insufficient for a large diesel.
-5. **Disconnect in reverse order** — ground first, then positives; the sequence is a safety procedure, not a suggestion.
+3. **The final connection goes to ground, not the battery** — on a 24V truck the last connection is the one most likely to spark, and a spark near the battery can ignite the hydrogen gas it vents during cranking.
+4. **A semi's starter draws 400–600+ amps** — far beyond a passenger car, so a standard automotive jump pack is usually insufficient for a large diesel.
+5. **Disconnect in reverse order** — ground first, then positives; with 400–600+ amps flowing, the sequence is a safety procedure, not a suggestion.
 
 ## The Starting Current
 
