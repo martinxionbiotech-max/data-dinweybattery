@@ -9,25 +9,25 @@ faq:
   - q: What is the difference between UN2794 and UN2800?
     a: UN2794 covers wet, acid-filled batteries; UN2800 covers non-spillable batteries (typically AGM/VRLA). UN2800 is exempt from some wet-battery requirements, making it simpler and cheaper to ship.
   - q: How do truck batteries ship internationally?
-    a: By sea freight under the IMDG Code, with batteries secured against short circuit and movement, terminals protected, and full documentation (invoice, packing list, MSDS, dangerous goods declaration where required).
+    a: By sea under the IMDG Code, with terminals protected against short circuit and movement and full documentation (invoice, packing list, MSDS, DGD where required). Wet UN2794 is restricted from passenger air freight, so sea is usually the only compliant route at container scale.
   - q: What documentation is needed to ship batteries?
-    a: A commercial invoice, packing list, a current MSDS, and a dangerous-goods declaration where required. Some destination countries impose additional import requirements.
+    a: A commercial invoice, packing list, a current MSDS, and a dangerous-goods declaration (DGD) where required — the DGD hinges on the UN number, UN2794 or UN2800, so get the classification right before the paperwork. Some destination countries impose additional import requirements.
   - q: Why is AGM easier to export than flooded?
     a: AGM batteries that meet the non-spillable criteria classify as UN2800, which is exempt from some of the more onerous wet-battery requirements — a key reason AGM is attractive for export programs.
 ---
 
 # Truck Battery Shipping & Transport Rules
 
-**TL;DR** — Lead-acid batteries are classified dangerous goods (UN2794 wet; UN2800
-non-spillable for AGM/VRLA). They ship regularly by sea under the IMDG Code with correct
-packing and documentation. AGM batteries that meet the non-spillable criteria are the simplest
-to transport.
+**TL;DR** — Lead-acid batteries are classified dangerous goods: UN2794 for wet flooded, UN2800
+for non-spillable AGM/VRLA. A non-spillable battery must pass an 88 kPa (~0.87 atm, ~9 m
+water-depth) pressure-differential test. They ship by sea under the IMDG Code; wet UN2794 is
+effectively restricted from passenger air freight.
 
 ## Key Takeaways
 
 1. **UN2794 vs UN2800 decides your freight cost** — wet flooded is UN2794; non-spillable AGM/VRLA is UN2800 and exempt from some wet-battery rules, so classification is a cost line, not a formality.
 2. **"Non-spillable" is a test result, not a label** — UN2800 requires passing vibration and pressure-differential tests proving no leak even with a cracked case; never claim it without the manufacturer's confirmation.
-3. **Sea freight under the IMDG Code is the standard** — batteries ship with terminals protected against short circuit and movement, backed by invoice, packing list, MSDS and a DGD where required.
+3. **Sea freight under the IMDG Code is the standard — and for wet UN2794 it is close to the only option** — passenger-air carriage is restricted, so batteries ship with terminals protected against short circuit, backed by invoice, packing list, MSDS and a DGD where required.
 4. **Exports run on 1 × 20ft containers and 20–45 day lead times** — a 70+ country network means predictable logistics, but only if classification and documents are right up front.
 5. **AGM's export advantage is real, not cosmetic** — the UN2800 exemption makes AGM materially simpler and cheaper to ship, a key reason it suits export programs.
 
@@ -64,6 +64,11 @@ shipping documents.
   protected
 - **Documentation** — commercial invoice, packing list, MSDS, and a dangerous-goods
   declaration where required
+
+Air freight is effectively off the table for wet lead-acid: IATA restricts UN2794 to cargo
+aircraft only, with strict state-of-charge and quantity limits. So for container-scale exports
+the practical routes are sea (IMDG) or road — sea freight is not just the cheapest option but
+often the only compliant one.
 
 ## What to Prepare Before Shipping
 

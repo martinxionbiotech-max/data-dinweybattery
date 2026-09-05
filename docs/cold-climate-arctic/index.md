@@ -7,24 +7,25 @@ faq:
   - q: What CCA do I need for cold climate?
     a: For cold or arctic conditions, choose the highest CCA in your group size — roughly 700–800+ for light diesel trucks, 900–1000+ for medium-duty, and 1000–1100+ for heavy semis. Confirm the exact figure in your manual.
   - q: Is AGM better than flooded in cold weather?
-    a: Generally yes. AGM delivers more reliable cold-cranking and faster charge acceptance in the cold, and its vibration resistance helps in winter conditions. For arctic heavy-duty use, AGM often justifies its higher cost.
+    a: In sustained extreme cold, yes. AGM's faster charge acceptance and higher vibration resistance matter most when a 900–1100+ CCA battery is asked to crank at −18 °C, where it holds only ~50–60% of its rated capacity. In temperate duty a flooded battery is enough — the AGM premium only pays off in arctic service.
   - q: Why does cold weather kill batteries?
-    a: Cold slows the battery's chemical reaction (reducing available current) while simultaneously thickening engine oil and increasing electrical demand — so the battery is weakest exactly when the engine needs the most.
+    a: Cold slows the battery's chemical reaction while thickening the oil and adding glow-plug/heater load. The numbers: a 200 Ah battery holds only ~100–120 Ah at −18 °C, and a battery at 50% charge freezes near −20 °C instead of −60 °C — so the battery is weakest exactly when the engine needs the most.
   - q: Can a discharged battery freeze?
-    a: Yes. A discharged lead-acid battery has a much higher freezing point than a fully charged one, and freezing can crack the case and damage the plates. Keep batteries fully charged in winter.
+    a: Yes. A fully charged battery (gravity ≈ 1.265) freezes around −60 °C, but the same battery at 50% charge (≈1.19) freezes near −20 °C, and at 0% (≈1.12) around −7 °C — warmer than a mild winter day. Freezing cracks the case and plates permanently.
   - q: What else helps winter starting?
-    a: A battery warmer or block heater, the correct winter oil viscosity, a fully charged battery, and insulating the battery box all reduce cold-start strain.
+    a: A block heater or battery warmer, correct winter oil viscosity, a fully charged battery, and an insulated box. The highest-value single move is keeping the battery charged — it lifts the freezing point from −20 °C back toward −60 °C and preserves the ~50–60% capacity that cold otherwise takes away.
 ---
 
 # Cold-Climate & Arctic Truck Batteries
 
 **TL;DR** — For cold-climate and arctic trucks, choose the highest CCA in your group size
-(900–1100+ for heavy trucks) and consider AGM for the most reliable cold starts. Cold reduces
-battery output exactly when the engine needs more cranking power.
+(900–1100+ for heavy trucks) and consider AGM for the most reliable cold starts. Cold cuts
+battery output exactly when the engine needs more cranking power: capacity falls to ~50–60% at
+−18 °C, and a battery discharged to 50% freezes near −20 °C instead of −60 °C.
 
 ## Key Takeaways
 
-1. **Cold attacks the battery three ways** — chemistry slows, oil thickens, and glow-plug/heater demand rises, so the battery is weakest when the engine needs the most — which is why arctic heavy trucks spec 1000–1100+ CCA.
+1. **Cold cuts capacity in half at the worst moment** — a 200 Ah N200 holds only ~100–120 Ah at −18 °C, the exact temperature CCA is measured at, while thickened oil and glow-plug demand rise — which is why arctic heavy trucks spec 1000–1100+ CCA.
 2. **Even a 1100 A battery can freeze** — if left discharged, its freezing point rises sharply and freezing cracks the case and plates; a full charge matters more than the CCA label.
 3. **Arctic CCA climbs a full band per class** — 700–800+ for light diesel, 900–1000+ for medium-duty, 1000–1100+ for heavy semis; err toward the high side for arctic service.
 4. **AGM earns its premium only in extreme cold** — for the 900–1100+ heavy-truck range, AGM's faster charge acceptance and vibration resistance justify the cost; in temperate duty flooded is enough.
@@ -41,6 +42,12 @@ roughly 80% of its capacity at 0 °C and only about 50–60% at −18 °C — wh
 temperature at which CCA is measured (SAE J537). In other words, the "200 Ah" N200 battery that
 provides 200 Ah on a mild day is good for only about 100–120 Ah on a −18 °C morning, at the very
 moment the starter is drawing its peak current.
+
+Cold-start current makes resistance expensive. A heavy truck's 900–1100 A draw means every
+1 mΩ of terminal or cable resistance drops about 1 V (1000 A × 1 mΩ = 1 V) — on a 12 V system
+that is 8.3% of the cranking voltage, and two marginal connections eat 2 V (16.7%). This is
+also why 24 V systems halve the current and cut I²R loss to ¼. A clean, tight terminal matters
+more at −25 °C than in summer.
 
 ### The Freezing Point Trap
 
