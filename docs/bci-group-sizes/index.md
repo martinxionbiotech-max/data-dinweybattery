@@ -22,6 +22,14 @@ faq:
 and terminal layout of automotive and truck batteries. For heavy-duty trucks, Group 31 is the
 modern standard; Group 8D and 4D are large legacy sizes.
 
+## Key Takeaways
+
+1. **Group size is about fit, not power** — Group 31, 8D and 4D define physical dimensions and terminal layout, not CCA, so two Group 31 batteries can crank very differently.
+2. **Group 31 is the modern migration target** — it delivers comparable CCA to 8D in a much smaller package (~330×173×240mm vs 8D's ~527×283×250mm), which is why new trucks have moved off 8D.
+3. **8D and 4D share length but not width** — both run ~527×250mm, but 8D is 283mm wide versus 4D's 222mm, so they are not interchangeable despite looking similar.
+4. **Group 65 is the light-truck outlier** — at ~306×192×192mm it's a top-post automotive size, not a heavy-duty option, so don't treat every "truck" group as swappable.
+5. **A compact Group 31 can out-crank a bigger 8D** — CCA is set by plate design, not case size, so capture both the group size and the CCA (not one) when replacing.
+
 ## What Is a BCI Group Size?
 
 The BCI group size is a code that defines a battery's physical dimensions, terminal type and

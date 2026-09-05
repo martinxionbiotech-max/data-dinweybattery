@@ -22,6 +22,14 @@ faq:
 deep cycle batteries deliver lower current over a long time and tolerate deep discharges. Use
 a starting battery for the engine and a separate deep cycle or auxiliary bank for accessories.
 
+## Key Takeaways
+
+1. **Depth of discharge is the real dividing line** — starting batteries are built for shallow 10–20% discharges, deep-cycle for 50–80%; pulling a starter into deep discharge is what destroys its thin plates.
+2. **200–300 vs hundreds-to-thousands cycles flips the value math** — a starting battery lasts 200–300 cycles, a deep-cycle hundreds to thousands; the higher price is a different failure mode, not a markup.
+3. **A dual-purpose battery compromises both jobs** — thin plates crank at the cost of depth, thick plates cycle at the cost of cranking amps; a dual-purpose unit cannot match a dedicated bank's full 50–80% cycling depth.
+4. **Starting on a deep-cycle battery wears it out fast** — deep-cycle plates are not built for cranking current, so even a 50–80%-tolerant bank degrades quickly under starter load.
+5. **Run auxiliaries off a separate bank or ruin the starter** — refrigeration, telematics and lift gates must sit behind an isolator or DC-DC charger; deep-cycling the starter cuts its 200–300 cycle life short.
+
 ## The Two Battery Jobs
 
 | Characteristic | Starting (SLI) | Deep cycle |

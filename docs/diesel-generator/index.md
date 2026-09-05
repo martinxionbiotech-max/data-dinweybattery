@@ -1,5 +1,5 @@
 ---
-description: Battery selection for diesel generators — how generator starting batteries differ from vehicle batteries, the standby sulfation problem, and how to choose the right one.
+description: Battery selection for diesel generators — how generator starting batteries differ from vehicle batteries and the standby sulfation problem.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Diesel generators need a starting battery matched to the engine's cranking
 requirement, kept fully charged while idle. Standby units are prone to sulfation from sitting
 discharged — a float charger or maintainer is essential.
+
+## Key Takeaways
+
+1. **Standby sulfation is the real killer, not usage** — a battery that sits at 70% charge for months starts the generator fine on a mild day, then fails on the cold night when the oil is thick and every amp matters.
+2. **The float charger is not optional equipment** — it is the difference between a standby generator that starts and one that does not, because sulfation is progressive and largely invisible until it is too late.
+3. **Replace at 3–5 years and load-test annually** — confirm the battery still delivers its rated CCA; test once a year regardless of how few times the generator actually ran.
+4. **Large diesels still need 850–1100+ CCA** — and industrial installations often run 24V (two 12V in series), where the matched-pair rule applies on replacement.
+5. **The least-used component is the most likely to fail** — a generator that starts a dozen times a year still relies on a battery that must deliver full cranking current on the one emergency day it is actually needed.
 
 ## Generator vs Vehicle Duty
 

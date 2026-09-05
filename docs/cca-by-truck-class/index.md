@@ -1,5 +1,5 @@
 ---
-description: CCA requirements by truck class — light, medium and heavy truck cold-cranking amp ranges explained by vehicle class, fuel type and climate, with a DINWEY model cross-reference.
+description: CCA requirements by truck class — light, medium and heavy truck cold-cranking amp ranges by class, fuel type and climate, with DINWEY cross-reference.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — CCA needs scale with vehicle class: light diesel trucks need ~600–800 CCA,
 medium-duty ~800–1000, and heavy semis ~850–1100+. Cold climates push you to the top of the
 range. Always confirm the exact figure in your manual.
+
+## Key Takeaways
+
+1. **Class ranges span a 700-amp ladder** — light gasoline starts at 400–600 CCA while heavy semis reach 850–1100+; buying by vehicle weight alone misses that a light diesel pickup and a 15-litre semi live in different cranking-torque leagues.
+2. **Diesel jumps a full class above gasoline** — a diesel pickup needs 600–800 CCA where a gasoline pickup needs 400–600, because compression ignition roughly doubles the starter's workload.
+3. **The class table is guidance, not a spec** — 600–800 (light diesel) and 800–1000 (medium-duty) overlap, so the only authoritative figure is in your manual or on the original battery label.
+4. **Climate moves you a full band** — arctic duty pushes you to the top of the range, so 850–1100+ CCA is a floor, not a ceiling, for a cold-climate semi.
+5. **SAE and EN "800" figures are not interchangeable** — 800 A (EN) and 800 A (SAE) use different test definitions, so comparing a 58827 (800 A EN) against a 145G51 (900 A JIS) without standardizing is an importer's trap.
 
 ## CCA by Truck Class
 

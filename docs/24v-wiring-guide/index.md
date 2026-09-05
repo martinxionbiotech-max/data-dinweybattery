@@ -1,5 +1,5 @@
 ---
-description: 24V truck battery wiring guide — how to wire two 12V batteries in series for 24V, correct terminal connections, cable sizing, and common wiring mistakes to avoid.
+description: 24V truck battery wiring guide — wiring two 12V batteries in series for 24V, correct terminal connections, cable sizing and wiring mistakes to avoid.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — A 24V truck system is built from two 12V batteries in series: connect battery 1's
 positive to battery 2's negative, then take 24V from the remaining positive and negative
 terminals. Always use two identical batteries and replace them as a pair.
+
+## Key Takeaways
+
+1. **Series is one jumper away** — connect Battery 1 positive to Battery 2 negative, then take +24V and 0V from the two remaining terminals; the wiring is trivial, the discipline is not.
+2. **Series raises voltage, parallel doubles Ah** — series holds amp-hours constant at 24V; parallel holds 12V while doubling capacity, and wiring one when you meant the other is the most common 24V mistake.
+3. **24V halves current, enabling thinner wire** — but still size cables to actual starter draw and length; a long run on a large diesel can demand heavy gauge even at 24V.
+4. **Use two identical batteries, replaced together** — same model, rating, age and batch; mixing flooded and AGM in one pair guarantees imbalance.
+5. **A 12V charger cannot charge a 24V pair** — use a 24V-rated charger across +24V/0V, or disconnect and charge each 12V individually; otherwise one battery under-charges.
 
 ## Series Wiring Step by Step
 

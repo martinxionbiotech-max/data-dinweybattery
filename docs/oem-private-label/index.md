@@ -1,5 +1,5 @@
 ---
-description: OEM and private-label truck battery programs — how distributors and fleets build their own battery brand, what you can customize, and the process from sample to shipment.
+description: OEM and private-label truck battery programs — how distributors and fleets build their own battery brand and the process from sample to shipment.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — A private-label (OEM/ODM) program lets distributors and fleets build their own
 battery brand without owning a factory. You control the label, specification and packaging;
 the manufacturer handles production under an IATF 16949 quality system.
+
+## Key Takeaways
+
+1. **Own the brand without owning the factory** — you supply the label and spec; the manufacturer runs 18 automated lines under IATF 16949, so brand equity is yours and capital cost isn't.
+2. **MOQ is 1 × 20ft container, lead time 20–45 days** — private label is a container-scale commitment, not a pallet order; line up cash and calendar before committing.
+3. **The pre-production sample is the real risk control** — a terminal type, label color or CCA target caught here is cheap to fix; approved in writing, it prevents a container-load of mistakes.
+4. **Spec control is the hidden margin** — you set CCA, capacity and terminal type, tuning the product to regional demand instead of paying for a factory's generic spec.
+5. **Scale compounds consistency** — a 200,000 m² facility producing 40,000 batteries daily under IATF 16949 delivers the per-batch documentation repeat buyers need.
 
 ## What Private Label Means
 

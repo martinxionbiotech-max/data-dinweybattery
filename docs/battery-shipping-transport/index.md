@@ -23,6 +23,14 @@ non-spillable for AGM/VRLA). They ship regularly by sea under the IMDG Code with
 packing and documentation. AGM batteries that meet the non-spillable criteria are the simplest
 to transport.
 
+## Key Takeaways
+
+1. **UN2794 vs UN2800 decides your freight cost** — wet flooded is UN2794; non-spillable AGM/VRLA is UN2800 and exempt from some wet-battery rules, so classification is a cost line, not a formality.
+2. **"Non-spillable" is a test result, not a label** — UN2800 requires passing vibration and pressure-differential tests proving no leak even with a cracked case; never claim it without the manufacturer's confirmation.
+3. **Sea freight under the IMDG Code is the standard** — batteries ship with terminals protected against short circuit and movement, backed by invoice, packing list, MSDS and a DGD where required.
+4. **Exports run on 1 × 20ft containers and 20–45 day lead times** — a 70+ country network means predictable logistics, but only if classification and documents are right up front.
+5. **AGM's export advantage is real, not cosmetic** — the UN2800 exemption makes AGM materially simpler and cheaper to ship, a key reason it suits export programs.
+
 ## Dangerous Goods Classification
 
 Truck starting batteries are lead-acid, which the UN system classifies as dangerous goods:

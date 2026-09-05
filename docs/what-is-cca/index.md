@@ -1,5 +1,5 @@
 ---
-description: What is CCA (cold cranking amps) and how much does a diesel truck need? CCA explained with a truck-class requirement table and how to calculate the right rating for your engine and climate.
+description: What is CCA (cold cranking amps) and how much does a diesel truck need? CCA explained with a truck-class requirement table and climate guide.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -24,6 +24,14 @@ faq:
 deliver for 30 seconds at −18°C while staying above 7.2V. Diesel trucks need more CCA than
 gasoline vehicles — typically 600–800 for light trucks, 800–1000 for medium-duty, and 850–1100+
 for heavy semis. Match CCA to your engine and climate.
+
+## Key Takeaways
+
+1. **−18°C is CCA's dividing line** — a battery must hold 30 seconds of discharge above 7.2V; but JIS tests at −15°C, so a JIS figure is inherently flattered by ~3°C of warmth versus SAE/EN. Comparing CCA across standards is a trap.
+2. **Diesel needs roughly double the compression and therefore more CCA** — 600–800 for light trucks, 800–1000 medium-duty, 850–1100+ for heavy semis. Gasoline-car intuition does not transfer.
+3. **Higher CCA is not always better** — within one group size, more CCA usually means a bigger, heavier, pricier battery. Matching CCA to engine and climate beats buying the maximum.
+4. **CCA and Ah measure different things** — a battery can have high CCA but modest capacity, or the reverse. Starting power is not the same as energy storage.
+5. **In hot climates CCA is the wrong obsession** — capacity (Ah) and heat tolerance matter more, because heat ages a battery faster than cold does.
 
 ## What CCA Measures
 

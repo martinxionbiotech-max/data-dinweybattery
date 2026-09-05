@@ -1,5 +1,5 @@
 ---
-description: Heavy-duty truck battery buying guide — match group size, CCA, voltage and terminal orientation, choose the right technology, and buy from a documented supplier.
+description: Heavy-duty truck battery buying guide — matching group size, CCA, voltage and terminal orientation to choose the right technology and supplier.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Buy a truck battery by matching four things — group size, CCA, voltage and
 terminal orientation — then choose the right technology for your duty cycle and buy from a
 supplier that provides documentation and warranty.
+
+## Key Takeaways
+
+1. **Group size is non-negotiable** — a JIS N150/N200 won't fit a DIN88/DIN100 tray; the footprint and hold-down decide fit before any electrical rating does.
+2. **12V vs 24V is a costly order error** — record the system voltage first; a 24V truck needs two 12V batteries in series, not one larger unit.
+3. **Terminal type is the hidden deal-breaker** — A/D post vs T1 conical and left- vs right-positive; the correct footprint with the wrong terminals is still uninstallable.
+4. **Capture all four specs, not three** — group size, CCA, voltage and terminal orientation; skipping the fourth is how wrong orders happen.
+5. **Documentation beats a low sticker price** — per-batch CCA test data plus a certificate of analysis is the proof a battery was tested before shipping; a cheap, undocumented battery is a roadside risk in disguise.
 
 ## Step 1: Capture Your Specs
 

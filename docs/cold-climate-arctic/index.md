@@ -1,5 +1,5 @@
 ---
-description: Cold-climate and arctic truck batteries — why cold reduces battery output when the engine needs more power, and how to choose CCA and technology for reliable winter starts.
+description: Cold-climate and arctic truck batteries — why cold cuts battery output when the engine needs more power, and how to pick CCA for winter starts.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — For cold-climate and arctic trucks, choose the highest CCA in your group size
 (900–1100+ for heavy trucks) and consider AGM for the most reliable cold starts. Cold reduces
 battery output exactly when the engine needs more cranking power.
+
+## Key Takeaways
+
+1. **Cold attacks the battery three ways** — chemistry slows, oil thickens, and glow-plug/heater demand rises, so the battery is weakest when the engine needs the most — which is why arctic heavy trucks spec 1000–1100+ CCA.
+2. **Even a 1100 A battery can freeze** — if left discharged, its freezing point rises sharply and freezing cracks the case and plates; a full charge matters more than the CCA label.
+3. **Arctic CCA climbs a full band per class** — 700–800+ for light diesel, 900–1000+ for medium-duty, 1000–1100+ for heavy semis; err toward the high side for arctic service.
+4. **AGM earns its premium only in extreme cold** — for the 900–1100+ heavy-truck range, AGM's faster charge acceptance and vibration resistance justify the cost; in temperate duty flooded is enough.
+5. **CCA alone won't start an arctic truck** — the 60038 (DIN100) at 870 A EN still wants a block heater, correct winter oil viscosity, and a fully charged battery to close the gap.
 
 ## Why Cold Is Hard on Batteries
 

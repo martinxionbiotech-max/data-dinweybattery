@@ -1,5 +1,5 @@
 ---
-description: JIS vs DIN battery engineering compared with original density analysis — why DIN batteries pack more cold-cranking power per litre, while JIS thick-plate batteries trade energy density for cycle life.
+description: JIS vs DIN battery engineering — why DIN packs more cold-cranking power per litre while JIS thick-plate batteries trade energy density for cycle life.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 DINWEY heavy-duty range. The result: DIN batteries pack roughly **2× the cold-cranking power
 per litre** of JIS thick-plate batteries, while JIS batteries trade energy density for deeper
 cycling. It is not "better vs worse" — it is two engineering philosophies.
+
+## Key Takeaways
+
+1. **DIN packs ~2× the cold-start power per litre** — 66–68 CCA/L (DIN88/DIN100) versus 35–38 CCA/L (N150/N200), so a DIN battery cranks far harder for the same physical space.
+2. **~60% more CCA per Ah is the hidden gap** — DIN's CCA/Ah runs 8.7–9.1 versus JIS's 5.5–6.7, so two 100Ah batteries of different standards will not crank equally.
+3. **JIS trades energy density for durability** — JIS's 5.6–6.3 Ah/L versus DIN's 7.5–7.7 reflects thicker Pb-Sb plates built for deep cycling and vibration, not compactness.
+4. **The N200 is the density outlier** — the 190H52's 31.8 L volume yields only 34.6 CCA/L, below the N150's 37.6 CCA/L, so in JIS the bigger battery is actually less CCA-dense.
+5. **Same Ah does not mean same CCA** — cold-start power is set by plate design (6.67 vs 9.09 CCA/Ah for the 145G51 vs 58827), not by capacity rating, which is why cross-standard CCA comparisons fail.
 
 ## The Calculation
 

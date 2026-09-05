@@ -1,5 +1,5 @@
 ---
-description: CCA vs Reserve Capacity for heavy-duty fleets — how burst starting power and sustained runtime differ, and a dual-metric profile of the DINWEY range to match battery to duty cycle.
+description: CCA vs Reserve Capacity for heavy-duty fleets — burst starting power vs sustained runtime, and a dual-metric DINWEY range profile to match duty cycle.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 engine-off loads. Most buyers fixate on CCA and under-buy RC — but modern trucks with sleeper
 cabs, liftgates and anti-idling electronics increasingly live and die by reserve capacity.
 Here is a dual-metric profile of the DINWEY range so you can match the battery to the duty.
+
+## Key Takeaways
+
+1. **CCA and RC measure different physics** — CCA is a burst at −18°C, RC is endurance in minutes at 25A; a battery strong at one can be weak at the other.
+2. **High CCA can silently mean low RC** — the 58827 pairs 800 A EN with only 150 minutes RC, and deep-cycling such a battery causes sulfation and premature failure.
+3. **The JIS range carries the deepest reserve** — 220–320 minutes across the N-series beats the DIN models' 150–170 minutes, which is why thick-plate JIS dominates heavy commercial duty.
+4. **For engine-off loads, minutes beat amps** — the 190H52's 320 minutes matters more than its 1100 A once anti-idling laws force sleeper HVAC and telematics onto the battery.
+5. **Duty cycle, not preference, picks the metric** — liftgates sometimes cycle dozens of times a day, so a delivery truck needs RC/Ah and cycle life first, while a cold-climate short-run truck still wants the highest CCA in its group.
 
 ## The Two Metrics, Side by Side
 

@@ -22,6 +22,14 @@ faq:
 sulfur smell, an old battery (3–5+ years) and corrosion. Any of these means it is time to
 load-test the battery — ideally before it strands you.
 
+## Key Takeaways
+
+1. **Slow cranking is the earliest, most reliable warning** — especially when cold, it means cranking power is already fading long before a full no-start.
+2. **Act on the first sign, not the seventh** — a slow crank in September becomes a no-start in January; the decline is gradual but the failure is sudden.
+3. **Age 3–5+ years is itself a warning sign** — once a battery is in that window and shows any other symptom, replace it proactively rather than gambling.
+4. **A swollen case or sulfur smell is a safety issue** — both signal overcharging or overheating and venting gas; replace promptly and handle with care.
+5. **More than one jump-start is the hard evidence** — needing a jump twice means the battery can no longer hold a charge, whatever a voltage reading says.
+
 ## 1. Slow or Labored Cranking
 
 If the engine turns over more slowly than usual, especially when cold, the battery is losing

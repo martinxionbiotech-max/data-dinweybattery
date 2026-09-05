@@ -1,5 +1,5 @@
 ---
-description: Step-by-step guide to choosing the right starting battery for your truck — group size (JIS N150/N200, DIN88/DIN100, BCI Group 31), CCA, voltage and climate, with a HowTo flow.
+description: Step-by-step guide to choosing the right truck starting battery — group size, CCA, voltage and climate, with a HowTo flow.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -31,6 +31,14 @@ faq:
 cold cranking amp (CCA) requirement, (3) verify the electrical system voltage (12V or 24V),
 and (4) account for climate. Getting the group size and CCA wrong is the #1 cause of fleet
 breakdowns.
+
+## Key Takeaways
+
+1. **Group size is step one, and non-negotiable** — a 145G51 (N150), 190H52 (N200) and 58827 (DIN88) each have a distinct footprint; a mismatch can't be safely installed regardless of rating.
+2. **CCA scales with truck class, not ambition** — 600–800 light, 800–1000 medium-duty, 850–1100+ heavy semis; chasing the maximum forces a bigger, heavier, pricier battery into a smaller tray.
+3. **Wrong voltage is the costly, common mistake** — 12V for light trucks, 24V (two 12V in series) for heavy trucks and buses; ordering one when the other is needed strands a fleet.
+4. **Terminal orientation is a hidden trap** — JIS batteries are typically right-positive and DIN left-positive; right spec with reversed polarity is still unusable.
+5. **Climate flips the priority** — cold demands higher CCA (and AGM), while heat makes CCA the wrong obsession and capacity the real concern.
 
 ## Step 1: Confirm the Group Size
 

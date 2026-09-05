@@ -1,5 +1,5 @@
 ---
-description: The complete guide to truck starting batteries — group sizes (JIS N150/N200, DIN88/DIN100, BCI Group 31), CCA, voltage systems and how to choose the right one for your commercial vehicle.
+description: The complete guide to truck starting batteries — JIS N150/N200, DIN88/DIN100, BCI Group 31, CCA and voltage systems, and how to choose for your vehicle.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -26,6 +26,14 @@ faq:
 fits your tray, (2) the CCA your diesel engine needs, (3) the system voltage (12V or 24V), and
 (4) your climate. In JIS markets the heavy-duty workhorses are N150/N200; in Europe they are
 DIN88/DIN100; in North America BCI Group 31.
+
+## Key Takeaways
+
+1. **Match four specs, not one** — group size, CCA, voltage and climate all have to be right; the 190H52's 1100 A CCA is worthless if its 520×278×220 mm footprint won't fit the tray.
+2. **Diesel CCA climbs with truck class** — 600–800 for light trucks, 800–1000 medium-duty, 850–1100+ for heavy semis; a gasoline-spec battery on a diesel is a winter-start trap.
+3. **CCA and Ah measure different things** — the 145G51 (N150) holds 135 Ah with 900 A CCA while the 60038 (DIN100) stores only 100 Ah at 870 A EN; starting power ≠ stored energy.
+4. **AGM costs 1.8–2.2× flooded but cycles 3–6× longer** — 600–1200 cycles vs 200–300 at 25°C; the premium pays back in harsh duty, not light duty.
+5. **24V means two matched 12V batteries in series** — never mix models or ages, or the pair charges unevenly and falls short of the 3–5 year service norm.
 
 ## What a Truck Battery Does
 

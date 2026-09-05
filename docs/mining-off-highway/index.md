@@ -22,6 +22,14 @@ faq:
 temperature swings and deep cycling. Choose rugged heavy-duty batteries with strong vibration
 resistance — AGM is often the best fit for its sealed, vibration-tolerant design.
 
+## Key Takeaways
+
+1. **Off-highway duty can halve battery life** — a battery that lasts four years on a highway truck can fail in two on a mining haul truck, because the mechanical and thermal stress is relentless, not because the chemistry differs.
+2. **AGM's sealed design matters as much as its vibration resistance** — a vented flooded battery loses electrolyte on steep grades and is vulnerable to conductive dust around the caps; the sealed, pressure-regulated design removes both risks.
+3. **Large mining haulers still run 24V** — two 12V batteries in series with 850–1100+ CCA for the big diesel, and the matched-pair rule (same model, age, rating) still applies when you replace them.
+4. **Inspect hold-downs at every service and load-test at least twice a year** — vibration loosens brackets, and harsh conditions shorten life faster than any road vehicle, so the annual-test habit is not enough here.
+5. **Flooded Pb-Sb thick-plate is "good", AGM is "best", EFB is only mid-tier** — for the harshest off-highway environments, AGM is the default recommendation, not a premium add-on.
+
 ## The Harshest Duty Cycle
 
 Off-highway equipment faces conditions that quickly destroy ordinary batteries:

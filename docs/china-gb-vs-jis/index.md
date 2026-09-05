@@ -23,6 +23,14 @@ JIS model. A "6-QW-150" broadly corresponds to the JIS N150 class, and "6-QW-200
 The GB code tells you capacity and construction; the JIS type number defines exact dimensions
 and terminals — cross-check before substituting.
 
+## Key Takeaways
+
+1. **The GB code is more transparent than JIS** — 6-QW-150 decodes to 6 cells (12V), Q=starting, W=maintenance-free and 150Ah, so the capacity is readable straight off the label.
+2. **The CCA mapping is loose, not exact** — 6-QW-150 is quoted at ~900A and 6-QW-200 at ~1200A, a 300A spread for "equivalent" classes, so the CCA column is a guide, not a guarantee.
+3. **"Equivalent" doesn't mean identical dimensions** — GB footprints are close but not always equal to JIS, and only the type numbers 145G51/190H52 define exact dimensions and terminals.
+4. **6-QW vs 6-QA is a cost-and-maintenance fork** — the "6" means 6 cells (12V) either way, but W (maintenance-free) and A (dry-charged) carry different price points and upkeep.
+5. **JIS N-series, not GB, is the safe spec for JIS markets** — N100/N120/N150/N200 is the core commercial range across Southeast Asia, the Middle East and Africa, so importers should specify JIS.
+
 ## Decoding a Chinese GB Code
 
 The Chinese national standard battery code is highly transparent. Take **6-QW-150**:

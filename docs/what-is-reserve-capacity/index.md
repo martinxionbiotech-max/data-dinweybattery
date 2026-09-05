@@ -1,5 +1,5 @@
 ---
-description: What is reserve capacity (RC) in a truck battery — the minutes it delivers 25A at 27°C, how RC differs from CCA and Ah, and why it matters for commercial vehicles.
+description: What is reserve capacity (RC) in a truck battery — the minutes it delivers 25A at 27°C, and how RC differs from CCA and Ah.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 27°C before dropping below 10.5V. It measures emergency runtime without the alternator — a
 different thing from CCA (cold-start power) or Ah (total energy). Heavy-duty truck batteries
 typically range from ~130 to 320 minutes RC.
+
+## Key Takeaways
+
+1. **RC is measured in minutes, not amps** — the test is a steady 25A draw at 27°C until voltage drops below 10.5V, so it answers endurance, not starting power.
+2. **The truck RC span is 130–320 minutes** — heavy-duty batteries range from roughly 130 to 320 minutes, and the right figure depends entirely on your electrical load.
+3. **RC, CCA and Ah do not predict each other** — the 190H52 carries 320 minutes RC while the 58827 carries just 150, and neither figure tells you the other's CCA; specify the metric that matches your dominant risk.
+4. **RC often outranks CCA in developing markets** — older vehicles suffer more electrical faults, so a roadside alternator failure favors a 220–320 minute JIS battery over a high-CCA one.
+5. **A fleet must decide its fear** — a cold no-start points to CCA, but a roadside alternator failure while running refrigeration points to RC, where a 320-minute 190H52 buys far more buffer than a 150-minute 58827.
 
 ## What RC Measures
 

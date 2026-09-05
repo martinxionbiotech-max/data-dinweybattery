@@ -1,5 +1,5 @@
 ---
-description: Maintenance-free (MF) vs serviceable JIS truck batteries — the calcium vs antimony design difference, how MF reduces water loss, and what it means for heavy-truck buyers.
+description: Maintenance-free (MF) vs serviceable JIS truck batteries — the calcium vs antimony design difference and what it means for heavy-truck buyers.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 sealed) and serviceable (antimony thick-plate, needs water top-up). MF trades some deep-cycle
 robustness for zero-maintenance convenience; the traditional Pb-Sb design is often kept on
 heavy trucks precisely because it survives hard duty better.
+
+## Key Takeaways
+
+1. **Calcium's low water loss is a voltage-threshold trick** — calcium raises the gassing voltage so the battery stays below it in normal charging, which is what "maintenance-free" physically means.
+2. **"Maintenance-free" is the less robust truck battery** — MF's Ca-Ca grid scores only "Moderate" deep-cycle and "Good" vibration tolerance, while the serviceable Pb-Sb design scores "High" on both.
+3. **Antimony's water top-up is the feature, not the bug** — the chemistry that makes a Pb-Sb battery need periodic distilled-water checks is the same one that lets it survive deep cycling and vibration on heavy trucks.
+4. **N150 and N200 come as two distinct variants** — traditional wet and SMF (sealed maintenance-free) versions differ in technology, price and performance; confirm which variant is quoted before buying.
+5. **Zero-touch convenience only suits well-maintained charging systems** — MF/SMF wins on total maintenance cost for fleets that want no top-ups, but on harsh-duty trucks the serviceable Pb-Sb design outlasts it.
 
 ## The Two Designs
 

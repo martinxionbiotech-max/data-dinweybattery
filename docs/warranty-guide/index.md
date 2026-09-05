@@ -22,6 +22,14 @@ faq:
 a free-replacement period followed by a pro-rated period. Coverage varies (commonly 12–36
 months for heavy-duty batteries). Read the terms and keep your records.
 
+## Key Takeaways
+
+1. **Coverage runs 12–36 months by type** — SLI 12–24, EFB 18–36, AGM 24–48 (often longer); a longer label is usually a proxy for a tougher battery, not just marketing.
+2. **Pro-rated is not free replacement** — fail a 24-month pro-rated battery at month 18 and you may get only ~25% credit (6 of 24 months remaining), not a new battery.
+3. **Deep discharge is the #1 rejected claim** — running a battery flat is treated as misuse, not a defect, so warranty won't rescue a battery killed by its own duty cycle.
+4. **The load test decides almost every claim** — it's the evidence separating a genuinely failed battery from one that's merely discharged or fighting a bad alternator.
+5. **B2B terms live in the contract, not the label** — fleet warranty, returns and batch traceability are set in the quotation; confirm them at RFQ stage or risk a surprise.
+
 ## What Warranties Cover
 
 A battery warranty typically covers:

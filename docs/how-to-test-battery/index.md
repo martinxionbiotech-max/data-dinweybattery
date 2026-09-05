@@ -22,6 +22,14 @@ faq:
 (alternator check), and a load test (CCA confirmation). Voltage alone is not enough — a
 battery can read 12.6V and still fail to crank. A load test is the definitive check.
 
+## Key Takeaways
+
+1. **Voltage alone can mislead you** — a battery can hold a surface charge that reads 12.6V and still fail under cranking load; only the load test confirms real CCA delivery.
+2. **12.6–12.8V is the healthy resting window** — below 12.0V means deeply discharged and needs an immediate charge; a 24V pair doubles to ~25.2–25.6V.
+3. **The "keeps dying" battery is often the alternator** — a running reading below ~13.5V (or above 15V) points at the charging system, which changes whether you replace the battery, the alternator, or both.
+4. **A load test is the definitive check** — it applies half the CCA rating for ~15 seconds and exposes weakness that a resting-voltage reading cannot.
+5. **Run all three tests, not one** — resting voltage answers charge state, running voltage answers the alternator, and the load test answers cranking ability; a single test only answers a single question.
+
 ## Three Tests, Three Answers
 
 | Test | What it measures | What it tells you |

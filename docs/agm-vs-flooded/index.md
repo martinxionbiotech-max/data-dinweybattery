@@ -1,5 +1,5 @@
 ---
-description: AGM vs flooded battery for heavy-duty trucks — how absorbent glass mat and flooded lead-acid compare for vibration, cold starts, cycle life, charge acceptance and cost.
+description: AGM vs flooded battery for heavy-duty trucks — absorbent glass mat vs flooded lead-acid on vibration, cold starts, cycle life, charge acceptance and cost.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 resistance, cold-start reliability, cycle life and charge acceptance, but cost roughly
 1.8–2.2× more. For demanding heavy-duty duty cycles, AGM often pays for itself; for standard
 conventional use, flooded remains the economical choice.
+
+## Key Takeaways
+
+1. **Cycle life is AGM's biggest, conditional win** — 600–1200 cycles versus 200–300 for flooded, but that gap only fully opens under vibration, cold starts and frequent restarts, not in gentle duty.
+2. **2.5–3.5× charge acceptance only pays off in high-load trucks** — AGM absorbs charge 2.5–3.5× faster than SLI, yet a healthy long-haul charging system rarely undercharges a flooded battery, so the benefit goes unnoticed.
+3. **The 1.8–2.2× price needs a downtime calculation** — AGM costs 1.8–2.2× a flooded unit; it only pays back where downtime is expensive, not for budget fleets on a fixed replacement schedule.
+4. **Vibration, not age, is the silent flooded killer** — AGM's compressed glass mat resists the plate shedding that off-highway, mining and construction duty causes, which is why those fleets pay roughly twice the flooded price.
+5. **In hot climates AGM's cold-start edge is wasted** — where capacity (Ah) matters more than CCA, a flooded battery at 1.0× baseline cost is the smarter, cheaper choice.
 
 ## How They Differ
 

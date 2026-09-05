@@ -1,5 +1,5 @@
 ---
-description: Calcium vs antimony lead-acid grid alloys — why Pb-Sb thick-plate grids suit heavy-duty truck batteries and Ca-Ca suits conventional SLI, with a comparison table.
+description: Calcium vs antimony lead-acid grid alloys — why Pb-Sb thick-plate grids suit heavy-duty trucks and Ca-Ca suits conventional SLI, compared.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Calcium-calcium (Ca-Ca) grids give low water loss and self-discharge, ideal for
 low-maintenance conventional batteries. Lead-antimony (Pb-Sb) grids tolerate vibration and
 deeper cycling better, which is why heavy-duty truck batteries often use them.
+
+## Key Takeaways
+
+1. **Antimony's "worse" specs are exactly why trucks use it** — higher water loss and self-discharge are the price of Pb-Sb's vibration and deep-cycle tolerance, so a spec sheet ranking Ca-Ca as cleaner misses the point.
+2. **"Maintenance-free" can mean less durable on a truck** — Ca-Ca's low water loss buys convenience, but its grid is more brittle under vibration and less tolerant of deep discharge; the sealed label is not the same as long-lived.
+3. **The alloy choice is a two-property trade, not a ranking** — antimony buys mechanical strength and deep-cycle survival at the cost of gassing; calcium buys low maintenance and stable storage at the cost of brittleness. Across all four alloys in the table, there is no winner.
+4. **DINWEY's Pb-Sb thick-plate 145G51 and 190H52 are deliberate** — these heavy-duty JIS models use lead-antimony grids because commercial vibration and cycling are the real killers, not because antimony is cheaper.
+5. **The trade-off is not a binary choice** — a well-alloyed Pb-Sb battery with a sealed or low-gassing design cuts topping-up frequency while keeping antimony's strength, so "serviceable vs maintenance-free" is a spectrum.
 
 ## What the Grid Alloy Does
 

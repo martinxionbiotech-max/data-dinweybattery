@@ -1,5 +1,5 @@
 ---
-description: Decoding JIS and DIN battery model numbers — what 145G51, 190H52, 58827 and 60038 mean, how the numbering systems work, and why the type number beats the shorthand.
+description: Decoding JIS and DIN battery model numbers — what 145G51, 190H52, 58827 and 60038 mean and how the numbering systems work.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 heavy-duty batteries use type numbers like 145G51 (sold as "N150") and 190H52 ("N200"); DIN
 batteries use numbers like 58827 ("DIN88") and 60038 ("DIN100"). The full type number is the
 authoritative spec — the shorthand is just a convenient name.
+
+## Key Takeaways
+
+1. **The "N" name is a class, not a spec** — N150 and N200 are size classes; only the type numbers 145G51 and 190H52 define exact dimensions, terminal layout and performance class.
+2. **Same shorthand can hide different terminals** — the trailing letter-number in 145G51/190H52 sets the terminal configuration, so two batteries sold under one "N" name can differ in terminal position or case height.
+3. **DIN88/DIN100 are capacity classes, not exact identifiers** — 88Ah and 100Ah are shorthand; the 58827 (88Ah/800A EN) and 60038 (100Ah/870A EN) type numbers are the real spec.
+4. **Put the type number on the order, not the shorthand** — order 145G51 or 58827, never just "N150" or "DIN88", or you risk the wrong terminal layout arriving.
+5. **The size gap hides in the type number** — 190H52 at 520×278×220mm is clearly larger than 145G51 at 508×222×212mm; the shorthand "N150/N200" gives you no way to see that.
 
 ## JIS: The "N" Shorthand vs the Type Number
 

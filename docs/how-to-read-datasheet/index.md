@@ -22,6 +22,14 @@ faq:
 power, RC is reserve capacity, and the terminal type + polarity + dimensions determine whether
 it fits your truck. Reading all of them correctly prevents a costly wrong purchase.
 
+## Key Takeaways
+
+1. **CCA, Ah and RC answer three different questions** — "will it start cold?", "how much energy?", "how long if the alternator dies?"; treating them as interchangeable is the root of wrong purchases.
+2. **Compare CCA like-for-like** — a "870 A EN" cannot be compared to "870 CCA SAE"; different standards use different temperatures and thresholds, so the same number means different things.
+3. **CA is always higher than CCA** — CA at 0°C beats CCA at −18°C for the same battery; comparing a rival's CA to another's CCA is apples to oranges.
+4. **A 190H52 (N200) reads 200 Ah, 1100 A CCA, 320 min RC** — big numbers that mean nothing if the 520×278×220 mm footprint or polarity won't fit your truck.
+5. **Dimensions and polarity are the #1 oversight** — a high-CCA battery that won't fit the tray or has reversed polarity is unusable; check every field, not the headline.
+
 ## The Key Specification Fields
 
 | Field | Meaning | Why it matters |

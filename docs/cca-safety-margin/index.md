@@ -23,6 +23,14 @@ of it. That is why cold-climate buyers should specify the highest CCA in their g
 the minimum. In hot climates the calculus flips: capacity and heat tolerance matter more than
 headroom on CCA.
 
+## Key Takeaways
+
+1. **Cold hits from two directions at once** — below the −18°C (0°F) CCA test point the battery operates beyond its rating while the engine demands more, so margin is not optional.
+2. **Overspec CCA by 20–30% in cold climates** — headroom above the engine's stated minimum preserves cold-start reliability as the battery ages; matching the minimum is the classic cold-climate error.
+3. **Hot climates flip the decision entirely** — a truck that never sees −18°C gets little from CCA headroom; heat ages the battery through corrosion and water loss, so Ah and heat tolerance take over.
+4. **The 20–30% rule is guidance, not a spec** — it is a planning heuristic, not a manufacturer's rating; the authoritative requirement lives in the vehicle manual.
+5. **Arctic spec adds AGM on top of CCA** — the 190H52 (N200) at 1100 A tops the cold-climate table because AGM's faster charge acceptance and vibration resistance compound the cranking margin.
+
 ## Why Cold Is a Double Penalty
 
 Cold weather hits the battery from both directions:

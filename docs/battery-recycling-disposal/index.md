@@ -1,5 +1,5 @@
 ---
-description: Truck battery recycling and disposal — why lead-acid is the world's most recycled product, what gets recovered, and how to recycle or dispose of a truck battery safely.
+description: Truck battery recycling and disposal — why lead-acid is the world's most recycled product and how to recycle a truck battery safely.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Lead-acid batteries are the most recycled product on Earth: the lead, plastic and
 electrolyte are all recovered and reused. Never throw a truck battery in general waste —
 return it to a licensed recycler or collection point.
+
+## Key Takeaways
+
+1. **Lead-acid is the most recycled product on Earth** — nearly 100% of the battery is recoverable (lead, plastic, electrolyte), making recycling an economic loop, not just an obligation.
+2. **A "dead" battery still has scrap value** — because lead is recoverable and valuable, many recyclers pay for used batteries; disposal can be revenue, not a cost.
+3. **Never put a lead-acid battery in general waste** — lead is toxic and sulfuric acid corrosive; improper disposal contaminates soil and water and is illegal in most countries.
+4. **Store before recycling with discipline** — upright, away from ignition, on an acid-safe surface with terminals protected; accumulating old batteries builds a hazard, not a scrap pile.
+5. **Economics, not sentiment, drive the recovery rate** — a lead-acid battery is a box of lead plates in plastic and acid with nothing exotic to separate, which is why smelting pays and collection networks exist.
 
 ## The World's Most Recycled Product
 

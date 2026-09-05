@@ -1,5 +1,5 @@
 ---
-description: Battery isolators and DC-DC chargers for trucks — how to run an auxiliary battery bank for sleeper-cab, reefer and lift-gate loads without draining the starting batteries.
+description: Battery isolators and DC-DC chargers for trucks — running an auxiliary bank for sleeper-cab, reefer and lift-gate loads without draining starting batteries.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — A battery isolator (or DC-DC charger) lets a truck run a separate auxiliary
 battery bank for sleeper-cab, reefer and lift-gate loads, while protecting the starting
 battery from being drained. Use a deep-cycle or AGM auxiliary battery sized to the load.
+
+## Key Takeaways
+
+1. **The two jobs need opposite battery designs** — a starting battery's thin plates are built for a big current burst, while a deep-cycle battery's thick plates survive repeated discharge; using the wrong one strands you.
+2. **The 50% rule drives bank sizing** — a 25 A reefer running 8 hours needs roughly 200 Ah usable, and because lead-acid should not drop below ~50% for service life, that means a bank of roughly 400 Ah or more.
+3. **An isolator is the minimum-viable separation** — it protects the start, but an AGM or deep-cycle auxiliary is only "marginal" on a plain isolator because it gets no proper charge profile.
+4. **The DC-DC charger is the real investment** — its bulk-absorption-float profile is what keeps a hard-cycled auxiliary bank healthy over hundreds of cycles, not just connected.
+5. **The auxiliary bank is a second parallel system, not a replacement** — it still lives in the same 12V (or 24V) architecture as the rest of the truck, so system-voltage logic still applies.
 
 ## Why a Second Battery System Exists
 

@@ -22,6 +22,14 @@ faq:
 (2 AWG or thicker) rated for 400–600+ amps and a heavy-duty jump source. Never jump a 24V
 system from a 12V source directly.
 
+## Key Takeaways
+
+1. **2 AWG or thicker is non-negotiable** — cables must be rated for 400–600+ amps; a thin cable heats up and drops voltage, the most common cause of a failed jump on a large diesel.
+2. **Never jump a 24V truck from a 12V source** — the voltage mismatch can damage both systems; use a 24V source or two 12V batteries in series.
+3. **The final connection goes to ground, not the battery** — the last connection is the one most likely to spark, and a spark near the battery can ignite hydrogen gas.
+4. **A semi's starter draws several hundred amps** — far beyond a passenger car, so a standard automotive jump pack is usually insufficient for a large diesel.
+5. **Disconnect in reverse order** — ground first, then positives; the sequence is a safety procedure, not a suggestion.
+
 ## The Starting Current
 
 A large diesel engine's starter can draw **several hundred amps** during cranking — far more

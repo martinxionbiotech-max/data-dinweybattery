@@ -1,5 +1,5 @@
 ---
-description: JIS N150 vs N200 truck battery comparison — 145G51 (N150) and 190H52 (N200) specifications, dimensions, CCA, capacity, and how to choose the right one for your heavy-duty truck.
+description: JIS N150 vs N200 truck battery comparison — 145G51 (N150) and 190H52 (N200) specs, dimensions, CCA and capacity for heavy-duty trucks.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 (190H52) is the larger, more powerful option at 200Ah / 1100A CCA. Choose N200 when you need
 maximum cranking power or cold-climate reliability and your tray fits it; otherwise N150 is
 lighter, cheaper and enough for most heavy trucks.
+
+## Key Takeaways
+
+1. **N200's capacity jump doubles its CCA jump** — 48% more capacity (200Ah vs 135Ah) but only 22% more CCA (1100A vs 900A), so the N200 mainly buys runtime and cold-weather margin, not proportionally more starting punch.
+2. **Tray depth is the real decision gate** — the N200 is 278mm deep versus the N150's 222mm, so fit often overrules the electrical spec before you even compare CCA.
+3. **900A CCA covers most heavy diesels** — if the engine starts reliably on the 145G51's 900A, paying for the 190H52's 1100A just adds weight and cost you never use.
+4. **Both are 12V — 24V trucks need a pair** — wire two N150 or two N200 in series for 24V, and always replace the pair together.
+5. **Reserve capacity widens the gap further** — 320 min (N200) vs 220 min (N150) matters more than CCA if the truck idles with heavy electrical loads.
 
 ## Model Photos
 

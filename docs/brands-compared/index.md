@@ -1,5 +1,5 @@
 ---
-description: Compare truck battery brands on objective criteria — verified specs, certifications, batch documentation and manufacturing consistency — not marketing claims alone.
+description: Compare truck battery brands on objective criteria — verified specs, certifications, batch documentation and manufacturing consistency, not marketing.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Compare truck battery brands on objective criteria — verified specs, certifications,
 documentation and manufacturing consistency — not marketing claims or brand reputation alone.
 A documented, certified manufacturer can match or beat a big brand at a better price.
+
+## Key Takeaways
+
+1. **Certifications, not logos, signal quality** — IATF 16949 is the automotive-specific standard; ISO 9001 is a general one, and the gap is the supply-chain discipline a fleet buyer needs.
+2. **Batch consistency beats brand fame** — per-batch CCA test data proves the battery was tested before shipping; a famous logo only proves the marketing was good.
+3. **ISO 14001 and ISO 45001 tell the hidden story** — environmental and occupational-health certs reveal the operational maturity a marketing sheet hides.
+4. **Scale is a reliability proxy** — a 200,000 m² facility running 18 lines at 40,000 batteries daily implies repeatable output, not hand-built one-offs.
+5. **An OEM factory can beat big-brand price** — with IATF 16949 and per-batch documentation you skip the brand premium without sacrificing consistency.
 
 ## The Criteria That Actually Matter
 

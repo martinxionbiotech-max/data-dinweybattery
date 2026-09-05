@@ -22,6 +22,14 @@ faq:
 operators cut costs by standardizing battery specs, testing proactively (at least annually),
 tracking age, and replacing on a schedule — not waiting for a breakdown.
 
+## Key Takeaways
+
+1. **The math is one-sided** — a battery costs a few hundred, but a stranded truck costs several hundred per hour in downtime alone; preventing one breakdown per vehicle per year pays for the whole program.
+2. **Replace at 3–5 years, or sooner on a failed load test** — a scheduled replacement is always cheaper than an unscheduled breakdown, turning batteries into a budgeted maintenance item.
+3. **Standardize on one or two group sizes and CCA ratings** — fewer spares, simpler procurement and fewer mis-specifications; match the standard to your market (JIS, DIN or BCI).
+4. **Load-test at least annually, always before winter** — and more often in harsh climates or high-mileage fleets, where decline outpaces the calendar.
+5. **Track age per vehicle before it strands a truck** — a simple spreadsheet of install date, group size, CCA and last load-test result lets you see the decline coming instead of reconstructing it after a breakdown.
+
 ## Why Battery Management Matters
 
 A roadside battery failure costs far more than the battery: towing, downtime, missed

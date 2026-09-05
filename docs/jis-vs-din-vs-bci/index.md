@@ -1,5 +1,5 @@
 ---
-description: JIS vs DIN vs BCI truck battery standards explained — how the three major sizing and rating systems differ, their markets, and how to convert between them when sourcing batteries.
+description: JIS vs DIN vs BCI truck battery standards — how the three sizing and rating systems differ, their markets, and how to convert between them.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Three regional standards govern truck battery sizing and rating: JIS (model codes
 like N150/N200), DIN (capacity codes like DIN88/DIN100) and BCI (group numbers like 31/8D).
 They are not directly interchangeable — always match the standard your vehicle uses.
+
+## Key Takeaways
+
+1. **The 3°C test gap flatters JIS CCA** — JIS D5301 tests at −15°C while SAE J537 and EN 50342-1 test at −18°C, so the same battery reads higher under JIS; cross-standard CCA comparisons are meaningless.
+2. **SAE ≈ (DIN × 1.5) + 40 is a planning rule, not a spec** — the conversion varies with battery design, so treating it as exact for a critical order is how buyers end up with the wrong battery.
+3. **BCI group numbers define size only** — Group 31, 8D and 4D set dimensions and terminals independently of electrical rating, so two Group 31 batteries can have very different CCA. Verify fit and power separately.
+4. **DIN codes encode real amp-hours, JIS codes don't** — DIN88 means 88Ah and DIN100 means 100Ah, but N150/N200 state no capacity; the 145G51 and 190H52 type numbers are the precise spec.
+5. **Polarity flips from JIS right-positive to DIN left-positive** — JIS N150/N200 sit right-positive while DIN88/DIN100 sit left-positive, so a size-compatible cross-standard swap can still leave your cables unable to reach.
 
 ## Representative Models
 

@@ -1,5 +1,5 @@
 ---
-description: How long does a truck battery last? Typical 3–5 year lifespan, the factors that shorten it (heat, vibration, deep discharge), and how to extend truck battery life.
+description: How long does a truck battery last? Typical 3–5 year lifespan, the factors that shorten it (heat, vibration, deep discharge) and how to extend it.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — A heavy-duty truck battery typically lasts 3–5 years. Heat, vibration, deep
 discharges and poor charging shorten that life; good maintenance can extend it. Test annually
 and replace proactively rather than waiting for a failure.
+
+## Key Takeaways
+
+1. **"3–5 years" is an average, not a warranty** — two identical batteries in the same fleet can diverge by years depending on where each vehicle operates.
+2. **AGM buys roughly a year over flooded** — 4–6 years versus 3–5, but only if the charging system treats the sealed design correctly.
+3. **Heat, not cold, is the biggest aging factor** — high temperatures accelerate grid corrosion exponentially, making hot-climate engine bays the worst case.
+4. **Draining below ~50% repeatedly cuts cycle life** — deep discharge triggers sulfation and shedding that the battery never fully recovers.
+5. **Replace proactively, not reactively** — flag any battery approaching three years for a load test before the cold season; one that passes at three can still fail at four.
 
 ## Typical Lifespan
 

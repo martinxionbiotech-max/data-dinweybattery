@@ -22,6 +22,14 @@ faq:
 posts (typically right-positive); DIN batteries use the conical T1 terminal (typically
 left-positive). Match the terminal type and orientation to your cables.
 
+## Key Takeaways
+
+1. **The taper is the whole game** — the DIN T1 terminal tapers (19.5mm positive / 17.9mm negative) so it self-locks as the clamp tightens, while JIS A/D posts are cylindrical and rely on a bolt; mixing them causes resistance, heat and poor cranking.
+2. **JIS posts are asymmetrical on purpose** — the A-type post is 14.7mm positive vs 13.0mm negative (D-type 12.5mm/11.0mm), a size difference that makes reverse-polarity installs physically hard — but only if you know to check.
+3. **Right-positive vs left-positive is a cable-length trap** — JIS is typically right-positive (0/R), DIN left-positive (1/L), so a size-compatible battery can still leave cables unable to reach.
+4. **Hold-down mismatch shortens battery life** — JIS uses the B0 top-frame clamp, DIN the B13 bottom bracket; a battery that fits the tray but uses the wrong hold-down shifts under vibration.
+5. **The "A" terminal code is overloaded** — JIS "A" means a large post (14.7/13.0mm), but "A (Euro)" means the conical T1 (19.5/17.9mm), so reading "A" without the standard invites a wrong order.
+
 ## Terminal Types
 
 | Code | Description | Positive Ø | Negative Ø | Used in |

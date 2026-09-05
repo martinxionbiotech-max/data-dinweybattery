@@ -1,5 +1,5 @@
 ---
-description: What is an EFB battery? Enhanced Flooded Battery explained for commercial vehicles — how EFB differs from standard flooded and AGM, charge acceptance, cycle life, and when to choose it.
+description: What is an EFB battery? Enhanced Flooded Battery for commercial vehicles — how EFB differs from flooded and AGM, charge acceptance and cycle life.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — EFB (Enhanced Flooded Battery) is a step up from standard flooded lead-acid: it
 adds carbon-enhanced plates and a polyester scrim separator for better charge acceptance and
 cycle life. It sits between flooded and AGM in both performance and price.
+
+## Key Takeaways
+
+1. **400–600 cycle life is EFB's entire pitch** — it roughly doubles a flooded battery's 200–300 cycles for only a 1.3–1.5× price, the one tier where the durability gain outweighs the cost premium.
+2. **Carbon-enhanced plates, not the label, do the work** — carbon on the negative plate suppresses the sulfation that strangles SLI, which is why EFB's 400–600 cycles beat flooded's 200–300 in partial-charge service.
+3. **1.5–2.0× charge acceptance is EFB's quiet advantage** — faster reabsorption of alternator energy means less time undercharged, the single biggest reason fleets see longer service life than from SLI.
+4. **EFB wins only in a narrow mid-tier band** — at 1.3–1.5× cost it beats SLI, but once vibration, cold or full start-stop enters, AGM's 600–1200 cycles and 2.5–3.5× charge acceptance justify their 1.8–2.2× price.
+5. **EFB is still a wet, non-sealed battery** — the 1.3–1.5× premium buys carbon and a scrim separator, not AGM's spill-proof build; over-voltage or sitting deeply discharged ages it like any flooded battery.
 
 ## What "Enhanced Flooded" Actually Means
 

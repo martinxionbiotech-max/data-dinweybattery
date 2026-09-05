@@ -1,5 +1,5 @@
 ---
-description: Truck battery charging guide — correct charging voltage by battery type, the three-stage charge profile, and how to avoid the two silent killers of battery life.
+description: Truck battery charging guide — correct charging voltage by battery type, the three-stage charge profile and the two silent killers of battery life.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 24V), using the right three-stage profile (bulk → absorption → float), and keeping the
 charging system healthy. Overcharging and undercharging are the two silent killers of truck
 battery life.
+
+## Key Takeaways
+
+1. **AGM has a hard ceiling of ~14.8V** — charge it higher and the sealed design dries out its electrolyte; flooded takes 14.4–14.8V but AGM caps at 14.2–14.7V.
+2. **Float at 13.2–13.5V is what keeps a battery alive** — hold it too high and even a "full" battery is slowly cooked.
+3. **Most premature failures are charging problems, not defects** — undercharging sulfates and overcharging loses water, and both stay invisible until capacity is already gone.
+4. **A 24V system charges at ~28.8V absorption** — never feed it a 12V charger; charge each 12V battery separately instead.
+5. **A three-stage charger beats a constant-voltage one** — bulk, absorption, then float stops forcing current once the battery is full; the alternative is a slow cook.
 
 ## Why Charging Matters More Than You Think
 

@@ -22,6 +22,14 @@ faq:
 charge, securing against vibration, and testing regularly. A few minutes of maintenance twice
 a year can double service life.
 
+## Key Takeaways
+
+1. **Full charge is the highest-leverage habit** — a battery left partially discharged sulfates and permanently loses capacity, and by the time it visibly struggles the capacity is already gone.
+2. **Load-test twice a year, not once** — before winter and before summer, because a battery that passes in autumn can still fail in the worst of winter.
+3. **Disconnect the negative terminal first and last** — remove it first and reconnect it last to cut short-circuit risk; getting the order backwards is the classic spark incident.
+4. **Distilled water only, never tap water** — and only for batteries with removable caps; sealed and maintenance-free batteries need no topping up at all.
+5. **Corrosion is a resistance problem, not just cosmetic** — it sits exactly where the starter draws hundreds of amps, so a thin dielectric-grease coat after cleaning pays for itself.
+
 ## 1. Keep Terminals Clean and Tight
 
 Corrosion adds resistance and loose terminals cause intermittent contact. Clean terminals with

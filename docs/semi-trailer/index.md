@@ -1,5 +1,5 @@
 ---
-description: Battery selection for semi-trailers and heavy haulers — 24V systems, high CCA, series battery configuration, auxiliary loads, and matched-pair replacement for the largest commercial vehicles.
+description: Battery selection for semi-trailers and heavy haulers — 24V systems, high CCA, series configuration, auxiliary loads and matched-pair replacement.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Semi-trailer trucks use 24V systems (two 12V batteries in series) with high CCA
 (850–1100+) to crank large diesel engines. Always replace the pair together and match the
 group size to your market (JIS N200/N150 or DIN100/DIN88).
+
+## Key Takeaways
+
+1. **24V halves the current for the same power** — thinner, lighter wiring and less voltage drop over long cable runs; that is why an 850–1100+ CCA semi bank cranks a large diesel more reliably than a 12V equivalent.
+2. **Series wiring adds voltage but not capacity** — 12V + 12V = 24V while Ah stays at a single battery's rating; parallel does the opposite, doubling capacity while keeping voltage at 12V.
+3. **The matched-pair rule is non-negotiable** — in a series bank the weaker battery is over-discharged and over-charged on every cycle, failing early and dragging the good battery down with it.
+4. **Always replace both 24V batteries together** — same model, same age, same rating; if one dies early, check the charging system first, because an alternator fault kills batteries in pairs.
+5. **Cold climate pushes CCA to the top of the range** — thick oil and reduced cold output justify the highest CCA in the group size, and often a move from flooded to AGM for dependable cold starts.
 
 ## The Semi Truck Electrical System
 

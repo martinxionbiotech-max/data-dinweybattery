@@ -1,5 +1,5 @@
 ---
-description: DIN88 vs DIN100 truck battery comparison — 58827 (DIN88) and 60038 (DIN100) specifications, dimensions, EN cold-cranking amps, capacity, and how to choose for European trucks.
+description: DIN88 vs DIN100 truck battery comparison — 58827 (DIN88) and 60038 (DIN100) specs, dimensions, EN cold-cranking amps and capacity for European trucks.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — DIN88 (58827) is the standard European heavy-duty battery at 88Ah / 800A EN;
 DIN100 (60038) is the larger option at 100Ah / 870A EN. Choose DIN100 for more cranking power
 or higher electrical load if your tray fits it; otherwise DIN88 is lighter and cheaper.
+
+## Key Takeaways
+
+1. **The DIN100 upgrade is modest** — 14% more capacity (100Ah vs 88Ah) and 9% more cold-cranking (870A vs 800A EN); a smaller step than most buyers assume, so many won't feel the difference.
+2. **Length is the real blocker, not power** — the 60038 is 40mm longer (393mm vs 353mm), and European trays are tight, so fit usually decides the choice.
+3. **800A EN is not 800 SAE CCA** — the 58827 is rated in EN, and EN and SAE test differently, so a raw-number comparison against a JIS or BCI battery misleads.
+4. **Terminals are identical, so polarity won't decide** — the 58827 (DIN88) and 60038 (DIN100) both use the T1 European conical terminal, so the only physical variable between them is length.
+5. **Reserve capacity barely moves** — 170 min (DIN100) vs 150 min (DIN88) is a 20-minute gap, so upgrading for RC alone rarely justifies the cost.
 
 ## Model Photos
 

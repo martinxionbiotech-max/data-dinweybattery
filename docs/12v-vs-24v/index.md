@@ -22,6 +22,14 @@ faq:
 and buses use 24V systems built from two 12V batteries wired in series. Series wiring adds
 voltage (12V + 12V = 24V) while halving current for the same power.
 
+## Key Takeaways
+
+1. **24V exists to halve the current** — the same cranking power at half the amps means thinner cables, less voltage drop and less heat, which is why heavy trucks standardized on 24V.
+2. **A 24V system is just two 12V in series** — 12V + 12V = 24V with current unchanged; there is no single 24V battery, only a matched pair.
+3. **For maximum 24V cranking, pair two 190H52 (N200) or two 60038 (DIN100)** — the rating comes from the battery choice, not the wiring.
+4. **Parallel does the opposite of what you might want** — two 12V in parallel doubles Ah but stays 12V; it will never produce 24V no matter how many batteries you add.
+5. **Never replace just one battery of a 24V pair** — mismatched pairs (including flooded + AGM) charge unevenly and shorten life; replace both, matched, together.
+
 ## Why Two Voltages Exist
 
 - **12V** — standard for light vehicles and light/medium trucks. Simpler, lower cost, and

@@ -1,5 +1,5 @@
 ---
-description: Why diesel truck batteries fail in winter — how cold reduces CCA, thickens engine oil and slows the chemical reaction, plus how to prevent winter starting failure.
+description: Why diesel truck batteries fail in winter — how cold reduces CCA, thickens engine oil and slows the chemical reaction, and how to prevent it.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -22,6 +22,14 @@ faq:
 battery's chemical reaction (less available current), thickens engine oil (more cranking
 effort), and increases electrical demand (heaters, lights, glow plugs). The fix is a battery
 with adequate CCA for your climate, kept fully charged and well-maintained.
+
+## Key Takeaways
+
+1. **At −18°C a battery delivers only a fraction of its room-temperature current** — the CCA rating exists precisely to quantify that 30-second, above-7.2V collapse.
+2. **Winter is three failures compounding** — a weaker battery, thicker engine oil, and higher electrical demand (glow plugs, heaters, lights) that compete with the starter.
+3. **CCA selection matters regardless of voltage** — a 24V system halves the current for the same power, but the cold-chemistry limit still applies.
+4. **Heavy semis need 1000–1100+ CCA in cold climates** — light pickups 700–800 and medium-duty 900–1000; minimum spec is not enough margin in a hard freeze.
+5. **A discharged battery freezes more easily** — keep it fully charged and load-test in autumn so a planned replacement never becomes a January roadside emergency.
 
 ## The Triple Effect of Cold
 

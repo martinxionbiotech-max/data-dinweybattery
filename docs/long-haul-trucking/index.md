@@ -1,5 +1,5 @@
 ---
-description: Battery selection for long-haul trucking fleets — why 24V systems, high CCA and vibration resistance matter for over-the-road trucks, and how to specify batteries for maximum uptime.
+description: Battery selection for long-haul trucking fleets — why 24V systems, high CCA and vibration resistance matter for over-the-road trucks and uptime.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -21,6 +21,14 @@ faq:
 **TL;DR** — Long-haul trucks run on 24V systems with high CCA and need batteries that
 withstand constant vibration. Specify the right group size and CCA for your market, test
 proactively, and replace on a schedule to keep trucks moving.
+
+## Key Takeaways
+
+1. **24V is two 12V batteries in series, not one unit** — a long-haul tractor needs 850–1100+ CCA to crank its diesel; the pair must be treated as a single bank, because a mismatch shortens the weaker battery's life on every cycle.
+2. **Vibration, not a single impact, is what kills OTR batteries** — millions of small oscillations shed plate material over time, and a battery that can move a few millimetres in its tray fails far earlier, so hold-down brackets are load-bearing parts, not accessories.
+3. **Hotel loads quietly deep-cycle the starting battery** — sleeper HVAC, inverters and telematics running engine-off draw from the same bank; split starting and auxiliary duty or accept a dramatically shortened life.
+4. **Replace at 3–5 years and load-test at least annually, before winter** — a scheduled swap is always cheaper than a roadside breakdown, and a winter-dead battery is a tow bill, not a battery bill.
+5. **Standardize on one or two group sizes and CCA ratings** — fewer spares, one technician training path and better negotiated pricing beat chasing per-truck specs across a mixed fleet.
 
 ## The Demands of Over-the-Road Duty
 
