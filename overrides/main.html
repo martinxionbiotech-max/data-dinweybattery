@@ -1,7 +1,7 @@
 {#-
   Site-wide schema override for DINWEY Battery Knowledge Hub.
   Extends Material's base template and injects JSON-LD into <head>.
-  Author = DINWEY Technical Team (team byline, no fabricated individual expert).
+  Author = Martin Wong, Sales Director, Chengguang Energy (real named author, 14 years industry experience).
 -#}
 {% extends "base.html" %}
 
@@ -117,8 +117,14 @@
     "headline": "{{ page.title }}",
     "description": "{{ page.meta.description }}",
     "author": {
-      "@type": "Organization",
-      "name": "DINWEY Technical Team",
+      "@type": "Person",
+      "name": "Martin Wong",
+      "jobTitle": "Sales Director",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Chengguang Energy",
+        "url": "https://chengguangenergy.com"
+      },
       "url": "https://dinweysbattery.com/about/"
     },
     "publisher": { "@id": "{{ config.site_url }}#organization" },
@@ -197,7 +203,11 @@
   {% if page.meta and page.meta.type == 'article' %}
   <div class="dw-byline" role="note" aria-label="Author and review information">
     <span class="dw-byline__label">Written by</span>
-    <strong>{{ page.meta.author | default('DINWEY Technical Team') }}</strong>
+    <strong>{{ page.meta.author | default('Martin Wong') }}</strong>
+    <span class="dw-byline__sep">·</span>
+    <span>Sales Director, Chengguang Energy</span>
+    <span class="dw-byline__sep">·</span>
+    <span>14 years in battery manufacturing</span>
     {% if page.meta.date_published %}
       <span class="dw-byline__sep">·</span>
       <span>Published {{ page.meta.date_published }}</span>

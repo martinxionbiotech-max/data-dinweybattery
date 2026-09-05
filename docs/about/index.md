@@ -42,8 +42,10 @@ distributors and buyers specify the right truck battery:
    Chengguang Energy technical documentation under an IATF 16949 quality system.
 2. **No unverifiable claims** — where a value depends on the vehicle, we say so and
    direct you to your manual.
-3. **Team authorship** — content is written and reviewed by the DINWEY Technical Team.
-   We do not publish attributed articles under invented individual experts.
+3. **Named authorship** — content is written and reviewed by Martin Wong, Sales Director
+   at Chengguang Energy, with 14 years in battery manufacturing. We attribute to a real,
+   named expert. We never fabricate an individual expert; Martin Wong is the actual person
+   responsible for this documentation.
 4. **Transparent dates** — every article carries publication and update dates.
 
 ## How to Use This Documentation
