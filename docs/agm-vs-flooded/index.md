@@ -78,7 +78,11 @@ This is also why AGM classifies as UN2800 (non-spillable) for shipping — see
 ## Cost vs Life: The Simple Math
 
 AGM costs roughly twice a flooded battery but typically offers roughly double the cycle life
-and better reliability. In applications where a flooded battery is stressed (vibration, cold,
+and better reliability. Do the per-cycle math and the premium can invert: a flooded battery at
+~250 cycles (200–300) costs about 1/250 of its price per cycle, while an AGM at ~900 cycles
+(600–1200) costs about 2/900 — roughly **45% less per cycle** despite the higher sticker. The
+catch is that this only pays out if the battery actually lives those cycles; in gentle, well-charged
+duty a flooded battery often never reaches its cycle limit, so the cheaper upfront option wins. In applications where a flooded battery is stressed (vibration, cold,
 frequent starts), AGM's longer service life can offset its higher price. In gentle duty cycles,
 flooded remains the better value.
 

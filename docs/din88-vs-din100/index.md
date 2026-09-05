@@ -70,6 +70,8 @@ The DIN100 delivers about **14% more capacity** (100Ah vs 88Ah) and **9% more co
 The DIN100 is **40mm longer** (393mm vs 353mm) than the DIN88. Before choosing, confirm your
 battery tray length.
 
+The 40mm is almost pure volume, not efficiency: the DIN88 displaces roughly 11.7 L (353×175×190 mm) and the DIN100 roughly 13.1 L (393×175×190 mm) — an 11% larger case for 14% more capacity. Energy density barely moves: about 7.5 Ah/L for the DIN88 versus 7.6 Ah/L for the DIN100. The DIN100's extra 12Ah is bought with size, not with a denser battery, so the only reason to choose it is the extra CCA and capacity — not because it is a fundamentally better cell.
+
 ### Cost
 
 The DIN88 is the more economical choice. If your engine starts reliably on 800A EN, the DIN88

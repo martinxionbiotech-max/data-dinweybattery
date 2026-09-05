@@ -42,6 +42,12 @@ Here is a dual-metric profile of the DINWEY range so you can match the battery t
 CCA and RC measure different things: **power (burst)** versus **energy (endurance)**. A battery
 can be strong at one and weak at the other.
 
+The ratio of the two is the tell: the DIN 58827 pairs 800 A EN with 150 minutes RC — about 5.3 A
+of cranking power per reserve minute — while the JIS 190H52 pairs 1100 A with 320 minutes, only
+about 3.4 A per minute. The JIS battery is biased toward endurance, the DIN unit toward burst. Two
+batteries can both be called "heavy-duty" yet be optimized for opposite jobs, which is why matching
+battery to duty cycle — not to a single headline number — is what actually prevents roadside failures.
+
 ## Why Fleets Are Shifting from CCA to RC
 
 Ten years ago, the question was "how high is the CCA?" Today, anti-idling regulations and denser

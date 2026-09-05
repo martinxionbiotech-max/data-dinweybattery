@@ -74,6 +74,8 @@ The N200 is **deeper** (278mm vs 222mm) and heavier than the N150. Before choosi
 - The hold-down bracket compatibility
 - That the added weight is acceptable for your application
 
+The dimensions hide a less obvious point: the N200's extra volume buys **more than its share of capacity**. The N150 displaces roughly 23.9 L (508×222×212 mm) and the N200 roughly 31.8 L (520×278×220 mm) — a **33% larger** case. But capacity grows **48%** (135Ah → 200Ah), so the N200's energy density works out about **11% higher** (≈5.6 vs ≈6.3 Ah/L). The N200 is not simply a bigger N150 — it is a slightly more compact battery per amp-hour, which matters when tray space is fixed and every amp-hour counts.
+
 ### Cost
 
 The N150 is the more economical choice. If your engine starts reliably on 900A CCA, the N150

@@ -43,6 +43,13 @@ range. Always confirm the exact figure in your manual.
     These are general ranges for planning. The authoritative CCA requirement is in your
     vehicle manual and on the original battery label.
 
+Read the ladder as a scale: from a gasoline light truck (midpoint ~500 CCA) to a heavy semi
+(midpoint ~975 CCA) the requirement roughly **doubles** — about +95%. The biggest single jump is
+the fuel, not the size: a diesel pickup needs ~600–800 CCA where a gasoline pickup of the same
+size needs only ~400–600, roughly **200 A more** (about +40%) purely because compression ignition
+loads the starter harder. Two trucks that look alike can sit two rungs apart on the CCA ladder
+once you account for fuel type.
+
 ## Why Diesel Needs More
 
 Diesel engines use compression ignition with much higher compression ratios than gasoline

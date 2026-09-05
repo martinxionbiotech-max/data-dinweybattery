@@ -59,7 +59,12 @@ In series, voltages add (12V + 12V = 24V) while the current stays the same.
 
 Power is voltage × current. To crank a large diesel engine you need a lot of power. You can
 deliver it either as high current at 12V, or half the current at 24V. Halving the current means
-thinner cables, less voltage drop over long runs, and less heat at every connection — which is
+thinner cables, less voltage drop over long runs, and less heat at every connection. The
+saving is quadratic, not linear: resistive power loss is I²R, so cutting current in half drops
+cable heating to **one quarter** (a 75% reduction). That is why a 24V truck can run a given
+starter with roughly a quarter of the copper cross-section a 12V setup would need for the same
+loss — which is exactly why heavy commercial vehicles standardized on 24V instead of running
+ever-thicker 12V cable. — which is
 why the industry standardized on 24V for heavy trucks rather than running ever-thicker 12V
 cables.
 
