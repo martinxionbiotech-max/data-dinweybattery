@@ -49,9 +49,13 @@ Truck starting batteries are lead-acid, which the UN system classifies as danger
 
 A battery qualifies as UN2800 only if it passes a vibration and pressure-differential test
 proving the electrolyte will not leak even if the case is cracked. AGM and VRLA batteries meet
-this because the electrolyte is absorbed in the glass mat, not free-flowing. This is not a
-label any battery can claim — it is a test result, so confirm the classification with your
-manufacturer before declaring it on shipping documents.
+this because the electrolyte is absorbed in the glass mat, not free-flowing. The
+pressure-differential test is a hard number, not a hand-wave: the battery must withstand a
+differential of at least 88 kPa — about 0.87 atm, or the pressure at roughly 9 m of water depth
+— without leaking. That is what separates a genuinely non-spillable AGM/VRLA battery from a
+flooded battery that merely has a tight cap. This is not a label any battery can claim — it is
+a test result, so confirm the classification with your manufacturer before declaring it on
+shipping documents.
 
 ## How Truck Batteries Ship
 

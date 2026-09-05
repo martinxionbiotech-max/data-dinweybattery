@@ -36,12 +36,23 @@ Cold does three things at once: it slows the battery's chemical reaction (less a
 current), thickens engine oil (more cranking effort), and increases electrical demand (glow
 plugs, heaters). The result is a battery that is weakest when the engine needs the most.
 
+Capacity drops with temperature on a well-known curve: a battery rated at 25 °C delivers
+roughly 80% of its capacity at 0 °C and only about 50–60% at −18 °C — which is exactly the
+temperature at which CCA is measured (SAE J537). In other words, the "200 Ah" N200 battery that
+provides 200 Ah on a mild day is good for only about 100–120 Ah on a −18 °C morning, at the very
+moment the starter is drawing its peak current.
+
 ### The Freezing Point Trap
 
 A fully charged lead-acid battery has a very low freezing point, but a discharged battery
 freezes at a much higher temperature — and freezing can crack the case and damage the plates
-permanently. This is why "keep it charged" is not just good practice in winter, it is the
-difference between a battery that survives the season and one that does not. See
+permanently. The gap is bigger than most operators realize: a fully charged battery
+(electrolyte specific gravity ≈ 1.265) freezes around −60 °C, but the same battery at 50%
+charge (gravity ≈ 1.19) freezes near −20 °C — a roughly 40 °C shift, well above a typical
+arctic overnight low. At 0% charge (gravity ≈ 1.12) the electrolyte freezes around −7 °C,
+warmer than a mild winter day in most trucking regions. This is why "keep it charged" is not
+just good practice in winter — it is the difference between a battery that survives the season
+and one that cracks its case by the first hard freeze. See
 [why diesel batteries fail in winter](../why-diesel-batteries-fail-winter/index.md).
 
 ## CCA Recommendations for Cold Climates
@@ -53,7 +64,11 @@ difference between a battery that survives the season and one that does not. See
 | Heavy-duty semi | 1000–1100+ CCA |
 
 Always confirm the exact requirement in your vehicle manual, and err on the higher side for
-arctic conditions.
+arctic conditions. Within the DINWEY range the cold-weather step-up is concrete: moving from
+the 145G51 (N150, 900 A CCA) to the 190H52 (N200, 1100 A CCA) buys 200 A of cranking headroom
+— a 22% margin (1100 ÷ 900 ≈ 1.22) — for roughly the same 12 V footprint. That 22% is the
+difference between a start and a no-start when a −25 °C morning saps the battery's available
+current.
 
 ## Flooded vs AGM in Extreme Cold
 

@@ -76,7 +76,8 @@ A common mistake is assuming a larger group size means more power. Group size is
 The two dimensions are independent by design. A compact Group 31 with a high-CCA plate design
 can out-crank a physically larger battery — which is exactly why the industry has migrated
 from 8D to 31 for new trucks. When replacing, capture *both* the group size and the CCA from
-the old battery, not one or the other.
+the old battery, not one or the other. For how CCA is measured and why the number matters, see
+[What is CCA](../what-is-cca/index.md).
 
 ## BCI vs JIS vs DIN
 
@@ -92,6 +93,7 @@ interchangeable — see [JIS vs DIN vs BCI standards](../jis-vs-din-vs-bci/index
 ## Related
 
 - [Truck Battery Selection Guide](../selection-guide/index.md)
+- [CCA vs reserve capacity](../cca-vs-reserve-capacity/index.md)
 - [DINWEY JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/)
 - [DINWEY BCI batteries (on request)](https://dinweysbattery.com/products/bci-request/)
 

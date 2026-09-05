@@ -59,6 +59,13 @@ A battery left partially discharged sulfates — lead sulfate crystals harden on
 permanently reducing capacity. Standby generators are especially vulnerable because they sit
 idle. The fix is a float charger that keeps the battery at full charge.
 
+Even with no load, a battery self-discharges at roughly 3–5% per month at room temperature. On
+a 135 Ah N150 that is 4–7 Ah lost every month — after three idle months the battery has shed
+12–20 Ah, or roughly 9–15% of its capacity, before the generator has cranked once. A float
+charger erases this loss by holding the battery at full charge; without one, self-discharge is
+quietly eating the margin you will need on the one cold night the generator is actually called
+on.
+
 Sulfation is progressive and largely invisible until it is too late. A standby battery that
 sits at 70% charge for months will start the generator fine on a mild day, then fail on the
 cold night when the engine oil is thick and every amp matters. This is why the float charger is
@@ -71,6 +78,12 @@ starts and one that does not.
 - **Test annually** — load-test to confirm the battery still delivers rated CCA
 - **Clean terminals** — corrosion adds resistance at the worst time
 - **Replace proactively** — at 3–5 years or when load-test fails
+
+Temperature also drives aging. The long-standing rule of thumb is that battery life roughly
+halves for every 10 °C rise in sustained operating temperature: a generator battery in a hot
+machine room at a sustained 35 °C ages at about twice the rate of one held at 25 °C. That is
+why the "3–5 years" window is an estimate, not a guarantee — for standby units in warm
+climates, err toward the short end of it.
 
 ## 24V and Larger Installations
 

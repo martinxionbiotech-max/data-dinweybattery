@@ -86,7 +86,8 @@ A 24V series pair needs a 24V charger. Two practical options:
   simple when a 24V charger is not available.
 
 A 12V charger connected across the full pair will not charge it properly and can leave the two
-batteries imbalanced.
+batteries imbalanced. For charge voltages, rates and multi-battery practices, see the
+[battery charging guide](../battery-charging-guide/index.md).
 
 ## Common Mistakes
 
@@ -103,6 +104,7 @@ batteries imbalanced.
 ## Related
 
 - [12V vs 24V systems](../12v-vs-24v/index.md)
+- [Battery isolators & auxiliary banks](../battery-isolators-auxiliary/index.md)
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)
 
