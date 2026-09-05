@@ -9,9 +9,9 @@ faq:
   - q: What certifications should a truck battery manufacturer have?
     a: IATF 16949 (automotive quality), ISO 9001 (quality management), ISO 14001 (environmental), and CE marking for the European market are the key signals.
   - q: Why does batch consistency matter more than brand name?
-    a: For fleet and distribution buyers, the critical question is whether every battery performs the same. Per-batch test data from a certified manufacturer provides that consistency regardless of brand fame.
+    a: For fleet and distribution buyers, the critical question is whether every battery performs the same. Per-batch CCA test data from an IATF 16949-certified manufacturer provides that consistency regardless of brand fame.
   - q: What questions should I ask a battery supplier?
-    a: Ask about factory certifications, per-batch CCA test data and certificates of analysis, MOQ and lead time, warranty terms, and OEM/private-label support.
+    a: Ask about factory certifications (IATF 16949, ISO 9001), per-batch CCA test data, MOQ and lead time (20–45 days), warranty terms, and OEM/private-label support.
   - q: Is an OEM factory brand better value than a big brand?
     a: Often yes — an OEM factory with IATF 16949 certification and per-batch documentation can match or beat a big brand on consistency and price, because you are not paying for the brand premium.
 ---
@@ -25,7 +25,7 @@ A documented, certified manufacturer can match or beat a big brand at a better p
 ## Key Takeaways
 
 1. **Certifications, not logos, signal quality** — IATF 16949 is the automotive-specific standard; ISO 9001 is a general one, and the gap is the supply-chain discipline a fleet buyer needs.
-2. **Batch consistency beats brand fame** — per-batch CCA test data proves the battery was tested before shipping; a famous logo only proves the marketing was good.
+2. **Batch consistency beats brand fame** — per-batch CCA test data from an IATF 16949-certified line proves the battery was tested before shipping; a famous logo only proves the marketing was good.
 3. **ISO 14001 and ISO 45001 tell the hidden story** — environmental and occupational-health certs reveal the operational maturity a marketing sheet hides.
 4. **Scale is a reliability proxy** — a 200,000 m² facility running 18 lines at 40,000 batteries daily implies repeatable output, not hand-built one-offs.
 5. **An OEM factory can beat big-brand price** — with IATF 16949 and per-batch documentation you skip the brand premium without sacrificing consistency.

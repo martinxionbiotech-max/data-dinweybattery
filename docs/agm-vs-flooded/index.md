@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: Is AGM better than flooded for trucks?
-    a: For demanding heavy-duty use, AGM generally outperforms flooded in cold starts, vibration resistance and charge acceptance, but costs more. Flooded remains a proven, economical choice for standard duty cycles.
+    a: For demanding heavy-duty use, AGM generally outperforms flooded in cold starts, vibration resistance and charge acceptance, with 600–1200 cycles vs flooded's 200–300. Flooded remains economical for standard duty.
   - q: Can I replace a flooded truck battery with an AGM?
-    a: Usually yes, if the group size, voltage and terminal orientation match. AGM offers better cycle life and vibration resistance at a higher price.
+    a: Usually yes, if the group size, voltage and terminal orientation match. AGM offers 600–1200 cycles (vs 200–300 flooded) and better vibration resistance at a higher price.
   - q: How much longer does an AGM battery last?
     a: AGM typically lasts longer than flooded in demanding duty — roughly 600–1200 cycles vs 200–300 for flooded — but actual life depends on conditions.
   - q: Do AGM batteries need special charging?
-    a: AGM benefits from a controlled charge profile within specification. Most modern vehicles handle AGM automatically, but a charger with an AGM setting is recommended.
+    a: AGM benefits from a controlled charge profile (float at 13.5–13.8 V). Most modern vehicles handle AGM automatically, but a charger with an AGM setting is recommended.
   - q: Is AGM worth the extra cost for a fleet?
-    a: In high-vibration, cold-climate or high-uptime fleets, AGM's longer service life and reliability often offset the higher price. In gentle duty, flooded is the better value.
+    a: In high-vibration, cold-climate or high-uptime fleets, AGM's 600–1200 cycle life often offsets the higher price. In gentle duty, flooded's 200–300 cycles are enough and the better value.
 ---
 
 # AGM vs Flooded for Heavy-Duty Trucks
@@ -28,7 +28,7 @@ conventional use, flooded remains the economical choice.
 1. **Cycle life is AGM's biggest, conditional win** — 600–1200 cycles versus 200–300 for flooded, but that gap only fully opens under vibration, cold starts and frequent restarts, not in gentle duty.
 2. **2.5–3.5× charge acceptance only pays off in high-load trucks** — AGM absorbs charge 2.5–3.5× faster than SLI, yet a healthy long-haul charging system rarely undercharges a flooded battery, so the benefit goes unnoticed.
 3. **The 1.8–2.2× price needs a downtime calculation** — AGM costs 1.8–2.2× a flooded unit; it only pays back where downtime is expensive, not for budget fleets on a fixed replacement schedule.
-4. **Vibration, not age, is the silent flooded killer** — AGM's compressed glass mat resists the plate shedding that off-highway, mining and construction duty causes, which is why those fleets pay roughly twice the flooded price.
+4. **Vibration, not age, is the silent flooded killer** — AGM's compressed glass mat resists the plate shedding that off-highway, mining and construction duty causes, which is why those fleets pay ~2× the flooded price.
 5. **In hot climates AGM's cold-start edge is wasted** — where capacity (Ah) matters more than CCA, a flooded battery at 1.0× baseline cost is the smarter, cheaper choice.
 
 ## How They Differ

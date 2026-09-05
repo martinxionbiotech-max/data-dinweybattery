@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: What is an EFB battery?
-    a: EFB (Enhanced Flooded Battery) is an improved flooded lead-acid battery with carbon-enhanced plates and a polyester scrim separator, offering better charge acceptance and cycle life than standard flooded at a lower cost than AGM.
+    a: EFB (Enhanced Flooded Battery) is an improved flooded lead-acid battery with carbon-enhanced plates and a polyester scrim separator — roughly 2× the cycle life of standard flooded (200–300 cycles) at a lower cost than AGM.
   - q: What is the difference between EFB and AGM?
-    a: EFB is a wet (flooded) battery with enhanced design; AGM uses an absorbent glass mat separator and is fully sealed. AGM offers higher performance and cycle life but costs more; EFB is a mid-tier option.
+    a: EFB is a wet (flooded) battery with enhanced design; AGM uses an absorbent glass mat and is fully sealed, with 600–1200 cycles vs EFB's ~2× flooded. AGM offers higher performance and cycle life but costs more; EFB is a mid-tier option.
   - q: Is EFB good for commercial vehicles?
-    a: Yes. EFB suits entry-level start-stop systems and mid-tier commercial vehicles that need better durability than standard flooded without the full cost of AGM.
+    a: Yes. EFB suits entry-level start-stop systems — where the engine stops and restarts 30+ times a day — and mid-tier commercial vehicles that need better durability than standard flooded without AGM's cost.
   - q: Can I replace a flooded battery with an EFB?
-    a: In most cases yes, if the group size and voltage match. EFB offers better cycle life and charge acceptance at a modest premium.
+    a: In most cases yes, if the group size and voltage match. EFB offers roughly 2× the cycle life of flooded at a modest premium.
   - q: Does EFB need special charging?
-    a: EFB uses similar charging to flooded lead-acid, but like AGM it benefits from a charging system within specification. Most modern vehicles handle EFB automatically.
+    a: EFB uses similar charging to flooded (13.8–14.4 V), but benefits from a charging system within specification. Most modern vehicles handle EFB automatically.
 ---
 
 # What Is an EFB Battery (for Commercial Vehicles)?

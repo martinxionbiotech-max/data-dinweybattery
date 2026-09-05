@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: How do I choose a truck battery?
-    a: Match four things first — group size, CCA, voltage and terminal orientation — then choose the technology (flooded/EFB/AGM) for your duty cycle and buy from a supplier that provides documentation and warranty.
+    a: Match 4 things first — group size, CCA, voltage and terminal orientation — then choose the technology (flooded/EFB/AGM) for your duty cycle and buy from a supplier that provides documentation and warranty.
   - q: What group size battery does my truck need?
     a: Read the group size from the existing battery label or your vehicle manual. Trucks commonly use JIS N150/N200, DIN88/DIN100, or BCI Group 31/8D depending on the market.
   - q: Is a higher CCA battery always a better buy?
-    a: Within the same group size, higher CCA gives more cold-start margin, which is good in cold climates. But it is not a substitute for the correct group size and may cost more. Match CCA to your engine and climate.
+    a: Within the same group size, higher CCA (e.g. 900 vs 1100 A, a 22% margin) gives more cold-start margin, which is good in cold climates. But it is not a substitute for the correct group size. Match CCA to your engine and climate.
   - q: Should I buy AGM or flooded for a truck?
-    a: Flooded is economical for standard long-haul duty; EFB suits entry start-stop and mid-tier loads; AGM is best for high vibration and cold climates. Match technology to duty cycle.
+    a: Flooded (200–300 cycles) is economical for standard long-haul duty; EFB (~2× flooded) suits entry start-stop; AGM (600–1200 cycles) is best for high vibration and cold climates. Match technology to duty cycle.
   - q: Why is the cheapest truck battery often not cheapest?
-    a: An under-specified or thin-plate battery fails sooner and can strand a vehicle. The downtime cost of a breakdown usually dwarfs the price difference. Specify correctly and buy from a documented supplier.
+    a: An under-specified or thin-plate battery fails sooner and can strand a vehicle. The downtime cost of a breakdown (often 5–10× the battery) usually dwarfs the price difference. Specify correctly and buy from a documented supplier.
 ---
 
 # Heavy-Duty Truck Battery Buying Guide
@@ -27,8 +27,8 @@ supplier that provides documentation and warranty.
 1. **Group size is non-negotiable** — a JIS N150/N200 won't fit a DIN88/DIN100 tray; the footprint and hold-down decide fit before any electrical rating does.
 2. **12V vs 24V is a costly order error** — record the system voltage first; a 24V truck needs two 12V batteries in series, not one larger unit.
 3. **Terminal type is the hidden deal-breaker** — A/D post vs T1 conical and left- vs right-positive; the correct footprint with the wrong terminals is still uninstallable.
-4. **Capture all four specs, not three** — group size, CCA, voltage and terminal orientation; skipping the fourth is how wrong orders happen.
-5. **Documentation beats a low sticker price** — per-batch CCA test data plus a certificate of analysis is the proof a battery was tested before shipping; a cheap, undocumented battery is a roadside risk in disguise.
+4. **Capture all 4 specs, not 3** — group size, CCA, voltage and terminal orientation; skipping the 4th is how wrong orders happen.
+5. **Documentation beats a low sticker price** — per-batch CCA test data plus a certificate of analysis proves a battery was tested before shipping; a cheap, undocumented battery is a roadside risk (5–10× the battery in downtime) in disguise.
 
 ## Step 1: Capture Your Specs
 

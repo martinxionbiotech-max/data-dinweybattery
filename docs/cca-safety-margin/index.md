@@ -7,13 +7,13 @@ faq:
   - q: How much does cold reduce battery cranking power?
     a: A lead-acid battery loses a large share of its cranking power at very low temperatures. The CCA rating itself is measured at −18°C, so any temperature below that pushes the battery below its rated capability.
   - q: What CCA safety margin should I specify?
-    a: In cold climates, specify the highest CCA available in your group size — not just the minimum the engine needs. In hot climates, CCA margin matters less than capacity and heat tolerance.
+    a: In cold climates, specify the highest CCA in your group size (1000–1100+ for heavy) — not just the minimum the engine needs. In hot climates, CCA margin matters less than capacity and heat tolerance.
   - q: Why does a battery get weaker in the cold?
-    a: Cold slows the chemical reaction inside the battery, increasing internal resistance and reducing available current — while at the same time the engine is harder to crank.
+    a: Cold slows the chemical reaction inside the battery — at −18 °C it holds only ~50–60% of its rated capacity — while the engine is harder to crank.
   - q: Does heat also damage batteries?
-    a: Yes. Heat does not reduce cranking power the way cold does, but it accelerates corrosion and aging. In hot climates, focus on capacity (Ah) and heat tolerance rather than maximum CCA.
+    a: Yes. Heat does not reduce cranking power the way cold does (capacity stays near 100% at 25 °C), but it accelerates corrosion and aging. In hot climates, focus on capacity (Ah) and heat tolerance rather than maximum CCA.
   - q: How do I choose CCA for an arctic climate?
-    a: Choose the highest CCA in your group size and consider an AGM battery, which delivers more reliable cold starts than flooded lead-acid.
+    a: Choose the highest CCA in your group size (1000–1100+ for heavy) and consider an AGM battery, which delivers more reliable cold starts than flooded lead-acid.
 ---
 
 # Cold-Weather CCA Derating & Safety Margin

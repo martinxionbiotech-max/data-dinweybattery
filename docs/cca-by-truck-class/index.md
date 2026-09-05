@@ -11,9 +11,9 @@ faq:
   - q: How much CCA does a heavy-duty semi need?
     a: Heavy-duty semi trucks typically need 850–1100+ CCA, often in a 24V system (two 12V batteries in series).
   - q: Do I need more CCA in cold climates?
-    a: Yes. Choose the highest CCA in your group size for cold climates, and consider AGM for the most reliable cold starts.
+    a: Yes. Choose the highest CCA in your group size (1000–1100+ for heavy semis) for cold climates, and consider AGM for the most reliable cold starts.
   - q: Where do I find my truck's exact CCA requirement?
-    a: In the vehicle manual and on the original battery label. Use class ranges only for planning.
+    a: In the vehicle manual and on the original battery label. Use class ranges (700–800 light, 900–1000 medium, 1000–1100 heavy) only for planning.
 ---
 
 # CCA Requirements by Truck Class

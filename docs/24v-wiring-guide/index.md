@@ -11,7 +11,7 @@ faq:
   - q: What cable gauge do I need for 24V truck batteries?
     a: Cable sizing depends on starter current draw and cable length. A 24V system draws half the current of an equivalent 12V system, allowing thinner cables — but always size cables to the actual starter load.
   - q: Do I need matching batteries for a 24V pair?
-    a: Yes. Use two identical batteries of the same model, rating, age and ideally the same batch, and replace both together.
+    a: Yes. Use 2 identical batteries of the same model, rating, age and ideally the same batch, and replace both together.
   - q: Do 24V truck batteries need a special charger?
     a: Yes. Use a charger rated for 24V (or charge each 12V battery separately). A 12V charger will not properly charge a 24V series pair.
 ---
@@ -27,7 +27,7 @@ terminals. Always use two identical batteries and replace them as a pair.
 1. **Series is one jumper away** — connect Battery 1 positive to Battery 2 negative, then take +24V and 0V from the two remaining terminals; the wiring is trivial, the discipline is not.
 2. **Series raises voltage, parallel doubles Ah** — series holds amp-hours constant at 24V; parallel holds 12V while doubling capacity, and wiring one when you meant the other is the most common 24V mistake.
 3. **24V halves current, enabling thinner wire** — but still size cables to actual starter draw and length; a long run on a large diesel can demand heavy gauge even at 24V.
-4. **Use two identical batteries, replaced together** — same model, rating, age and batch; mixing flooded and AGM in one pair guarantees imbalance.
+4. **Use 2 identical batteries, replaced together** — same model, rating, age and batch; mixing flooded and AGM in one pair guarantees imbalance.
 5. **A 12V charger cannot charge a 24V pair** — use a 24V-rated charger across +24V/0V, or disconnect and charge each 12V individually; otherwise one battery under-charges.
 
 ## Series Wiring Step by Step

@@ -14,15 +14,15 @@ howto:
     text: Choose higher CCA for cold climates (consider AGM) and focus on capacity and heat tolerance for hot climates.
 faq:
   - q: What is the first thing to check when choosing a truck battery?
-    a: The group size. It must match your battery tray and cable reach, or the battery cannot be safely installed regardless of its electrical rating.
+    a: The group size (e.g. JIS N150 508×222×212 mm vs N200 520×278×220 mm). It must match your tray and cable reach, or the battery cannot be safely installed regardless of its electrical rating.
   - q: How do I find my truck's group size?
     a: Read the code printed on your existing battery (for example N150, DIN100, or Group 31) or check your vehicle manual.
   - q: Should I buy the highest CCA available?
-    a: Not necessarily. Match CCA to your engine and climate. Higher CCA helps in cold climates, but it also means a larger, heavier, more expensive battery.
+    a: Not necessarily. Match CCA to your engine and climate — 900 A (N150) is enough for many, while 1100 A (N200) adds a 22% cold-start margin. Higher CCA also means larger, heavier, pricier.
   - q: Do I need to account for terminal orientation?
-    a: Yes. JIS batteries are typically right-positive and DIN batteries left-positive. The terminal type and position must match your cables.
+    a: Yes. JIS batteries are typically right-positive and DIN left-positive. The terminal type (A/D posts vs T1 conical 19.5/17.9 mm) and position must match your cables.
   - q: Can I replace a battery with a higher Ah rating?
-    a: Usually yes, if the group size, voltage and terminal orientation match. Higher Ah gives more reserve capacity, but ensure it physically fits and the charging system can maintain it.
+    a: Usually yes, if the group size, voltage and terminal orientation match. Higher Ah (e.g. 200 vs 135) gives more reserve capacity (320 vs 220 min), but ensure it physically fits and the charging system can maintain it.
 ---
 
 # Truck Battery Selection Guide
@@ -37,8 +37,8 @@ breakdowns.
 1. **Group size is step one, and non-negotiable** — a 145G51 (N150), 190H52 (N200) and 58827 (DIN88) each have a distinct footprint; a mismatch can't be safely installed regardless of rating.
 2. **CCA scales with truck class, not ambition** — 600–800 light, 800–1000 medium-duty, 850–1100+ heavy semis; chasing the maximum forces a bigger, heavier, pricier battery into a smaller tray.
 3. **Wrong voltage is the costly, common mistake** — 12V for light trucks, 24V (two 12V in series) for heavy trucks and buses; ordering one when the other is needed strands a fleet.
-4. **Terminal orientation is a hidden trap** — JIS batteries are typically right-positive and DIN left-positive; right spec with reversed polarity is still unusable.
-5. **Climate flips the priority** — cold demands higher CCA (and AGM), while heat makes CCA the wrong obsession and capacity the real concern.
+4. **Terminal orientation is a hidden trap** — JIS (type A/D posts) is typically right-positive and DIN (T1 conical) left-positive; the right spec with reversed polarity is still unusable.
+5. **Climate flips the priority** — cold demands higher CCA (1000–1100+ and AGM), while heat makes CCA the wrong obsession and capacity (Ah) the real concern.
 
 ## Step 1: Confirm the Group Size
 

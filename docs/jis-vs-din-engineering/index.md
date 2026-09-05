@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: Why do DIN batteries have higher CCA than JIS batteries of similar size?
-    a: DIN batteries are designed for European cold-start demands and use a more compact cell layout, delivering more cold-cranking power per litre. JIS thick-plate batteries trade some energy density for deeper cycling and vibration tolerance.
+    a: DIN batteries use a more compact cell layout, delivering more cold-cranking power per litre (60038: 870 A EN in a 393×175×190 mm case). JIS thick-plate batteries trade some energy density for deeper cycling and vibration tolerance.
   - q: What is CCA density?
-    a: CCA density is the cold-cranking amps divided by the battery's physical volume (CCA per litre). It shows how much starting power a battery packs into a given space.
+    a: CCA density is the cold-cranking amps divided by the battery's physical volume (CCA per litre) — e.g. a DIN 60038 packs 870 A into ~13 L vs a JIS N150's 900 A into ~23.9 L. It shows how much starting power fits in a given space.
   - q: Is a JIS battery better or worse than a DIN battery?
-    a: Neither is universally better — they are optimized differently. DIN suits compact European trays with cold winters; JIS thick-plate suits the heavier cycling, vibration and heat of Asian and African commercial duty.
+    a: Neither is universally better — DIN suits compact European trays with cold winters, while JIS thick-plate suits the heavier cycling (to ~50% DoD), vibration and heat of Asian and African commercial duty.
   - q: Can I fit a DIN battery in place of a JIS battery?
-    a: Only if the dimensions, terminal type and polarity all match. The two standards have different footprints and terminals, so they are not directly interchangeable.
+    a: Only if the dimensions (e.g. DIN88 353×175×190 mm vs JIS N150 508×222×212 mm), terminal type and polarity all match. The two standards have different footprints and terminals, so they are not directly interchangeable.
   - q: Why does the same Ah rating not mean the same CCA?
-    a: Ah measures energy storage while CCA measures cold-start power. A DIN battery typically delivers more CCA per Ah than a JIS battery of the same capacity, because of its different plate design.
+    a: Ah measures energy storage while CCA measures cold-start power. A DIN battery typically delivers more CCA per Ah (870 A / 100 Ah ≈ 8.7 A/Ah) than a JIS battery of similar capacity (1100 A / 200 Ah ≈ 5.5 A/Ah), because of its different plate design.
 ---
 
 # JIS vs DIN Battery Engineering: A Density Analysis

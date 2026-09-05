@@ -7,11 +7,11 @@ faq:
   - q: What is the difference between JIS and DIN battery terminals?
     a: JIS batteries use type A/D posts (larger positive, smaller negative); DIN batteries use the conical T1 terminal (19.5 mm positive, 17.9 mm negative). They are not interchangeable without adapters.
   - q: What does "right positive" mean on a battery?
-    a: "Right positive" (R) means the positive terminal is on the right when you look at the battery from the terminal side. JIS batteries are typically right-positive; DIN batteries are typically left-positive.
+    a: "Right positive" (R) means the positive terminal is on the right when you look from the terminal side. JIS (type A/D posts) is typically right-positive; DIN (T1 conical) is typically left-positive.
   - q: How do I know my battery's terminal orientation?
     a: Look at the battery from the terminal side. If the positive terminal is on the right, it is right-positive (R/0); if on the left, it is left-positive (L/1).
   - q: Can I use a DIN battery in a JIS vehicle?
-    a: Only with care. The terminal types and orientation differ, so you may need terminal adapters and must confirm the positive-terminal position matches your cables and tray.
+    a: Only with care. JIS A/D posts and DIN T1 terminals (19.5 mm positive / 17.9 mm negative) differ, so you need terminal adapters and must confirm the positive-terminal position matches your cables and tray.
   - q: What hold-down system does my truck use?
     a: JIS vehicles typically use a B0 top-frame clamp; European (DIN) vehicles typically use a B13 bottom bracket. Match the hold-down to your vehicle's battery tray.
 ---

@@ -13,7 +13,7 @@ faq:
   - q: What CCA does a DIN100 provide?
     a: The DINWEY 60038 (DIN100) provides 870A EN cold-cranking amps — suitable for larger European truck engines.
   - q: What does EN CCA mean vs SAE CCA?
-    a: EN (European Norm) cold-cranking amps are measured differently from SAE CCA. The values are not directly interchangeable — compare within the same standard.
+    a: EN (European Norm) cold-cranking amps are measured differently from SAE CCA — an 870 A EN rating is not the same as 870 SAE. The values are not directly interchangeable; compare within the same standard.
 ---
 
 # DIN88 vs DIN100: European Heavy-Duty Battery Comparison

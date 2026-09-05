@@ -7,13 +7,13 @@ faq:
   - q: What is the difference between CCA and reserve capacity?
     a: CCA (cold cranking amps) measures the short burst of current to start a cold engine. Reserve capacity (RC) measures how long the battery can sustain a 25-amp load before dropping below 10.5V — i.e. endurance, not burst power.
   - q: Which matters more for a truck battery — CCA or RC?
-    a: It depends on the duty cycle. Cold-climate long-haul trucks need high CCA. Trucks with sleeper cabs, liftgates, GPS and anti-idling operation need high RC. Modern fleets increasingly prioritise RC because of on-board "hotel loads".
+    a: It depends on the duty cycle. Cold-climate long-haul trucks need high CCA (1000–1100+). Trucks with sleeper cabs, liftgates, GPS and anti-idling operation need high RC (220–320 min). Modern fleets increasingly prioritise RC because of on-board "hotel loads".
   - q: Why are fleets shifting from CCA to RC?
-    a: Anti-idling laws and more on-board electronics mean trucks now power "hotel loads" (sleeper HVAC, inverters, telematics) with the engine off. High CCA does not help there — only reserve capacity and Ah do.
+    a: Anti-idling laws and more on-board electronics mean trucks now power "hotel loads" (sleeper HVAC, inverters, telematics) with the engine off. High CCA does not help there — only reserve capacity (minutes at 25 A) and Ah do.h do.
   - q: Can a battery have high CCA but low RC?
-    a: Yes. A starting-optimised battery can deliver a large burst (high CCA) but drain quickly (low RC). Deep-cycling such a battery causes sulfation and premature failure.
+    a: Yes. A starting-optimised battery can deliver a large burst (high CCA) but drain quickly (low RC). Deep-cycling such a battery to ~50% causes sulfation and premature failure.
   - q: How do I choose between a high-CCA and high-RC battery?
-    a: Match to your duty: cold starts and short runs → prioritize CCA; sleeper cabs, liftgates, frequent engine-off loads → prioritize RC/Ah. The DINWEY range below shows both metrics side by side.
+    a: Match to your duty: cold starts and short runs → prioritize CCA; sleeper cabs, liftgates, frequent engine-off loads → prioritize RC/Ah. The DINWEY range below shows both side by side (e.g. 145G51: 900 A CCA, 220 min RC).
 ---
 
 # CCA vs Reserve Capacity: A Dual-Metric Guide for Fleets
@@ -29,7 +29,7 @@ Here is a dual-metric profile of the DINWEY range so you can match the battery t
 2. **High CCA can silently mean low RC** — the 58827 pairs 800 A EN with only 150 minutes RC, and deep-cycling such a battery causes sulfation and premature failure.
 3. **The JIS range carries the deepest reserve** — 220–320 minutes across the N-series beats the DIN models' 150–170 minutes, which is why thick-plate JIS dominates heavy commercial duty.
 4. **For engine-off loads, minutes beat amps** — the 190H52's 320 minutes matters more than its 1100 A once anti-idling laws force sleeper HVAC and telematics onto the battery.
-5. **Duty cycle, not preference, picks the metric** — liftgates sometimes cycle dozens of times a day, so a delivery truck needs RC/Ah and cycle life first, while a cold-climate short-run truck still wants the highest CCA in its group.
+5. **Duty cycle, not preference, picks the metric** — liftgates sometimes cycle 30+ times a day, so a delivery truck needs RC/Ah and cycle life first, while a cold-climate short-run truck still wants the highest CCA (1000–1100+) in its group.
 
 ## The Two Metrics, Side by Side
 

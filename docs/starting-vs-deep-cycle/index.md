@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: What is the difference between a starting and deep cycle battery?
-    a: A starting (SLI) battery delivers a short, high-current burst to crank the engine. A deep cycle battery delivers lower current over a long time and tolerates deep discharge. They are built differently and are not interchangeable.
+    a: A starting (SLI) battery delivers a short, high-current burst (900–1100 A) to crank the engine. A deep cycle battery delivers lower current over a long time and tolerates discharge to ~50%. They are built differently and are not interchangeable.
   - q: Can I use a deep cycle battery to start my truck?
-    a: Not recommended. Deep cycle batteries are not built for the high current of engine cranking and will degrade rapidly under that load.
+    a: Not recommended. Deep cycle batteries are not built for the 900–1100 A of engine cranking and will degrade rapidly under that load.
   - q: Can I run accessories off my starting battery?
-    a: No. Repeated deep discharge will quickly ruin a starting battery's thin plates. Use a separate deep cycle or auxiliary bank for continuous loads.
+    a: No. Repeated discharge below ~50% will quickly ruin a starting battery's thin plates. Use a separate deep-cycle or auxiliary bank for continuous loads.
   - q: What is a dual-purpose battery?
-    a: A dual-purpose battery offers both starting power and some deep-cycle capability — a compromise for vehicles that need both but cannot fit two batteries. Separate batteries are better for demanding use.
+    a: A dual-purpose battery offers both starting power and some deep-cycle capability (usually ~50% discharge tolerance) — a compromise for vehicles that need both but cannot fit 2 batteries. Separate batteries are better for demanding use.
   - q: How do I power a reefer or lift gate?
-    a: Use a separate deep-cycle or AGM auxiliary bank isolated from the starting battery with a battery isolator or DC-DC charger.
+    a: Use a separate deep-cycle or AGM auxiliary bank isolated from the starting battery with a battery isolator (0.3–0.7 V drop) or DC-DC charger.
 ---
 
 # Starting vs Deep Cycle Battery for Trucks

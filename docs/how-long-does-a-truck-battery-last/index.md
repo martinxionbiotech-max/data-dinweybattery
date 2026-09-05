@@ -7,11 +7,11 @@ faq:
   - q: How long should a truck battery last?
     a: A heavy-duty truck battery typically lasts 3–5 years. In harsh conditions — extreme heat, heavy vibration or frequent deep discharges — it may fail sooner.
   - q: What shortens truck battery life the most?
-    a: Heat is the biggest aging factor, followed by vibration, deep discharges, overcharging and leaving the battery in a low state of charge.
+    a: Heat is the biggest aging factor (life ~halves per 10 °C), followed by vibration, deep discharges, overcharging and leaving the battery at a low state of charge.
   - q: Do 24V truck batteries last longer than 12V?
-    a: Not inherently. Lifespan depends on duty cycle, charging-system health and environment more than system voltage.
+    a: Not inherently. A heavy-duty battery lasts 3–5 years in either system; lifespan depends on duty cycle, charging-system health and environment more than the 12V or 24V voltage.
   - q: How can I make my truck battery last longer?
-    a: Keep it fully charged, clean and tight terminals, avoid deep discharges, secure it against vibration, and load-test before winter.
+    a: Keep it fully charged (12.6–12.8 V at rest), clean and tight terminals, avoid deep discharges below ~50%, secure it against vibration, and load-test before winter.
   - q: When should I replace a truck battery proactively?
     a: Consider proactive replacement at 3–5 years, or sooner if the battery shows signs of weakness or fails a load test — before it strands a vehicle.
 ---
@@ -26,9 +26,9 @@ and replace proactively rather than waiting for a failure.
 
 1. **"3–5 years" is an average, not a warranty** — two identical batteries in the same fleet can diverge by years depending on where each vehicle operates.
 2. **AGM buys roughly a year over flooded** — 4–6 years versus 3–5, but only if the charging system treats the sealed design correctly.
-3. **Heat, not cold, is the biggest aging factor** — high temperatures accelerate grid corrosion exponentially, making hot-climate engine bays the worst case.
+3. **Heat, not cold, is the biggest aging factor** — life roughly halves for every 10 °C rise in sustained temperature, making hot-climate engine bays the worst case.
 4. **Draining below ~50% repeatedly cuts cycle life** — deep discharge triggers sulfation and shedding that the battery never fully recovers.
-5. **Replace proactively, not reactively** — flag any battery approaching three years for a load test before the cold season; one that passes at three can still fail at four.
+5. **Replace proactively, not reactively** — flag any battery approaching 3 years for a load test before the cold season; one that passes at 3 can still fail at 4.
 
 ## Typical Lifespan
 

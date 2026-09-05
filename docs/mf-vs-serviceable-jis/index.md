@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: What is an MF (maintenance-free) truck battery?
-    a: An MF (maintenance-free) battery uses a calcium-alloy grid that reduces water loss, so it needs no periodic electrolyte top-up. It is sealed and maintenance-free, in contrast to a traditional serviceable (antimony) battery with removable caps.
+    a: An MF (maintenance-free) battery uses a calcium-alloy grid whose ~1–3% monthly self-discharge and low water loss mean it needs no electrolyte top-up. It is sealed, in contrast to a serviceable (antimony) battery with removable caps.
   - q: What is the difference between MF and non-MF JIS batteries?
-    a: MF batteries use calcium (Ca-Ca) grids with low water loss and are sealed; non-MF batteries use antimony (Pb-Sb) grids, may need water top-up, but tolerate deep cycling and vibration better. The trade-off is convenience vs robustness.
+    a: MF batteries use calcium (Ca-Ca) grids with ~1–3% monthly self-discharge and are sealed; non-MF batteries use antimony (Pb-Sb) grids with ~8–15% self-discharge, may need water top-up, but tolerate deep cycling and vibration better.
   - q: Is a maintenance-free battery better for trucks?
-    a: It depends on duty. MF batteries are convenient and reduce maintenance cost, but traditional thick-plate Pb-Sb batteries tolerate the deep cycling and vibration of heavy trucks better. Many heavy-duty JIS batteries keep the Pb-Sb design for this reason.
+    a: It depends on duty. MF batteries are convenient (no top-ups), but the thick-plate Pb-Sb design tolerates heavy-truck deep cycling (to ~50%) and vibration better — which is why many heavy-duty JIS batteries keep it.
   - q: What does SMF mean?
-    a: SMF stands for Sealed Maintenance Free — a battery that is sealed and requires no electrolyte top-up. It is common in the JIS aftermarket for commercial vehicles.
+    a: SMF stands for Sealed Maintenance Free — a sealed battery with ~1–3% monthly self-discharge that requires no electrolyte top-up. It is common in the JIS aftermarket for commercial vehicles.
   - q: Do DINWEY offer maintenance-free JIS batteries?
-    a: Yes. DINWEY's JIS heavy-duty range includes both thick-plate flooded (Pb-Sb) models and MF/AGM options depending on the duty cycle and fleet preference. Contact us to match the right technology to your application.
+    a: Yes. DINWEY's JIS heavy-duty range (145G51, 190H52) includes both thick-plate flooded (Pb-Sb) models and MF/AGM options depending on the duty cycle and fleet preference. Contact us to match the right technology to your application.
 ---
 
 # Maintenance-Free (MF) vs Serviceable JIS Truck Batteries
@@ -25,11 +25,11 @@ heavy trucks precisely because it survives hard duty better.
 
 ## Key Takeaways
 
-1. **Calcium's low water loss is a voltage-threshold trick** — calcium raises the gassing voltage so the battery stays below it in normal charging, which is what "maintenance-free" physically means.
-2. **"Maintenance-free" is the less robust truck battery** — MF's Ca-Ca grid scores only "Moderate" deep-cycle and "Good" vibration tolerance, while the serviceable Pb-Sb design scores "High" on both.
-3. **Antimony's water top-up is the feature, not the bug** — the chemistry that makes a Pb-Sb battery need periodic distilled-water checks is the same one that lets it survive deep cycling and vibration on heavy trucks.
+1. **Calcium's low water loss is a voltage-threshold trick** — calcium raises the gassing voltage to ~14.4 V so the battery stays below it in normal charging, which is what "maintenance-free" physically means.
+2. **"Maintenance-free" is the less robust truck battery** — MF's Ca-Ca grid self-discharges ~1–3% a month and scores only "Moderate" deep-cycle, while the Pb-Sb design self-discharges ~8–15% but scores "High" on both deep-cycle and vibration.
+3. **Antimony's water top-up is the feature, not the bug** — the chemistry that makes a Pb-Sb battery self-discharge ~8–15% a month and need distilled-water checks is the same one that lets it survive deep cycling and vibration on heavy trucks.
 4. **N150 and N200 come as two distinct variants** — traditional wet and SMF (sealed maintenance-free) versions differ in technology, price and performance; confirm which variant is quoted before buying.
-5. **Zero-touch convenience only suits well-maintained charging systems** — MF/SMF wins on total maintenance cost for fleets that want no top-ups, but on harsh-duty trucks the serviceable Pb-Sb design outlasts it.
+5. **Zero-touch convenience only suits well-maintained charging systems** — MF's ~1–3% monthly self-discharge wins on maintenance cost for fleets that want no top-ups, but on harsh-duty trucks the Pb-Sb design outlasts it.
 
 ## The Two Designs
 

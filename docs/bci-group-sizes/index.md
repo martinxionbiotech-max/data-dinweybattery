@@ -11,9 +11,9 @@ faq:
   - q: Is Group 8D the same as Group 31?
     a: No. Group 8D is a larger, heavier legacy size; Group 31 delivers comparable CCA in a smaller package. Check your tray before switching.
   - q: Does a bigger group size mean more power?
-    a: No. Group size defines physical dimensions; CCA defines starting power. Always verify both independently.
+    a: No. Group size defines physical dimensions (Group 31 ≈ 330×173×240 mm vs 8D ≈ 527×283×250 mm); CCA defines starting power. Always verify both independently.
   - q: Why does group size matter for replacement?
-    a: The battery must physically fit the tray and hold-down, and the terminal type and left/right positive position must match your cables.
+    a: The battery must physically fit the tray and hold-down (a Group 8D is ~2.7× the volume of a Group 31), and the terminal type and left/right positive position must match your cables.
 ---
 
 # BCI Group Sizes Explained

@@ -5,15 +5,15 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: What does a truck battery warranty cover?
-    a: Battery warranties typically cover manufacturing defects and premature failure, with either a free-replacement period followed by a pro-rated (partial credit) period. They do not usually cover damage from misuse or deep discharge.
+    a: Battery warranties typically cover manufacturing defects and premature failure over 12–36 months, with a free-replacement period followed by a pro-rated (partial credit) period. They do not cover misuse or deep discharge.
   - q: What is a pro-rated battery warranty?
-    a: A pro-rated warranty gives partial credit toward a replacement based on how much of the warranty period has elapsed, rather than a free full replacement.
+    a: A pro-rated warranty gives partial credit based on elapsed time — a 24-month battery failing at month 18 has 6 of 24 months left, or ~25% credit, rather than a free replacement.
   - q: How long is a typical truck battery warranty?
     a: Heavy-duty truck battery warranties commonly range from 12 to 36 months, depending on the manufacturer and battery type. AGM batteries often carry longer warranties.
   - q: What voids a truck battery warranty?
-    a: Misuse, deep discharge, physical damage, incorrect installation, or using the battery outside its specification can void the warranty. Read the terms carefully.
+    a: Deep discharge (the #1 rejected claim), physical damage, incorrect installation, or use outside specification can void the warranty. Read the terms carefully.
   - q: How do I make a warranty claim?
-    a: Keep your proof of purchase and installation records, and contact the supplier or manufacturer. A load test is usually required to confirm the battery has failed.
+    a: Keep your proof of purchase and installation records, and contact the supplier. A load test (half the CCA for ~15 seconds) is usually required to confirm the battery has failed.
 ---
 
 # Truck Battery Warranty Guide
@@ -27,8 +27,8 @@ months for heavy-duty batteries). Read the terms and keep your records.
 1. **Coverage runs 12–36 months by type** — SLI 12–24, EFB 18–36, AGM 24–48 (often longer); a longer label is usually a proxy for a tougher battery, not just marketing.
 2. **Pro-rated is not free replacement** — fail a 24-month pro-rated battery at month 18 and you may get only ~25% credit (6 of 24 months remaining), not a new battery.
 3. **Deep discharge is the #1 rejected claim** — running a battery flat is treated as misuse, not a defect, so warranty won't rescue a battery killed by its own duty cycle.
-4. **The load test decides almost every claim** — it's the evidence separating a genuinely failed battery from one that's merely discharged or fighting a bad alternator.
-5. **B2B terms live in the contract, not the label** — fleet warranty, returns and batch traceability are set in the quotation; confirm them at RFQ stage or risk a surprise.
+4. **The load test decides almost every claim** — it applies half the CCA for ~15 seconds and separates a genuinely failed battery from one that's merely discharged or fighting a bad alternator.
+5. **B2B terms live in the contract, not the label** — fleet warranty, returns and batch traceability are set in the quotation; confirm them at RFQ stage, since retail 12–36 month terms rarely transfer to fleet buys.
 
 ## What Warranties Cover
 

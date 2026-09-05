@@ -11,7 +11,7 @@ faq:
   - q: Is my truck 12V or 24V?
     a: Light trucks and pickups use 12V. Heavy trucks, semi trailers and buses typically use 24V systems built from two 12V batteries wired in series. Check your battery compartment or manual.
   - q: What is the difference between CCA and Ah?
-    a: CCA (cold cranking amps) measures cold-start power; Ah (amp-hours) measures total energy storage capacity. A battery can have high CCA and low Ah, or vice versa — they measure different things and are not interchangeable.
+    a: CCA (cold cranking amps) measures cold-start power (the amps delivered for 30 s at −18 °C); Ah (amp-hours) measures total energy storage. A battery can have 1100 A CCA but modest Ah, or vice versa — they measure different things and are not interchangeable.
   - q: How long does a truck battery last?
     a: A heavy-duty truck battery typically lasts 3–5 years depending on climate, duty cycle, charging system health and vibration. Extreme cold or heat, deep discharges and poor charging shorten service life.
   - q: Can I mix two different batteries in a 24V system?

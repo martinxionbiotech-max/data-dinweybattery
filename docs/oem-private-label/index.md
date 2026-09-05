@@ -7,11 +7,11 @@ faq:
   - q: What is a private-label battery program?
     a: A private-label (OEM/ODM) program lets distributors and fleets sell batteries under their own brand, with the manufacturer handling production under an IATF 16949 quality system.
   - q: What can I customize in a private-label battery?
-    a: You control the brand name and logo, the specification (CCA, capacity, terminal type), the case and packaging, and your branding on datasheets and certificates.
+    a: You control the brand name and logo, the specification (CCA, capacity, terminal type), the case and packaging, and your branding on datasheets and certificates — with a typical MOQ of 1×20 ft and 20–45 day lead time.
   - q: What is the minimum order for OEM batteries?
     a: Typically a 1 × 20ft container as the standard MOQ, with a lead time of 20–45 days — confirm exact terms with the manufacturer.
   - q: How does the private-label process work?
-    a: Define the target market and spec, agree on labeling/MOQ/pricing, approve a pre-production sample, then produce and ship with full documentation.
+    a: Define the target market and spec, agree on labeling/MOQ/pricing (e.g. 1×20 ft, 20–45 days), approve a pre-production sample, then produce and ship with full documentation.
   - q: Why do distributors choose private label over a factory brand?
     a: Brand ownership and equity, margin control, market-fit specification, and per-batch consistency under IATF 16949.
 ---
@@ -26,8 +26,8 @@ the manufacturer handles production under an IATF 16949 quality system.
 
 1. **Own the brand without owning the factory** — you supply the label and spec; the manufacturer runs 18 automated lines under IATF 16949, so brand equity is yours and capital cost isn't.
 2. **MOQ is 1 × 20ft container, lead time 20–45 days** — private label is a container-scale commitment, not a pallet order; line up cash and calendar before committing.
-3. **The pre-production sample is the real risk control** — a terminal type, label color or CCA target caught here is cheap to fix; approved in writing, it prevents a container-load of mistakes.
-4. **Spec control is the hidden margin** — you set CCA, capacity and terminal type, tuning the product to regional demand instead of paying for a factory's generic spec.
+3. **The pre-production sample is the real risk control** — a terminal type, label color or CCA target caught here is cheap to fix; approved in writing, it prevents a container-load (1×20 ft) of mistakes.
+4. **Spec control is the hidden margin** — you set CCA (e.g. 900 vs 1100 A), capacity and terminal type, tuning the product to regional demand instead of paying for a factory's generic spec.
 5. **Scale compounds consistency** — a 200,000 m² facility producing 40,000 batteries daily under IATF 16949 delivers the per-batch documentation repeat buyers need.
 
 ## What Private Label Means

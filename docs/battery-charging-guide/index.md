@@ -9,11 +9,11 @@ faq:
   - q: Can I charge a 24V truck battery with a 12V charger?
     a: No. Use a charger rated for 24V, or charge each 12V battery separately. A 12V charger will not properly charge a 24V series pair.
   - q: What is the difference between bulk, absorption and float charging?
-    a: Bulk is constant current at maximum safe rate; absorption is constant voltage as current tapers to full charge; float is a low maintenance voltage that holds full charge without overcharging.
+    a: Bulk is constant current at maximum safe rate; absorption is constant voltage at 13.8–14.4 V as current tapers to full charge; float is a low voltage (~13.5 V) that holds full charge without overcharging.
   - q: What kills a truck battery faster — overcharging or undercharging?
-    a: Both shorten life. Undercharging causes sulfation and capacity loss; overcharging causes water loss and plate corrosion. Keeping the charging system within specification is the key.
+    a: Both shorten life. Undercharging (below ~13.2 V) causes sulfation and capacity loss; overcharging (above ~14.4 V) causes water loss and plate corrosion. Keeping the charging system within specification is the key.
   - q: How often should I check the charging system?
-    a: Test the charging voltage at every service, and check more often in high-load or harsh-climate fleets.
+    a: Test the charging voltage (13.8–14.4 V running) at every service, and check more often in high-load or harsh-climate fleets.
 ---
 
 # Truck Battery Charging Guide
@@ -27,9 +27,9 @@ battery life.
 
 1. **AGM has a hard ceiling of ~14.8V** — charge it higher and the sealed design dries out its electrolyte; flooded takes 14.4–14.8V but AGM caps at 14.2–14.7V.
 2. **Float at 13.2–13.5V is what keeps a battery alive** — hold it too high and even a "full" battery is slowly cooked.
-3. **Most premature failures are charging problems, not defects** — undercharging sulfates and overcharging loses water, and both stay invisible until capacity is already gone.
+3. **Most premature failures are charging problems, not defects** — undercharging (below ~13.2 V) sulfates and overcharging (above ~14.4 V) loses water, and both stay invisible until capacity is already gone.
 4. **A 24V system charges at ~28.8V absorption** — never feed it a 12V charger; charge each 12V battery separately instead.
-5. **A three-stage charger beats a constant-voltage one** — bulk, absorption, then float stops forcing current once the battery is full; the alternative is a slow cook.
+5. **A 3-stage charger beats a constant-voltage one** — bulk, absorption, then float (13.5–13.8 V) stops forcing current once the battery is full; the alternative is a slow cook.
 
 ## Why Charging Matters More Than You Think
 

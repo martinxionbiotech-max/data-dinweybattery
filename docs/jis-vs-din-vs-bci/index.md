@@ -7,13 +7,13 @@ faq:
   - q: What is the difference between JIS, DIN and BCI battery standards?
     a: They are three regional sizing and rating systems. JIS (Japan/Asia) uses model codes like N150/N200; DIN (Europe) uses capacity codes like DIN88/DIN100; BCI (North America) uses group numbers like 31/8D. Each also defines its own cold-cranking test.
   - q: Are JIS and DIN batteries interchangeable?
-    a: Not directly. They use different dimensions and terminal layouts. You must match the standard your vehicle uses, or verify a cross-reference for your specific model.
+    a: Not directly. JIS (508×222×212 mm N150), DIN (393×175×190 mm DIN100) and BCI (330×173×240 mm Group 31) use different dimensions and terminals. You must match the standard your vehicle uses.
   - q: Can I convert CCA between standards?
-    a: No simple universal conversion exists. SAE, EN and JIS cold-cranking ratings are measured differently. Compare within the same standard, or consult manufacturer cross-reference data.
+    a: No simple universal conversion exists — the same battery can read differently across standards (e.g. ~870 SAE ≈ 957–1001 EN). Compare within the same standard, or consult manufacturer cross-reference data.
   - q: Which standard does my truck use?
-    a: It depends on the market the vehicle was built for: JIS for Japan/Asia/Africa/Middle East, DIN for Europe, BCI for North America. Check the battery label or vehicle manual.
+    a: It depends on the market: JIS for Japan/Asia/Africa/Middle East, DIN for Europe, BCI for North America — 3 regional sizing systems that are not interchangeable. Check the battery label or vehicle manual for the correct standard.
   - q: Why does the same battery have different CCA ratings?
-    a: Different standards test at different temperatures and voltage cutoffs, so the same physical battery can carry a higher number under one standard than another. Always compare like-for-like.
+    a: Different standards test at different temperatures (JIS −15 °C vs SAE/EN −18 °C, a ~1.18% systematic bias) and voltage cutoffs, so the same battery can carry a higher number under one standard. Always compare like-for-like.
 ---
 
 # JIS vs DIN vs BCI Truck Battery Standards

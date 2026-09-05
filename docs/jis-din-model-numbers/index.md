@@ -7,13 +7,13 @@ faq:
   - q: What does the N in N150 mean?
     a: "N" is a JIS battery size class for larger heavy-duty batteries. N150 and N200 are widely used JIS heavy-duty truck battery designations. The number broadly indicates size, but the underlying JIS type number (like 145G51 or 190H52) is the precise identifier.
   - q: What does 145G51 mean in a JIS battery number?
-    a: JIS type numbers encode the battery's dimensions, terminal layout and performance class. The leading digits relate to the physical size and performance, while the trailing letter/number identifies the terminal and case configuration. The full type number is the authoritative identifier.
+    a: JIS type numbers encode dimensions, terminal layout and performance class — 145G51 means the 145-class size, G terminal, 51 case. The leading digits relate to size and performance; the full type number is the authoritative identifier.
   - q: What does DIN88 or DIN100 mean?
     a: DIN88 and DIN100 are common European shorthand for DIN-standard heavy-duty batteries, roughly tied to capacity class. The precise identifier is the full DIN/EN type number such as 58827 or 60038.
   - q: Why are there two numbers for the same battery?
     a: Manufacturers list both a market shorthand (like "N150" or "DIN88") and a formal type number (like 145G51 or 58827). The formal type number is what actually defines the physical and electrical specification.
   - q: How do I make sure I order the right battery?
-    a: Read the full type number and dimensions from your existing battery or manual, and confirm voltage, CCA, terminal type and polarity. The type number — not the shorthand — is the exact specification.
+    a: Read the full type number and dimensions (e.g. 190H52 = 520×278×220 mm) from your existing battery or manual, and confirm voltage, CCA, terminal type and polarity. The type number — not the shorthand — is the exact specification.
 ---
 
 # Decoding JIS & DIN Battery Model Numbers

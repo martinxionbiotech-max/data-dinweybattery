@@ -11,7 +11,7 @@ faq:
   - q: Is reserve capacity the same as amp-hours?
     a: No. RC is minutes at a fixed 25A load; amp-hours (Ah) is total energy at a specified discharge rate. They are related but measured differently.
   - q: Is CCA or reserve capacity more important for trucks?
-    a: CCA matters most for cold-climate starting; RC matters most for runtime if the alternator fails or accessory loads are heavy. Both should be specified for demanding fleets.
+    a: CCA matters most for cold-climate starting; RC (minutes at 25 A, e.g. 220 vs 320 min) matters most for runtime if the alternator fails or accessory loads are heavy. Both should be specified for demanding fleets.
   - q: How is reserve capacity tested?
     a: The battery is fully charged, discharged at a constant 25A at 27°C (80°F), and the time until voltage drops below 10.5V is recorded in minutes.
 ---

@@ -9,11 +9,11 @@ faq:
   - q: What is a good CCA for a truck?
     a: Light trucks typically need 600–800 CCA, medium-duty trucks 800–1000 CCA, and heavy-duty semi trucks 850–1100+ CCA. Confirm the exact requirement in your vehicle manual.
   - q: Is higher CCA always better?
-    a: Within the same group size, higher CCA gives more cold-start margin, which is good in cold climates. But it also often means a larger, heavier, more expensive battery. Match CCA to your engine and climate rather than simply buying the maximum.
+    a: Within the same group size, higher CCA (1100 vs 900 A = a 22% margin) gives more cold-start margin, good in cold climates. But it also means a larger, heavier, more expensive battery. Match CCA to your engine and climate.
   - q: How is CCA different from CA?
     a: CA (cranking amps) is measured at 0°C (32°F), a warmer temperature, so CA values are higher than CCA for the same battery. CCA is the stricter, colder-weather standard.
   - q: Does a diesel engine need more CCA than a gasoline engine?
-    a: Yes. Diesel engines have higher compression, requiring more torque from the starter and therefore more cranking current. A diesel truck needs a higher CCA rating than a gasoline vehicle of similar size.
+    a: Yes. Diesel engines have higher compression (typically 15:1–20:1 vs ~10:1 gasoline), requiring more starter torque and cranking current. A diesel truck needs 850–1100+ CCA, higher than a similar gasoline vehicle.
   - q: What CCA do I need for a semi truck?
     a: Heavy-duty semi trucks typically need 850–1100+ CCA, often in a 24V system (two 12V batteries in series). Confirm the exact value in your vehicle manual.
 ---
@@ -29,9 +29,9 @@ for heavy semis. Match CCA to your engine and climate.
 
 1. **−18°C is CCA's dividing line** — a battery must hold 30 seconds of discharge above 7.2V; but JIS tests at −15°C, so a JIS figure is inherently flattered by ~3°C of warmth versus SAE/EN. Comparing CCA across standards is a trap.
 2. **Diesel needs roughly double the compression and therefore more CCA** — 600–800 for light trucks, 800–1000 medium-duty, 850–1100+ for heavy semis. Gasoline-car intuition does not transfer.
-3. **Higher CCA is not always better** — within one group size, more CCA usually means a bigger, heavier, pricier battery. Matching CCA to engine and climate beats buying the maximum.
-4. **CCA and Ah measure different things** — a battery can have high CCA but modest capacity, or the reverse. Starting power is not the same as energy storage.
-5. **In hot climates CCA is the wrong obsession** — capacity (Ah) and heat tolerance matter more, because heat ages a battery faster than cold does.
+3. **Higher CCA is not always better** — within one group size, more CCA (e.g. 1100 vs 900 A) usually means a bigger, heavier, pricier battery. Matching CCA to engine and climate beats buying the maximum.
+4. **CCA and Ah measure different things** — a battery can have 1100 A CCA but only 200 Ah, or the reverse. Starting power is not the same as energy storage.
+5. **In hot climates CCA is the wrong obsession** — capacity (Ah) and heat tolerance matter more, because heat ages a battery ~2× faster for every 10 °C above 25 °C.
 
 ## What CCA Measures
 
