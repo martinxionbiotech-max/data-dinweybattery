@@ -4,6 +4,7 @@
     "title": "DINWEY Battery Cross-Reference Database",
     "note": "Cross-reference is built ONLY where reliable evidence exists (dimensions, voltage, capacity, application, terminal from verified factory spec). CCA figures from DIFFERENT test standards (JIS vs EN vs SAE J537) are NOT directly convertible — no numeric CCA conversion is performed here. Exact vs Approximate matches are strictly distinguished.",
     "generated_date": "2026-09-07",
+    "last_updated": "2026-09-07",
     "conversion_rule": "NO cross-standard CCA numeric conversion. JIS CCA, EN cold-cranking, and SAE CCA measure under different temperature/time conditions.",
     "data_status": "SEED — based on verified factory spec dimensions/capacity, not on vehicle fitment"
   },
@@ -81,5 +82,55 @@
     "why_no_numeric_cca_conversion": "JIS CCA, EN (EN 50342) cold-cranking current, and SAE J537 CCA are measured at different temperatures and durations (e.g. SAE = 30s at -18C; DIN/EN differs). Converting between them without a factory-published chart would fabricate accuracy. This database intentionally avoids numeric CCA mapping.",
     "how_to_build_future_exact_matches": "Require verified terminal type, polarity, hold-down style, and case dimensions from a factory cross-reference chart or third-party battery-equivalence database before marking any cross-standard match as 'exact'.",
     "bcigroup": "BCI Group 31/8D is made-to-order; no JIS/DIN cross-reference is asserted until factory dimension/terminal data is provided."
+  },
+  "third_party_verification": {
+    "note": "Layer-1 third-party verification: independent manufacturers' published specifications used ONLY to corroborate the JIS group naming and CCA range of DINWEY's native JIS models. These are SPEC CORROBORATION references, NOT vehicle-fitment claims, and NOT cross-standard CCA conversions. Confidence applies to spec corroboration only.",
+    "sources": [
+      {
+        "id": "TPL-001",
+        "source_name": "Narada Power (南都电源) official truck battery series table",
+        "source_url": "https://www.naradapower.com/solution/detail/id/10032.html",
+        "source_type": "Manufacturer official spec table (A-share listed company)",
+        "tier": "T1",
+        "accessed_date": "2026-09-07",
+        "corroborates": [
+          { "dinwey_model": "190H52", "group": "N200", "third_party_cca_jis": 1200, "note": "Narada 6-QWLZ-200 / 190H52 spec: 12V, 200Ah, 1200A JIS CCA, 515x250x215mm. Corroborates JIS 'N200/190H52' = 200Ah heavy-truck battery class." },
+          { "dinwey_model": "145G51", "group": "N150", "third_party_group_ref": "150G51/165G51 class", "note": "Narada lists 150G51 (950A) and 165G51/180G51 (1000-1100A) as the heavy-truck JIS G51-series classes. Corroborates that the G51-series (N150-class) is the heavy-truck starting standard." }
+        ]
+      },
+      {
+        "id": "TPL-002",
+        "source_name": "Battery manufacturer usage manual (model cross-reference PDF, img.nbchao.com)",
+        "source_url": "https://img.nbchao.com/upload/2023/4/1682235185631.pdf",
+        "source_type": "Third-party model cross-reference chart (JIS old/new + CCA)",
+        "tier": "T2",
+        "accessed_date": "2026-09-07",
+        "corroborates": [
+          { "dinwey_model": "145G51", "group": "N150", "cross_ref": "145G51R / N150 / 145G51L / N150L", "cca_jis_values": [900, 1100], "note": "PDF lists 145G51R=N150 with JIS CCA 780/900/1100 across old/new/CMF columns. DINWEY's 145G51 = 900A JIS CCA falls within the published N150 range — spec corroboration, not conversion." }
+        ]
+      },
+      {
+        "id": "TPL-003",
+        "source_name": "Furukawa Battery (古河电池) distributor statement + Zeetex/Century N200 product pages",
+        "source_url": "https://hi-tecbatteries.com.au/product/n200",
+        "source_type": "Manufacturer/distributor product classification",
+        "tier": "T2",
+        "accessed_date": "2026-09-07",
+        "corroborates": [
+          { "dinwey_model": "190H52", "group": "N200", "note": "Multiple independent sources (Furukawa FB, Zeetex, Century) classify N150/N200 as heavy-duty fuel truck/bus starting batteries. Corroborates the application classification (not vehicle-specific fitment)." }
+        ]
+      },
+      {
+        "id": "TPL-004",
+        "source_name": "Hino 300 series owner's manual (hino.com.tw PDF)",
+        "source_url": "https://www.hino.com.tw/assets/download/300系系列5噸/HINO 300系列5噸車主手冊.pdf",
+        "source_type": "OEM owner's manual",
+        "tier": "T1",
+        "accessed_date": "2026-09-07",
+        "corroborates": [
+          { "dinwey_model": null, "group": null, "note": "Hino 300 owner's manual documents the 24V electrical system (vent-cap battery, 24V). Corroborates the INDUSTRY-WIDE rule that Hino trucks are 24V (2x12V series) — a general system fact, not a battery-group fitment claim for any specific DINWEY model." }
+        ]
+      }
+    ]
   }
 }

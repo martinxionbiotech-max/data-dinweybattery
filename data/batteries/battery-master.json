@@ -38,6 +38,20 @@
       "source": "Chengguang factory technical data center",
       "source_date": "2026-08-30",
       "verified_date": "2026-09-07",
+      "third_party_verification": [
+        {
+          "source": "Narada Power (南都电源) official truck battery table",
+          "url": "https://www.naradapower.com/solution/detail/id/10032.html",
+          "tier": "T1",
+          "note": "Narada 150G51 (950A) / 165G51 / 180G51 (1000-1100A) corroborate the G51-series as the heavy-truck JIS starting class. Spec corroboration, not vehicle fitment."
+        },
+        {
+          "source": "Battery model cross-reference PDF (img.nbchao.com)",
+          "url": "https://img.nbchao.com/upload/2023/4/1682235185631.pdf",
+          "tier": "T2",
+          "note": "145G51R = N150, JIS CCA 780/900/1100 across old/new/CMF columns. DINWEY 145G51 = 900A JIS CCA falls within published N150 range."
+        }
+      ],
       "confidence": "HIGH"
     },
     {
@@ -70,6 +84,20 @@
       "source": "Chengguang factory technical data center",
       "source_date": "2026-08-30",
       "verified_date": "2026-09-07",
+      "third_party_verification": [
+        {
+          "source": "Narada Power (南都电源) official truck battery table",
+          "url": "https://www.naradapower.com/solution/detail/id/10032.html",
+          "tier": "T1",
+          "note": "Narada 6-QWLZ-200 / 190H52: 12V, 200Ah, 1200A JIS CCA, 515x250x215mm — corroborates JIS '190H52/N200' = 200Ah heavy-truck class. Narada lists 190H52 for Volvo/Hongyan/Mercedes/Huanghe (China-market heavy trucks)."
+        },
+        {
+          "source": "Furukawa Battery / Zeetex / Century product classification",
+          "url": "https://hi-tecbatteries.com.au/product/n200",
+          "tier": "T2",
+          "note": "Multiple independent manufacturers classify N150/N200 as heavy-duty fuel truck/bus starting batteries. Application corroboration, not vehicle fitment."
+        }
+      ],
       "confidence": "HIGH"
     },
     {

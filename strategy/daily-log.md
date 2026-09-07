@@ -243,3 +243,26 @@
 ### 结论
 - 今晚无新内容缺口，无 commit/push（两仓库已对齐 project-status 最新 commit：主站 d7ba31c、子站 294b9cf）。
 - 下一优先级仍待用户决策：真实客户反馈 / Cloudflare Pages 部署 / 行业目录外链。
+
+## 2026-09-07 Phase 7 + Layer 1 第三方规格交叉验证
+
+### Phase 7 完成（主站单型号实体页）
+- 新建 5 页 + 1 布局，主站 19→24 页，build 0 error，commit 1179eb2 推送到 dinweybattery 主站
+  - /batteries/（DefinedTermSet 索引）
+  - /batteries/jis/n150/（145G51）、/batteries/jis/n200/（190H52）
+  - /batteries/din/din88/（58827）、/batteries/din/din100/（60038）
+  - 每页含 DefinedTerm schema + Product(additionalProperty) + FAQPage，合规 fitment 措辞（零编造）
+  - push 时遇远程 2 个滞后提交（工厂名统一 Chengguang→Chengguang Power Tech），rebase 后无冲突推送
+
+### Layer 1 — 第三方规格交叉验证（fixt 参考中文互联网厂商）
+用户指示：参考中文互联网其他厂家标准填充 fitment 参考。
+
+⚠️ 严守 V2.0 铁律：仅做「规格佐证」+「通用系统规律」，不编造任何车型适配（fitment）。
+
+已查证 4 个 T1/T2 级来源并写入 cross-reference.json + battery-master.json：
+- TPL-001 [T1] 南都电源官网卡车电池对照表 — 佐证 190H52/N200=200Ah、G51 系列=重卡启动标准
+- TPL-002 [T2] 型号对照 PDF — 145G51R=N150 JIS CCA 780/900/1100，DINWEY 900A 落在范围内
+- TPL-003 [T2] 古河/Zeetex/Century — 佐证 N150/N200 为重型燃油卡车/客车启动电池
+- TPL-004 [T1] Hino 300 车主手册 — 佐证「重卡 24V=2×12V 串联」通用系统规律（非电池组适配）
+
+关键边界：这些数据主要覆盖中国国产重卡（东风/德龙/重汽），非 DINWEY 主打的日系/欧系。只写通用规律 + 规格佐证，不写 "Fits X"。
