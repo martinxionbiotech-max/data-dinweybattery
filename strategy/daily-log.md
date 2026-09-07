@@ -266,3 +266,31 @@
 - TPL-004 [T1] Hino 300 车主手册 — 佐证「重卡 24V=2×12V 串联」通用系统规律（非电池组适配）
 
 关键边界：这些数据主要覆盖中国国产重卡（东风/德龙/重汽），非 DINWEY 主打的日系/欧系。只写通用规律 + 规格佐证，不写 "Fits X"。
+
+## 2026-09-07 Layer 1b — 日系/欧系 fitment T1 权威证据（B 阶段）
+
+深挖日系(Hino/Isuzu/Fuso)+欧系(Volvo/Scania/MAN) fitment 适配表，找到 2 个 T1 级权威来源并交叉验证：
+
+### T1 来源
+1. **Club Assist《Commercial Fitment & Cross-Reference Guide》**（澳洲商用电池权威，PDF）
+2. **Century Batteries《Selection Guide》**（澳洲，PDF）
+
+### 关键 fitment 证据（已写入 vehicle-master.json，标 MEDIUM，非 DINWEY 官方确认）
+| 车型 | 年份 | JIS/DIN 组号 | DINWEY 推荐 |
+|---|---|---|---|
+| Hino 700 (FS/FY/SH/SS) | 2004-2016 | N150 | 145G51 (N150) ✅ 双源交叉印证 |
+| MAN TGS (标准 222mm) | 2007-on | N150L | 145G51 |
+| MAN TGS (H/D 273mm) | 2007-on | N200 | 190H52 |
+| MAN TGX (2007-2013) | 2007-2013 | N150L | 145G51 |
+| MAN TGX (H/D 273mm) | 2007-on | N200 | 190H52 |
+| MAN TGM (2014-on) | 2014-on | 60038 (DIN88/LN5) | 58827/60038（Club Assist 直接列出 60038！）|
+
+### 关键洞察
+- **欧系重卡(MAN)实际供货用 JIS N 组号**（N150/N200），非纯 DIN——反映中东/非洲市场混用标准
+- **Hino 700 = N150** 由 Club Assist + Century 两个独立 T1 来源一致确认，是最高置信 fitment
+- MAN TGM 2014+ 直接列出 DINWEY 自己的型号 60038，是精确型号级证据
+
+### 严谨边界
+- 仅填充有 T1 证据的 3 个车型（HINO-700/MAN-TGS/MAN-TGX），其余 13 车型仍 null
+- 全部标 MEDIUM + industry reference，明确「非 DINWEY 官方 OEM 确认，仍需按车型规格复核」
+- 未填充：Isuzu F/Giga、Fuso、Volvo FH/FM、Scania R、MB、DAF、Iveco、UD（缺 T1 证据）
