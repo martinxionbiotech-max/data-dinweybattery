@@ -19,7 +19,7 @@ as a long-term partner. Just 3 quick questions:
 3. Would you recommend us to another buyer?
 
 Thanks so much — this really helps us!
-— [Your name], Dinweys / Chengguang Energy
+— [Your name], Dinweys / Chengguang Power Tech Co., Ltd.
 ```
 
 ---
@@ -51,7 +51,7 @@ Thank you for your continued trust.
 
 Best regards,
 [Your name]
-Dinweys / Chengguang Energy
+Dinweys / Chengguang Power Tech Co., Ltd.
 WhatsApp: +86 13323237275 | martin@dinweys.com
 ```
 

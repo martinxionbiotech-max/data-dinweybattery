@@ -12,7 +12,7 @@
 Brand (品牌)
   └── DINWEY
 Company (公司)
-  └── Chengguang Power Tech / Chengguang Energy (陈光能源)
+  └── Chengguang Power Tech Co., Ltd. (陈光能源)
 Factory (工厂)
   └── 河北石家庄晋州 Mayu 工业园
 Battery (电池实体)          ← PHASE 3 建立
@@ -42,13 +42,13 @@ OEM (代工)
 |---|---|---|
 | name | DINWEY | 全站 |
 | alternateName | 鼎威 | 工厂档案 |
-| parentCompany | Chengguang Energy | llms.txt / Organization schema |
+| parentCompany | Chengguang Power Tech Co., Ltd. | llms.txt / Organization schema |
 | category | Truck & heavy-duty starting batteries | 定位 |
 
-### 2.2 Company — Chengguang Power Tech / Chengguang Energy
+### 2.2 Company — Chengguang Power Tech Co., Ltd.
 | 字段 | 值 | confidence |
 |---|---|---|
-| name | Chengguang Energy（Chengguang Power Tech Co., Ltd.） | HIGH |
+| name | Chengguang Power Tech Co., Ltd. | HIGH |
 | legalName | 待确认（需工厂营业执照核实） | — |
 | foundingDate | 2002 | HIGH |
 | address | Lvjiaying Village, Mayu Industrial Park, Jinzhou City, Shijiazhuang, Hebei, China | HIGH |

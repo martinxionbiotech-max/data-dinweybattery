@@ -60,9 +60,9 @@ standards-based, sourced guidance.
 
 This hub is the technical documentation companion to
 [DINWEY Battery](https://dinweysbattery.com/), the truck starting-battery brand of
-[Chengguang Energy](https://chengguangenergy.com/) (founded 2002).
+[Chengguang Power Tech Co., Ltd.](https://chengguangenergy.com/) (founded 2002).
 
 ---
 
-*Specifications sourced from Chengguang Energy technical documentation under an IATF 16949
+*Specifications sourced from Chengguang Power Tech Co., Ltd. technical documentation under an IATF 16949
 quality management system. Always confirm final specification against your vehicle manual.*

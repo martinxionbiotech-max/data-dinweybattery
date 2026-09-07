@@ -98,7 +98,7 @@ CCA is less critical and capacity (Ah) plus heat tolerance matter more.
 | Relative cost | 1.0× baseline | 1.3–1.5× | 1.8–2.2× |
 | Best use | Conventional vehicles | Mid-tier, entry start-stop | Premium, demanding duty |
 
-*Data sourced from Chengguang Energy technical documentation (IATF 16949 quality system).*
+*Data sourced from Chengguang Power Tech Co., Ltd. technical documentation (IATF 16949 quality system).*
 
 ## DINWEY Heavy-Duty Models at a Glance
 

@@ -79,7 +79,7 @@ often the only compliant one.
 
 ## DINWEY Export Support
 
-Chengguang Energy exports to 70+ countries with:
+Chengguang Power Tech Co., Ltd. exports to 70+ countries with:
 
 - Standard MOQ of 1 × 20ft container
 - Lead time of 20–45 days

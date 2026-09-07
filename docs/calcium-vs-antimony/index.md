@@ -43,7 +43,7 @@ conducts current. The alloy used changes the battery's behavior:
 | Pb-Ca-Sn (Lead-Calcium-Tin) | Low | Low | Good | AGM |
 | Pb-Sb (Lead-Antimony) | Higher | Higher | Good | Heavy-duty, trucks |
 
-*Data from Chengguang Energy technical documentation.*
+*Data from Chengguang Power Tech Co., Ltd. technical documentation.*
 
 ## The Underlying Trade-Off
 

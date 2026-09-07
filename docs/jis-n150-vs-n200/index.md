@@ -53,7 +53,7 @@ large heavy-duty battery. DINWEY manufactures these as the 145G51 and 190H52 mod
 | Terminal | JIS type A (large post) | JIS type A (large post) |
 | Typical use | Heavy trucks, buses | Largest trucks, buses, generators |
 
-*Specifications from Chengguang Energy technical data center.*
+*Specifications from Chengguang Power Tech Co., Ltd. technical data center.*
 
 ## Side-by-Side Comparison
 

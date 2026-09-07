@@ -47,7 +47,7 @@ conventional use, flooded remains the economical choice.
 | Cold-crank reliability | Good | Better |
 | Relative cost | 1.0× baseline | 1.8–2.2× |
 
-*Data from Chengguang Energy technical documentation.*
+*Data from Chengguang Power Tech Co., Ltd. technical documentation.*
 
 ## The Construction Difference
 

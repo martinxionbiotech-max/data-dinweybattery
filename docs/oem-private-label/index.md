@@ -28,7 +28,7 @@ the manufacturer handles production under an IATF 16949 quality system.
 2. **MOQ is 1 × 20ft container, lead time 20–45 days** — private label is a container-scale commitment, not a pallet order; line up cash and calendar before committing.
 3. **The pre-production sample is the real risk control** — a terminal type, label color or CCA target caught here is cheap to fix; approved in writing, it prevents a container-load (1×20 ft) of mistakes.
 4. **Spec control is the hidden margin** — you set CCA (e.g. 900 vs 1100 A), capacity and terminal type, tuning the product to regional demand instead of paying for a factory's generic spec.
-5. **Scale compounds consistency** — a 200,000 m² facility producing 40,000 batteries daily under IATF 16949 delivers the per-batch documentation repeat buyers need.
+5. **Scale compounds consistency** — a 200,000 m² facility with 18 automated lines under IATF 16949 delivers the per-batch documentation repeat buyers need.
 
 ## What Private Label Means
 
@@ -39,7 +39,7 @@ sold under your own brand. It is how most battery distributors build a regional 
 |---|---|
 | Brand name and logo | Production capacity (18 automated lines) |
 | Target market and spec | IATF 16949 quality system |
-| Packaging design | Certifications (ISO, CE) |
+| Packaging design | Certifications (IATF 16949, ISO 9001, ISO 45001) |
 | Distribution network | Per-batch documentation |
 
 ## What You Can Customize
@@ -76,8 +76,8 @@ For how to evaluate a factory before committing, see
 
 ## About the DINWEY OEM Program
 
-DINWEY is produced by Chengguang Energy (founded 2002), a 200,000 m² facility with 18
-automated lines producing 40,000 batteries daily. The OEM program offers JIS, DIN and BCI
+DINWEY is produced by Chengguang Power Tech Co., Ltd. (founded 2002), a 200,000 m² facility with 18
+automated lines. The OEM program offers JIS, DIN and BCI
 standards with MOQ of 1 × 20ft container and lead time of 20–45 days. Contact
 [martin@dinweys.com](mailto:martin@dinweys.com) to discuss your program.
 

@@ -51,7 +51,7 @@
 ## 关键实体信息（真实，来自 Chengguang 工厂档案）
 
 - **品牌**：Dinweys（鼎威）
-- **母公司/工厂**：Chengguang Energy / Chengguang Power Tech（陈光能源，since 2002）
+- **母公司/工厂**：Chengguang Power Tech Co., Ltd.（陈光能源，since 2002）
 - **地址**：Lvjiaying Village, Mayu Industrial Park, Jinzhou City, Shijiazhuang, Hebei, China
 - **邮箱**：martin@dinweys.com · **WhatsApp**：+86 13323237275
 - **规模**：200,000 m² · 18 线 · 40,000 只/天 · 1,000+ 员工 · 70+ 国家 · MOQ 1×20ft · 交期 20-45 天

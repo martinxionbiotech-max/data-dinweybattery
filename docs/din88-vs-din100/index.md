@@ -52,7 +52,7 @@ models.
 | Terminal | European conical (T1) | European conical (T1) |
 | Typical use | European trucks, buses | Larger trucks, cold climates |
 
-*Specifications from Chengguang Energy technical data center.*
+*Specifications from Chengguang Power Tech Co., Ltd. technical data center.*
 
 ## Side-by-Side Comparison
 

@@ -12,17 +12,17 @@ sub-site of [dinweysbattery.com](https://dinweysbattery.com).
 
 ## Who We Are
 
-DINWEY is the truck and heavy-duty starting-battery brand of **Chengguang Energy**,
+DINWEY is the truck and heavy-duty starting-battery brand of **Chengguang Power Tech Co., Ltd.**,
 a battery OEM factory founded in 2002.
 
 | Fact | Detail |
 |---|---|
 | Brand | DINWEY |
-| Parent company | Chengguang Energy (founded 2002) |
+| Parent company | Chengguang Power Tech Co., Ltd. (founded 2002) |
 | Facility | 200,000 m², Jinzhou City, Shijiazhuang, Hebei, China |
-| Production | 18 automated lines, 40,000 batteries/day |
+| Production | 18 automated lines |
 | Focus | Truck / heavy-duty / commercial-vehicle starting batteries (SLI) |
-| Certifications | IATF 16949, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, OHSAS 18001, CE |
+| Certifications | IATF 16949, ISO 9001:2015, ISO 45001:2018 |
 | Contact | martin@dinweys.com · WhatsApp +86 13323237275 |
 
 ## What This Hub Is For
@@ -39,11 +39,11 @@ distributors and buyers specify the right truck battery:
 ## Our Editorial Standards
 
 1. **Sourced specifications** — all CCA, capacity and dimension values come from
-   Chengguang Energy technical documentation under an IATF 16949 quality system.
+   Chengguang Power Tech Co., Ltd. technical documentation under an IATF 16949 quality system.
 2. **No unverifiable claims** — where a value depends on the vehicle, we say so and
    direct you to your manual.
 3. **Named authorship** — content is written and reviewed by Martin Wong, Sales Director
-   at Chengguang Energy, with 14 years in battery manufacturing. We attribute to a real,
+   at Chengguang Power Tech Co., Ltd., with 14 years in battery manufacturing. We attribute to a real,
    named expert. We never fabricate an individual expert; Martin Wong is the actual person
    responsible for this documentation.
 4. **Transparent dates** — every article carries publication and update dates.

@@ -7,7 +7,7 @@
 
 ### 定位重定义（19:11 用户指令）
 - 从「汽车+卡车启动电池」收窄为 **truck / heavy-duty 启动电池细分站**。
-- 工厂 = Chengguang Energy（since 2002），Dinweys（鼎威）是其核心品牌。
+- 工厂 = Chengguang Power Tech Co., Ltd.（since 2002），Dinweys（鼎威）是其核心品牌。
 - 与工厂站 chengguangenergy.com 互补：工厂站打 car+truck OEM 全品类，本品牌站只打 truck。
 - 避免关键词自噬：本品牌站不打 "car battery" 词。
 

@@ -5,7 +5,8 @@
     "source": "Chengguang Power Tech technical data center (factory archive) + dinweysbattery.com published specs",
     "generated_date": "2026-09-07",
     "confidence_note": "Only fields verified against factory archive/datasheet are filled. All unverified fields = null. NEVER fabricate.",
-    "total_entities": 5
+    "total_entities": 4,
+    "note_total": "4 production models (145G51, 190H52, 58827, 60038) + 1 made-to-order BCI Group 31 (fields null pending spec)"
   },
   "batteries": [
     {

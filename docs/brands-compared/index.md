@@ -7,7 +7,7 @@ faq:
   - q: How do I compare truck battery brands?
     a: Compare on objective criteria — verified specifications, certifications (IATF 16949, ISO 9001), batch documentation, manufacturing scale and warranty — rather than brand reputation alone.
   - q: What certifications should a truck battery manufacturer have?
-    a: IATF 16949 (automotive quality), ISO 9001 (quality management), ISO 14001 (environmental), and CE marking for the European market are the key signals.
+    a: IATF 16949 (automotive quality), ISO 9001 (quality management) and ISO 45001 (occupational health & safety) are the key signals.
   - q: Why does batch consistency matter more than brand name?
     a: For fleet and distribution buyers, the critical question is whether every battery performs the same. Per-batch CCA test data from an IATF 16949-certified manufacturer provides that consistency regardless of brand fame.
   - q: What questions should I ask a battery supplier?
@@ -26,8 +26,8 @@ A documented, certified manufacturer can match or beat a big brand at a better p
 
 1. **Certifications, not logos, signal quality** — IATF 16949 is the automotive-specific standard; ISO 9001 is a general one, and the gap is the supply-chain discipline a fleet buyer needs.
 2. **Batch consistency beats brand fame** — per-batch CCA test data from an IATF 16949-certified line proves the battery was tested before shipping; a famous logo only proves the marketing was good.
-3. **ISO 14001 and ISO 45001 tell the hidden story** — environmental and occupational-health certs reveal the operational maturity a marketing sheet hides.
-4. **Scale is a reliability proxy** — a 200,000 m² facility running 18 lines at 40,000 batteries daily implies repeatable output, not hand-built one-offs.
+3. **ISO 45001 tells the hidden story** — an occupational-health certification reveals the operational maturity a marketing sheet hides.
+4. **Scale is a reliability proxy** — a 200,000 m² facility running 18 automated lines implies repeatable output, not hand-built one-offs.
 5. **An OEM factory can beat big-brand price** — with IATF 16949 and per-batch documentation you skip the brand premium without sacrificing consistency.
 
 ## The Criteria That Actually Matter
@@ -35,7 +35,7 @@ A documented, certified manufacturer can match or beat a big brand at a better p
 | Criterion | Why it matters | What to look for |
 |---|---|---|
 | Verified specs | Real CCA and capacity | Manufacturer data sheets, not marketing |
-| Certifications | Quality assurance | IATF 16949, ISO 9001, ISO 14001, CE |
+| Certifications | Quality assurance | IATF 16949, ISO 9001, ISO 45001 |
 | Batch documentation | Consistency | Per-batch CCA test data, COA, MSDS |
 | Manufacturing scale | Reliability | Established facility, consistent output |
 | Warranty | Risk protection | Clear terms, reasonable period |
@@ -44,8 +44,7 @@ A documented, certified manufacturer can match or beat a big brand at a better p
 
 - **IATF 16949** — the automotive quality management standard; the strongest quality signal
 - **ISO 9001:2015** — general quality management
-- **ISO 14001:2015** — environmental management
-- **CE marking** — European conformity
+- **ISO 45001:2018** — occupational health & safety
 
 ### Why IATF 16949 Is the Deciding Signal
 
@@ -75,9 +74,8 @@ difference compounds into fewer roadside failures and more predictable replaceme
 
 ## About DINWEY
 
-DINWEY is the truck-battery brand of Chengguang Energy (founded 2002), a 200,000 m² facility
-with 18 automated lines producing 40,000 batteries daily. Certified IATF 16949, ISO 9001, ISO
-14001, ISO 45001, OHSAS 18001 and CE — with per-batch documentation and OEM/private-label
+DINWEY is the truck-battery brand of Chengguang Power Tech Co., Ltd. (founded 2002), a 200,000 m² facility
+with 18 automated lines. Certified IATF 16949, ISO 9001 and ISO 45001 — with per-batch documentation and OEM/private-label
 support. See [About DINWEY](https://dinweysbattery.com/about/).
 
 ## References

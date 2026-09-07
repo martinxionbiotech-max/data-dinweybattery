@@ -99,7 +99,7 @@ sleeper-cab accessories. If the alternator fails or the engine idles for long pe
 higher RC gives more buffer before the battery is drained to a damaging level.
 
 For fleets operating in developing markets with older vehicles, RC is often the more critical
-specification (per Chengguang Energy technical documentation), because electrical faults are
+specification (per Chengguang Power Tech Co., Ltd. technical documentation), because electrical faults are
 more common.
 
 The practical implication: a fleet that mostly fears a cold no-start should prioritize CCA; a
