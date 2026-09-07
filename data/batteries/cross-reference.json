@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "title": "DINWEY Battery Cross-Reference Database",
+    "note": "Cross-reference is built ONLY where reliable evidence exists (dimensions, voltage, capacity, application, terminal from verified factory spec). CCA figures from DIFFERENT test standards (JIS vs EN vs SAE J537) are NOT directly convertible — no numeric CCA conversion is performed here. Exact vs Approximate matches are strictly distinguished.",
+    "generated_date": "2026-09-07",
+    "conversion_rule": "NO cross-standard CCA numeric conversion. JIS CCA, EN cold-cranking, and SAE CCA measure under different temperature/time conditions.",
+    "data_status": "SEED — based on verified factory spec dimensions/capacity, not on vehicle fitment"
+  },
+  "cross_references": [
+    {
+      "id": "XR-001",
+      "dinwey_model": "145G51",
+      "group": "N150",
+      "standard": "JIS",
+      "related_standards": {
+        "JIS": { "group": "N150", "match_type": "exact_match", "note": "native model" },
+        "DIN": { "group": null, "match_type": "no_basis", "note": "no reliable DIN equivalent without dimension/terminal verification" },
+        "BCI": { "group": null, "match_type": "no_basis", "note": "no reliable BCI equivalent without dimension/terminal verification" }
+      },
+      "dimensions_mm": { "length": 508, "width": 222, "height": 212 },
+      "voltage": 12,
+      "ah": 135,
+      "source": "Chengguang factory technical data center",
+      "source_date": "2026-08-30",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "XR-002",
+      "dinwey_model": "190H52",
+      "group": "N200",
+      "standard": "JIS",
+      "related_standards": {
+        "JIS": { "group": "N200", "match_type": "exact_match", "note": "native model" },
+        "DIN": { "group": null, "match_type": "no_basis", "note": "no reliable DIN equivalent without dimension/terminal verification" },
+        "BCI": { "group": null, "match_type": "no_basis", "note": "no reliable BCI equivalent without dimension/terminal verification" }
+      },
+      "dimensions_mm": { "length": 520, "width": 278, "height": 220 },
+      "voltage": 12,
+      "ah": 200,
+      "source": "Chengguang factory technical data center",
+      "source_date": "2026-08-30",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "XR-003",
+      "dinwey_model": "58827",
+      "group": "DIN88",
+      "standard": "DIN",
+      "related_standards": {
+        "DIN": { "group": "DIN88", "match_type": "exact_match", "note": "native model" },
+        "JIS": { "group": null, "match_type": "no_basis", "note": "no reliable JIS equivalent without dimension/terminal verification" },
+        "BCI": { "group": null, "match_type": "no_basis", "note": "no reliable BCI equivalent without dimension/terminal verification" }
+      },
+      "dimensions_mm": { "length": 353, "width": 175, "height": 190 },
+      "voltage": 12,
+      "ah": 88,
+      "source": "Chengguang factory technical data center",
+      "source_date": "2026-08-30",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "XR-004",
+      "dinwey_model": "60038",
+      "group": "DIN100",
+      "standard": "DIN",
+      "related_standards": {
+        "DIN": { "group": "DIN100", "match_type": "exact_match", "note": "native model" },
+        "JIS": { "group": null, "match_type": "no_basis", "note": "no reliable JIS equivalent without dimension/terminal verification" },
+        "BCI": { "group": null, "match_type": "no_basis", "note": "no reliable BCI equivalent without dimension/terminal verification" }
+      },
+      "dimensions_mm": { "length": 393, "width": 175, "height": 190 },
+      "voltage": 12,
+      "ah": 100,
+      "source": "Chengguang factory technical data center",
+      "source_date": "2026-08-30",
+      "confidence": "HIGH"
+    }
+  ],
+  "cross_reference_notes": {
+    "why_no_numeric_cca_conversion": "JIS CCA, EN (EN 50342) cold-cranking current, and SAE J537 CCA are measured at different temperatures and durations (e.g. SAE = 30s at -18C; DIN/EN differs). Converting between them without a factory-published chart would fabricate accuracy. This database intentionally avoids numeric CCA mapping.",
+    "how_to_build_future_exact_matches": "Require verified terminal type, polarity, hold-down style, and case dimensions from a factory cross-reference chart or third-party battery-equivalence database before marking any cross-standard match as 'exact'.",
+    "bcigroup": "BCI Group 31/8D is made-to-order; no JIS/DIN cross-reference is asserted until factory dimension/terminal data is provided."
+  }
+}

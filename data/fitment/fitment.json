@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "title": "DINWEY Battery Fitment Database (SKELETON — unverified)",
+    "note": "Fitment relationships are NOT yet established. No factory fitment table or OEM manual has been provided. This file documents the intended schema only. vehicle_id → battery mapping is intentionally EMPTY until verified. NEVER publish 'Fits <vehicle>' claims from this file.",
+    "generated_date": "2026-09-07",
+    "data_status": "SKELETON",
+    "fitment_relationships": 0,
+    "fitment_verified": false
+  },
+  "fitment_schema": {
+    "description": "Each verified fitment record maps: Vehicle → OEM battery → Battery standard → DINWEY recommended battery → Reason → Confidence → Source.",
+    "fields": [
+      "vehicle_id",
+      "oem_battery",
+      "battery_standard",
+      "dinwey_recommended_battery",
+      "reason",
+      "confidence",
+      "source",
+      "source_date",
+      "verified_date"
+    ],
+    "relationship_types": {
+      "exact_match": "Direct verified replacement",
+      "approx_match": "Approximate / possible match, verify dimensions & spec",
+      "potential_config": "Potential configuration — verify vehicle spec before replacement"
+    }
+  },
+  "fitments": []
+}

@@ -1,0 +1,245 @@
+# DINWEY Battery — Daily Log
+
+## 2026-08-30
+- 项目启动：MASTER-PROMPT.md + WRITING_QUEUE.md + project-status.md 建立。
+- 夜间 cron 计划：05:00 Asia/Shanghai（错开 wikiqigong 02:00 / worldfreighthub 03:30）。
+- cron id `59089f79-e4b3-49d0-91ae-841575e89360`，sessionTarget isolated，delivery 微信。
+
+### 定位重定义（19:11 用户指令）
+- 从「汽车+卡车启动电池」收窄为 **truck / heavy-duty 启动电池细分站**。
+- 工厂 = Chengguang Energy（since 2002），Dinweys（鼎威）是其核心品牌。
+- 与工厂站 chengguangenergy.com 互补：工厂站打 car+truck OEM 全品类，本品牌站只打 truck。
+- 避免关键词自噬：本品牌站不打 "car battery" 词。
+
+### 客户反馈方案拍板（19:22 用户指令，方案 A）
+- 用户确认：可制作客户反馈，但采用**匿名化价值证言**（不编具名假公司/假数字）。
+- 已写入 MASTER-PROMPT.md Phase 2 + cron prompt 的 CUSTOMER TESTIMONIAL RULE。
+- 板块标题须明示 anonymized，只写可核实服务能力（批次一致性/交期/单证/定制）。
+- 后续用户提供真实反馈后替换为真案例。
+
+### Phase 0 架构搭建完成（20:09，手动推进）
+- 方案 C 反馈收集模板已建：docs/testimonial-collection-templates.md
+- 主站 Astro：11 页（home + 5 产品页 + 选型工具 + about + contact + 2 法律页）
+- 子站 MkDocs：4 页（home + 选型指南 + BCI 组号 + 12V vs 24V）
+- Organization/WebSite/Product/FAQPage schema 全注入，llms.txt + robots.txt（放行 AI 爬虫）
+- 匿名化证言上首页 + about 页，选型工具静态版（车型×气候→组号+CCA）
+- 双站 build 0 error、断链 0、JSON-LD 0 无效
+- 双仓库 push：dinweybattery（main=9cd56ec）、data-dinweybattery（main=2060799）
+- 踩坑：产品页脚本 f-string 双大括号 `{{}}` 语法错 → 改 % 拼接；子目录页 import 路径层级错（about/contact 等需 ../../，产品页需 ../../../，ProductLayout 内部用 ./）
+
+### 内容对齐工厂站（20:34 用户指令，重要！）
+用户明确：**DINWEY 站内容参考 chengguangenergy.com 同一个工厂**。已抓取工厂站真实数据：
+
+**真实认证清单（来自 quality-certifications 页）：**
+- IATF 16949 — Automotive QMS ✅ Certified
+- ISO 9001:2015 ✅ / ISO 14001:2015 ✅ / ISO 45001:2018 ✅
+- OHSAS 18001 ✅ / CE Marking ✅ Compliant
+
+**真实工厂规模（来自 technical-data-center 页）：**
+- 200,000 m², Jinzhou Hebei · 18 条自动化线 · 40,000 只/天
+- 年设计产能 10,000,000 KVAh · 1,000+ 员工 · 出口 70+ 国家
+- MOQ: 1×20ft 柜 · 交期 20–45 天
+
+**真实产品线（关键修正！）：**
+- 工厂主力是 **JIS 7 型号 + DIN 7 型号**，BCI 是 "Available on request"（按需）
+- 卡车大电池真实型号：
+  - JIS: 145G51 (N150) = 135Ah, 900A CCA, 508×222×212mm
+  - JIS: 190H52 (N200) = 200Ah, 1100A CCA, 520×278×220mm
+  - DIN: 58827 (DIN88) = 88Ah, 800A EN
+  - DIN: 60038 (DIN100) = 100Ah, 870A EN
+- ⚠️ 之前 DINWEY 站主打 BCI Group 31/8D 是**错的**，需改为 JIS/DIN 为主、BCI 标按需
+
+### 对齐行动（待执行）
+- [x] BaseLayout schema 加 hasCredential（6 认证）+ 真实规模
+- [x] 产品页重构：JIS 卡车型号 + DIN 卡车型号 + BCI 按需 + 24V + 车队
+- [x] about 页：真实认证清单 + 规模数据
+- [x] 首页：认证信任背书 + 产品卡片对齐
+- [x] 子站 pillar 页对齐真实型号
+- [x] 重新 build + push（主站 92f1077，子站 57588e2）
+
+### Phase 1 内容生产全部完成（21:00，用户要求提前赶工）
+用户 20:46 要求"等夜间自动跑，并且尽可能在 8 点前多完成一些工作，提前完成全部工作任务"。
+夜间 cron 仍会照常跑（作为后备），但我已手动提前完成 Phase 1：
+- 知识库 schema 模板升级（复用 WikiQigong 模式，改造成 DINWEY 实体 + 团队署名不编造个人专家）
+- 写了 23 篇新文章（P0 5 篇 + P1 18 篇），加上原有 3 pillar 骨架 = 27 文档页
+- 主站 llms.txt 更新为真实 JIS/DIN 产品线 + 首页加知识库内链
+- 子站 build 0 error，JSON-LD 103 块全有效（24 FAQPage + 24 TechArticle + 1 HowTo）
+- 主站 4b93a56、子站 5ee0c5c 已 push
+
+### 夜间 cron 需调整
+- Phase 0/1 已手动完成，夜间 05:00 cron 会读 project-status.md，发现 Phase 1 已完成
+- 应自动跳到剩余工作：Phase 2（真实案例 + 外链）或补充 P2 应用场景页
+- 但 Phase 2 真实案例**严禁编造**，需等用户提供真实反馈 → 夜间应跳过案例，做外链/目录/内容打磨
+
+### Phase 2 应用场景页完成 + cron 更新（21:09）
+- 写了 5 篇 P2 应用场景页：long-haul-trucking / cold-chain-refrigerated / mining-off-highway / semi-trailer / diesel-generator
+- 子站 32 文档页，123 JSON-LD 块全有效
+- 主站 ProductLayout 加 relatedDocs 区块，5 产品页各链 2-3 篇知识库文档（双站互链）
+- 主站 6bd676e、子站 563f44b 已 push
+- **cron 已更新**：payload 从过时的 Phase 0（BCI 主打/认证未确认）改为最新状态（JIS+DIN 双主力/认证已确认），今晚任务改为 Phase 2 应用场景 + 外链，跳过真实案例
+- 待用户拍板：认证清单、目标市场、真实反馈
+
+### 一致性修复 + AI 无障碍补齐（21:20）
+- 发现产品线残留 bug：选型工具/首页/BaseLayout/about/contact 仍有 BCI 导向（Group 31/34/65/4D）+ DIN H8/H9 错误表述
+- 修复：选型工具改 JIS+DIN 真实型号，首页/BaseLayout/about/contact 对齐，H8/H9 全清
+- 知识库补 llms.txt + robots.txt + About 页（E-E-A-T 透明度）
+- 主站 cd77c59、子站 4ef339f 已 push
+- 知识库现 33 页、125 JSON-LD 块全有效
+
+---
+
+## 2026-08-31（夜间 cron 05:00）
+
+### 状态核验（今晚无新内容生产任务）
+- 读 MASTER-PROMPT + WRITING_QUEUE + project-status + daily-log 后发现：Phase 0/1/2 **已全部完成**（2026-08-30 手动提前赶工，含 5 篇 P2 应用场景页）。
+- 核对：知识库 45 文档页（44 子目录 + index.md）、主站 11 页，两仓库 git 均 clean。
+- 5 篇 P2 场景页（long-haul / cold-chain / mining / semi-trailer / diesel-generator）全部存在。
+- 真实案例页照规则跳过（等用户提供真实反馈，见 testimonial-collection-templates.md）。
+
+### 构建验证
+- 子站 `mkdocs build --strict` → 0 error；主站 `npm run build` → 11 页 0 error。
+- JSON-LD 复核（built HTML）：165 块全有效（0 invalid），与 project-status 一致。
+- OpenCode 远程服务器 HTTP 200（正常）；SSH 密码认证不可用（仅 publickey，符合预期，今晚无需 SSH）。
+
+### 修复：llms.txt 遗漏 About 页
+- 发现子站 `docs/llms.txt` 只列 43 个文档 URL，漏掉 `about`（第 44 页）。
+- 修复：Documentation 列表补 `About This Site` → 44/44 页全链接。
+- commit `294b9cf`，push 子站 `data-dinweybattery` main（远程 gh token，未持久化）。
+
+### 下一优先级
+- 待用户：真实客户反馈（替换匿名化证言）+ Cloudflare Pages 部署 + 行业目录外链。
+- 无内容缺口；夜间可继续做 sitemap/JSON-LD/内链的自动打磨或跳过。
+
+---
+
+## 2026-09-03（夜间 cron 05:00）
+
+### 状态核验（无内容生产任务，全部已完成，例行复核）
+- 读 MASTER-PROMPT + WRITING_QUEUE + project-status + daily-log：Phase 0/1/2 全部完成，
+  今晚清单第 3 项（P2 应用场景页）已于 2026-08-30 完成，无需重写。
+- 核对：知识库 45 文档页（44 子目录 + index），主站 11 页，两仓库 git 均 clean，无未提交改动。
+- 5 篇 P2 场景页（long-haul / cold-chain / mining / semi-trailer / diesel-generator）全部存在。
+- 真实案例页照规则跳过（等用户提供真实反馈）。
+
+### 构建 + 完整性验证
+- 子站 `mkdocs build --strict` → 0 error（0.97s），sitemap.xml 45 URL。
+- 主站 `npm run build` → 11 页 0 error，sitemap-index.xml 生成（1.77s）。
+- JSON-LD 复核（built HTML）：165 块全有效（0 invalid）。
+- llms.txt 45 链接 = 44 文档页全覆盖 + parent/about 均列，交叉比对 0 缺口。
+- OpenCode 远程服务器 HTTP 200（正常），本机磁盘 94%（2.6G 剩余，需留意）。
+
+### 结论
+- 今晚无新内容缺口，无 commit/push（两仓库已对齐 project-status 最新 commit）。
+- 下一优先级仍待用户决策：真实客户反馈 / Cloudflare Pages 部署 / 行业目录外链。
+
+---
+
+## 2026-09-02（夜间 cron 05:00）
+
+### 状态核验（无内容生产任务，全部已完成，例行打磨复核）
+- 读 MASTER-PROMPT + WRITING_QUEUE + project-status + daily-log：Phase 0/1/2 全部完成，
+  今晚任务第 3 项（P2 应用场景页）已于 2026-08-30 完成，无需重写。
+- 核对：知识库 45 文档页、主站 11 页，两仓库 git 均 clean，无未提交改动。
+
+### 构建 + 完整性验证
+- 子站 `mkdocs build --strict` → 0 error（1.00s）。
+- 主站 `npm run build` → 11 页 0 error，sitemap-index.xml 生成。
+- JSON-LD 复核（built HTML）：165 块全有效（Python json.loads 逐块解析，0 invalid）。
+- llms.txt 46 链接 vs sitemap.xml 45 URL，交叉比对 0 缺口（sitemap 无 about/root 属正常）。
+- OpenCode 远程服务器 HTTP 200（正常）。
+
+### 结论
+- 今晚无新内容缺口，无 commit/push（两仓库已对齐 project-status 最新 commit）。
+- 下一优先级仍待用户决策：真实客户反馈 / Cloudflare Pages 部署 / 行业目录外链。
+
+---
+
+## 2026-09-04（夜间 cron 05:00）
+
+### 状态核验（无内容生产任务，全部已完成，例行复核）
+- 读 MASTER-PROMPT + WRITING_QUEUE + project-status + daily-log：Phase 0/1/2 全部完成，
+  今晚清单第 3 项（P2 应用场景页）已于 2026-08-30 完成，无需重写。
+- 核对：知识库 45 文档页、主站 11 页，两仓库 git 均 clean（无未提交改动）。
+- 5 篇 P2 场景页全部存在；真实案例页照规则跳过（等用户提供真实反馈）。
+
+### 构建 + 完整性验证
+- 子站 `mkdocs build --strict` → 0 error（0.78s）。
+- 主站 `npm run build` → 11 页 0 error（1.72s），sitemap-index.xml 生成。
+- JSON-LD 复核（built HTML）：165 块全有效（Python json.loads 逐块解析，0 invalid）。
+- sitemap.xml 45 URL vs llms.txt 44 链接（文档页覆盖，root/about 差异属正常）。
+- 本机磁盘 90%（4.1G 剩余），load 0.19，内存 946Mi 可用；OpenCode 远程 HTTP 200 正常。
+
+### 结论
+- 今晚无新内容缺口，无 commit/push（两仓库已对齐 project-status 最新 commit）。
+- 下一优先级仍待用户决策：真实客户反馈 / Cloudflare Pages 部署 / 行业目录外链。
+
+---
+
+## 2026-09-01（夜间 cron 05:00）
+
+### 状态核验（无内容生产任务，全部已完成）
+- 读 MASTER-PROMPT + WRITING_QUEUE + project-status + daily-log 后发现：Phase 0/1/2 全部完成，
+  今晚任务清单第 3 项（P2 应用场景页）已于 2026-08-30 完成，无需重写。
+- 核对：知识库 45 文档页、主站 11 页，两仓库 git 均 clean，无未提交改动。
+- 5 篇 P2 场景页（long-haul / cold-chain / mining / semi-trailer / diesel-generator）全部存在。
+- 真实案例页照规则跳过（等用户提供真实反馈）。
+
+### 构建验证
+- 子站 `mkdocs build --strict` → 0 error（built in 1.11s），sitemap.xml 已生成（6019B）。
+- 主站 `npm run build` → 11 页 0 error，sitemap-index.xml 已生成。
+- JSON-LD 复核（built HTML）：165 块全有效，与 project-status 一致。
+- llms.txt 46 链接（45 页 + About 首页），当前最新。
+- OpenCode 远程服务器 HTTP 200（正常）。
+
+### 结论
+- 今晚无新内容缺口，无需 commit/push（两仓库均已与 project-status 对齐的最新 commit）。
+- 下一优先级仍待用户决策：真实客户反馈 / Cloudflare Pages 部署 / 行业目录外链。
+
+---
+
+## 2026-09-06（夜间 cron 03:30）
+
+### 状态核验 + 文档漂移修复（无新内容生产任务）
+- 读 MASTER-PROMPT + WRITING_QUEUE + project-status + daily-log：Phase 0/1/2 全部完成，
+  5 篇 P2 应用场景页已于 2026-08-30 完成；真实案例照规则跳过（等用户真实反馈）。
+- **发现文档漂移**：project-status.md 记录为「知识库 45 页 / 主站 11 页 / 匿名作者」，
+  但实际已推进到「知识库 46 页 / 主站 19 页 / 具名 Martin Wong」。
+  - 主站 19 页 = home + 5 产品 + 选型工具 + about/contact + 2 法律页 + 4 行业应用 + 4 区域市场
+  - 知识库 46 页（44 子目录 + index + about），8-pillar 簇群架构
+  - 作者从「匿名 Technical Team」升级为「具名 Martin Wong (Sales Director, 14 年)」✅ EEAT
+  - 主站最新 commit 87d4969、知识库 6ef7c6f
+- 已更新 project-status.md 对齐现实（页数/作者/commit/JSON-LD 计数）。
+
+### 构建 + 完整性验证
+- 子站 `mkdocs build --strict` → 0 error（1.42s）。
+- 主站 `npm run build` → 19 页 0 error（2.38s），sitemap-index.xml 生成。
+- JSON-LD 复核（built HTML）：知识库 163 块全有效（0 invalid，35 FAQPage）；主站 83 块全有效。
+- sitemap.xml 46 URL ↔ llms.txt 46 文档页覆盖，交叉比对 0 缺口。
+- OpenCode 远程 `/api/health` → healthy，HTTP 200。
+- 本机磁盘 92%（3.4G 剩余，需留意），load 0.48，内存 923Mi 可用。
+
+### 结论
+- 今晚无新内容缺口，无 commit/push（两仓库均已对齐最新 commit，无未提交改动）。
+- 仅修复 project-status.md 文档漂移（本地 docs，不入 git 仓库内容本身）。
+- 下一优先级仍待用户决策：真实客户反馈 / Cloudflare Pages 部署 / 行业目录外链。
+
+---
+
+## 2026-09-05（夜间 cron 03:30）
+
+### 状态核验（无内容生产任务，全部已完成，例行复核）
+- 读 MASTER-PROMPT + WRITING_QUEUE + project-status + daily-log：Phase 0/1/2 全部完成，
+  今晚清单第 3 项（P2 应用场景页）已于 2026-08-30 完成，无需重写。
+- 核对：知识库 45 文档页、主站 11 页，两仓库 git 均 clean（无未提交改动）。
+- 5 篇 P2 场景页全部存在；真实案例页照规则跳过（等用户提供真实反馈）。
+
+### 构建 + 完整性验证
+- 子站 `mkdocs build --strict` → 0 error（0.89s），sitemap.xml 45 URL。
+- 主站 `npm run build` → 11 页 0 error（1.74s），sitemap-index.xml 生成。
+- JSON-LD 复核（built HTML）：165 块全有效（Python json.loads 逐块解析，0 invalid）。
+- OpenCode 远程服务器 `/api/health` → healthy，HTTP 200。
+- 本机磁盘 90%（4.1G 剩余），load 0.30，内存 869Mi 可用。
+
+### 结论
+- 今晚无新内容缺口，无 commit/push（两仓库已对齐 project-status 最新 commit：主站 d7ba31c、子站 294b9cf）。
+- 下一优先级仍待用户决策：真实客户反馈 / Cloudflare Pages 部署 / 行业目录外链。
