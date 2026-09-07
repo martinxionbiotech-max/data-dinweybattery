@@ -294,3 +294,25 @@
 - 仅填充有 T1 证据的 3 个车型（HINO-700/MAN-TGS/MAN-TGX），其余 13 车型仍 null
 - 全部标 MEDIUM + industry reference，明确「非 DINWEY 官方 OEM 确认，仍需按车型规格复核」
 - 未填充：Isuzu F/Giga、Fuso、Volvo FH/FM、Scania R、MB、DAF、Iveco、UD（缺 T1 证据）
+
+## 2026-09-07 Layer 1b 续 — 扩展 Volvo/Scania/Isuzu fitment（+4 车型，共 7 车型）
+
+第二轮深挖，新增第 3 个 T1 权威来源 **RDP Battery Fitment Guide**（truckpartsuperstore.com.au，与 Club Assist 同类），并完整提取 Club Assist PDF 的 Volvo/Scania/Isuzu 段落。
+
+### 新填 fitment 的 4 个车型
+| 车型 | 组号 | DINWEY 推荐 |
+|---|---|---|
+| Volvo FM | N150(≤2013)/N200(2014+) | 145G51 / 190H52 |
+| Volvo FH | N150/N200 | 145G51 / 190H52 |
+| Scania R | N150(05-14)/N200(15+ Euro VI) | 145G51 / 190H52 |
+| Isuzu F | N100L ⚠️ | 暂无对应型号 |
+
+### 关键发现
+1. **欧系重型卡车世代规律清晰**：Volvo FM/FH + Scania R 都是 ≤2013 = N150(145G51)，2014+/Euro VI = N200(190H52)。反映电气系统升级（更大容量）趋势。
+2. **Isuzu 现款用 N100L**：DINWEY 产品线缺口。Isuzu F 系列(FRR/FSR/FSD 现款)普遍 JIS N100L，DINWEY 无此型号，诚实标注「需询价」，未硬映射到 N150。
+3. **欧洲原装 vs 澳洲组装差异**：Volvo 欧洲原装车用 DIN 规格(MFN150A)，澳洲组装用 JIS N150。这是标准混用的实证。
+
+### 状态
+- 已填 fitment 车型：7/16（Hino 700, MAN TGS/TGX, Volvo FM/FH, Scania R, Isuzu F）
+- 仍缺 T1 证据：Hino 500, Isuzu Giga, Fuso Fighter/Super Great, MB Actros/Atego, DAF XF, Iveco Stralis, UD Quon（共 9 个）
+- **深挖 Fuso/MB/DAF/Iveco/UD 设为夜间工作项目（待执行）**
