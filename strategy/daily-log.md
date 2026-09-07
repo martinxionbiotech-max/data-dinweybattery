@@ -316,3 +316,33 @@
 - 已填 fitment 车型：7/16（Hino 700, MAN TGS/TGX, Volvo FM/FH, Scania R, Isuzu F）
 - 仍缺 T1 证据：Hino 500, Isuzu Giga, Fuso Fighter/Super Great, MB Actros/Atego, DAF XF, Iveco Stralis, UD Quon（共 9 个）
 - **深挖 Fuso/MB/DAF/Iveco/UD 设为夜间工作项目（待执行）**
+
+## 2026-09-08 夜间 fitment 深挖完成（Fuso/MB/DAF/Iveco/UD）
+
+深挖 5 厂商卡车电池 fitment，唯一 T1 权威来源 Club Assist《Commercial Fitment & Cross-Reference Guide》（clubassist.com.au PDF），辅以 eBay/Battery Brands Warehouse T2 佐证。
+
+### 新填 7 车型（累计 fitment 车型 7→9 覆盖唯一 model，见下）
+| 车型 | 组号 | DINWEY 推荐 | 置信 |
+|---|---|---|---|
+| MB Actros | N150(1996-13)/N200(H/D 14+) | 145G51 / 190H52 | MEDIUM |
+| MB Atego | N150 std / N200 H/D | 145G51 / 190H52 | MEDIUM |
+| DAF XF | N150(97-13)/N200(FAD 8x4 13+) | 145G51 / 190H52 | MEDIUM |
+| Iveco Stralis | N150(ATi/460 02-13)/N200(E5 14+)/HCC27SC(AD/AS-L) | 145G51 / 190H52 / AD-AS-L 暂无对应 | MEDIUM |
+| Fuso Fighter | N150(重 FP/FS/FV) + 轻中 55D23R/80D26R | 145G51(重) + 轻中暂无对应 | MEDIUM |
+| Fuso Super Great | N150(FP/FS/FV) | 145G51 | LOW |
+| UD Quon | N150(CK/CW/GK/GW) | 145G51 | LOW |
+
+### 关键发现
+1. **欧系重卡世代规律再现**：MB Actros/Atego、DAF XF、Iveco Stralis 都是标准 N150、重载/H-D 选项 N200、2014+ Euro VI/EEV 升级 N200 —— 与 Volvo/Scania/MAN 完全一致。
+2. **Stralis 分型差异**：ATi/460 用 N150→N200，但 AD/AS-L/AT 变体用更小的 HCC27SC(D31/95D31) 组 —— DINWEY 无此型号，标准诚实标注。
+3. **Fuso Fighter 跨轻重**：轻中(FK/FM/FN)=55D23R/80D26R，重(FP/FS/FV)=N150。Super Great 属重车系，推断 N150（标 LOW）。
+4. **UD Quon**：Club Assist 无 Quon 专名，但有 U.D. 重车 CK/CW/GK/GW=N150，Battery Brands Warehouse T2 直接列 Quon=N150（标 LOW）。
+
+### 红线遵守
+- 全部标 MEDIUM/LOW + industry reference，明确「非 DINWEY 官方 OEM 确认，需按车型规格复核」
+- 无跨标准 CCA 换算；无「Fits X」绝对化
+- Isuzu-Giga、Hino-500、Iveco AD/AS-L、Fuso 轻中变体无 DINWEY 对应 → 诚实标「暂无对应/需询价」
+- dinwey_recommendation 仅用 4 个型号（145G51/190H52/58827/60038）
+
+### 仍无 T1 证据（保持 null）
+- HINO-500、ISUZU-GIGA 两个车型本次未处理/无确定性 T1 证据，保持 null。
