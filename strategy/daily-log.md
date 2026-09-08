@@ -346,3 +346,26 @@
 
 ### 仍无 T1 证据（保持 null）
 - HINO-500、ISUZU-GIGA 两个车型本次未处理/无确定性 T1 证据，保持 null。
+
+## 2026-09-09 夜间 fitment 深挖（补漏：Isuzu Giga + Hino 500）
+
+上次 2026-09-08 夜间已填 Fuso/MB/DAF/Iveco/UD 共 7 车型，但仍剩 2 车型 fitment 为 null：ISUZU-GIGA、HINO-500。今晚核对后发现 Club Assist PDF 其实**包含这两个车型的 T1 证据**（上次深挖时遗漏），已补齐：
+
+| 车型 | 组号 | DINWEY 推荐 | 置信 |
+|---|---|---|---|
+| Isuzu Giga (CXZ/CXY/EXD/EXY, 1994-on) | N150 | 145G51 (N150) | MEDIUM |
+| Hino 500 (轻 FC/FD/FE/FG=55D23L·75D23L；中重 GH/GT/FL=N120) | 55D23L/75D23L/N120 | 暂无对应 (需询价) | MEDIUM |
+
+### 关键发现
+1. **Isuzu Giga = N150**：Club Assist 列出 CXY/CXZ GIGA 1994-on、EXD/EXY GIGA、GIGA 455hp、GIGA GXZ 415hp 全部 = N150（RDPN150/MF150/SN150/HCC150）。与 Isuzu F 系列(N100L)不同，Giga 是重车 N150，DINWEY 145G51 匹配。
+2. **Hino 500 分组跨轻重**：轻(FC/FD/FE/FG)=55D23L/75D23L，中重(GH/GT/FL/FD crew H/D)=N120。DINWEY 4 型号(145G51/190H52/58827/60038)均无 N120 或 55D23L 对应 → 诚实标注「暂无对应，需询价」。
+
+### 红线遵守
+- 全部标 MEDIUM + industry reference，明确「非 DINWEY 官方 OEM 确认，需按车型规格复核」
+- 无跨标准 CCA 换算；无「Fits X」绝对化
+- Hino 500 无 DINWEY 对应型号（N120/55D23L 均不在 4 型号内）→ 诚实标「需询价」，未硬映射
+- dinwey_recommendation 仅用现有 4 型号
+
+### 结果
+- fitment 覆盖 16/16 车型（0 null）
+- Giga→N150→145G51；Hino 500→无对应(诚实空缺)
