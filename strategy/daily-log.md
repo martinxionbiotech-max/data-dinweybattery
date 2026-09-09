@@ -369,3 +369,19 @@
 ### 结果
 - fitment 覆盖 16/16 车型（0 null）
 - Giga→N150→145G51；Hino 500→无对应(诚实空缺)
+
+## 2026-09-10 夜间 fitment 任务（核对 + 仓库同步）
+
+### 状态核对
+- 读 nightly-fitment-task.md 后核对 vehicle-master.json：本任务目标 5 厂商（Fuso Fighter/Super Great、MB Actros/Atego、DAF XF、Iveco Stralis、UD Quon）**已全部在前两晚（2026-09-08/09）用 T1 证据（Club Assist Commercial Fitment Guide）填满**，无 null 遗留。
+- 全部 16 车型 fitment 字段均已填充（0 null），JSON 合法（json.loads 验证通过）。
+
+### 发现并修复：本地仓库落后远程 1 个 rename commit
+- `git fetch` 后发现 origin/main 领先本地 1 个 commit `b3426e1`（"fix: unify spelling dinweybattery -> dinweysbattery"，仓库名拼写统一），本地 HEAD 停留在 00bcd66。
+- 该 commit 改动 strategy/ 下 4 个文件的拼写（dinweybattery→dinweysbattery），本地缺少此 commit。
+- 已 `git pull --ff-only` 快进合并，现本地 HEAD = b3426e1，与 origin/main 对齐，git status clean。
+
+### 结论
+- 本任务 5 厂商 fitment 深挖**已在先前期完成**，今晚无需新增 fitment 证据，无需新 commit（fitment 数据已在远程）。
+- 仅完成本地↔远程仓库同步（拉取 rename commit），无内容缺口。
+- 红线持续遵守：全部标 MEDIUM/LOW + industry reference，无跨标准 CCA 换算，无「Fits X」绝对化，无 DINWEY 对应型号处诚实标「需询价」。
