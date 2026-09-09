@@ -71,9 +71,9 @@
 
 ## 域名 + 仓库
 
-- 主站：`dinweybattery.com` → `martinxionbiotech-max/dinweybattery`（Astro）
-- 子站：`docs.dinweybattery.com` → `martinxionbiotech-max/data-dinweybattery`（MkDocs）
-- 工作目录：主站 `/home/ubuntu/.openclaw/workspace/dinweybattery/site`，子站 `.../knowledge`
+- 主站：`dinweysbattery.com` → `martinxionbiotech-max/dinweysbattery`（Astro）
+- 子站：`docs.dinweysbattery.com` → `martinxionbiotech-max/data-dinweysbattery`（MkDocs）
+- 工作目录：主站 `/home/ubuntu/.openclaw/workspace/dinweysbattery/site`，子站 `.../knowledge`
 - push 脚本：`/tmp/dinwey-push.sh`（远程 OpenCode token，不持久化）
 
 ## 关键方法论文档
@@ -86,5 +86,5 @@
 
 ## 夜间 cron
 
-- dinweybattery 05:00 Asia/Shanghai（跳过真实案例，只做自动打磨：内链/sitemap/JSON-LD 复核）
+- dinweysbattery 05:00 Asia/Shanghai（跳过真实案例，只做自动打磨：内链/sitemap/JSON-LD 复核）
 - Tavily web_search 已配好（`tvly-dev-*`），后续项目可用

@@ -2,7 +2,7 @@
 """Nightly fitment fill - Fuso/MB/DAF/Iveco/UD (T1 Club Assist + T2 corroboration)."""
 import json
 
-PATH = "/home/ubuntu/.openclaw/workspace/dinweybattery/knowledge/data/vehicles/vehicle-master.json"
+PATH = "/home/ubuntu/.openclaw/workspace/dinweysbattery/knowledge/data/vehicles/vehicle-master.json"
 
 with open(PATH) as f:
     data = json.load(f)

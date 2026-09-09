@@ -24,7 +24,7 @@
 - Organization/WebSite/Product/FAQPage schema 全注入，llms.txt + robots.txt（放行 AI 爬虫）
 - 匿名化证言上首页 + about 页，选型工具静态版（车型×气候→组号+CCA）
 - 双站 build 0 error、断链 0、JSON-LD 0 无效
-- 双仓库 push：dinweybattery（main=9cd56ec）、data-dinweybattery（main=2060799）
+- 双仓库 push：dinweysbattery（main=9cd56ec）、data-dinweysbattery（main=2060799）
 - 踩坑：产品页脚本 f-string 双大括号 `{{}}` 语法错 → 改 % 拼接；子目录页 import 路径层级错（about/contact 等需 ../../，产品页需 ../../../，ProductLayout 内部用 ./）
 
 ### 内容对齐工厂站（20:34 用户指令，重要！）
@@ -104,7 +104,7 @@
 ### 修复：llms.txt 遗漏 About 页
 - 发现子站 `docs/llms.txt` 只列 43 个文档 URL，漏掉 `about`（第 44 页）。
 - 修复：Documentation 列表补 `About This Site` → 44/44 页全链接。
-- commit `294b9cf`，push 子站 `data-dinweybattery` main（远程 gh token，未持久化）。
+- commit `294b9cf`，push 子站 `data-dinweysbattery` main（远程 gh token，未持久化）。
 
 ### 下一优先级
 - 待用户：真实客户反馈（替换匿名化证言）+ Cloudflare Pages 部署 + 行业目录外链。
@@ -247,7 +247,7 @@
 ## 2026-09-07 Phase 7 + Layer 1 第三方规格交叉验证
 
 ### Phase 7 完成（主站单型号实体页）
-- 新建 5 页 + 1 布局，主站 19→24 页，build 0 error，commit 1179eb2 推送到 dinweybattery 主站
+- 新建 5 页 + 1 布局，主站 19→24 页，build 0 error，commit 1179eb2 推送到 dinweysbattery 主站
   - /batteries/（DefinedTermSet 索引）
   - /batteries/jis/n150/（145G51）、/batteries/jis/n200/（190H52）
   - /batteries/din/din88/（58827）、/batteries/din/din100/（60038）

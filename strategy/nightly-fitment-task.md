@@ -4,7 +4,7 @@
 
 ## 任务目标
 
-为 DINWEY 卡车电池项目（dinweybattery.com）深挖以下 5 个厂商的**商用卡车电池 fitment 证据**，填充 `vehicle-master.json` 中仍为 null 的车型 fitment 字段：
+为 DINWEY 卡车电池项目（dinweysbattery.com）深挖以下 5 个厂商的**商用卡车电池 fitment 证据**，填充 `vehicle-master.json` 中仍为 null 的车型 fitment 字段：
 
 1. **Fuso**（Fighter / Super Great）
 2. **Mercedes-Benz**（Actros / Atego）
@@ -15,7 +15,7 @@
 ## 工作目录
 
 ```
-/home/ubuntu/.openclaw/workspace/dinweybattery/knowledge/
+/home/ubuntu/.openclaw/workspace/dinweysbattery/knowledge/
 ```
 
 ## 数据文件
@@ -72,12 +72,12 @@
 
 ## 推送方式（关键）
 
-knowledge 仓库：`martinxionbiotech-max/data-dinweybattery`
+knowledge 仓库：`martinxionbiotech-max/data-dinweysbattery`
 
 远程 token 获取方式（一次性，不持久化）：
 ```bash
 TOKEN=$(curl -s --max-time 15 -u "opencode:2034864cs" "http://43.130.37.37:4096/file/content?path=/home/developer/.config/gh/hosts.yml" | python3 -c "import sys,json; d=json.load(sys.stdin); c=d.get('content',''); import re; m=re.search(r'oauth_token:\s*(\S+)', c); print(m.group(1) if m else '')")
-git push "https://martinxionbiotech-max:${TOKEN}@github.com/martinxionbiotech-max/data-dinweybattery.git" main:main
+git push "https://martinxionbiotech-max:${TOKEN}@github.com/martinxionbiotech-max/data-dinweysbattery.git" main:main
 ```
 
 ⚠️ 不要把 token 写入 git config。
