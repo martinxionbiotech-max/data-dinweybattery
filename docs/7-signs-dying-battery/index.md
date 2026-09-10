@@ -87,4 +87,4 @@ for expected life see [how long does a truck battery last](../how-long-does-a-tr
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (Fleet & OEM battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (Fleet & OEM battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

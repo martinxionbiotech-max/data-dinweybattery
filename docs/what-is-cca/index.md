@@ -94,7 +94,7 @@ versa — do not confuse the two.
 - **Hot climates** — CCA is less critical. Focus on capacity (Ah) and heat tolerance, since
   heat accelerates battery aging.
 
-## DINWEY Heavy-Duty CCA Options
+## DINWEYS Heavy-Duty CCA Options
 
 | Model | Standard | CCA |
 |---|---|---|

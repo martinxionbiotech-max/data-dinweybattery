@@ -93,8 +93,8 @@ For the step-by-step wiring procedure see [24V wiring guide](../24v-wiring-guide
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [Truck Battery Selection Guide](../selection-guide/index.md)
 - [Battery isolators & auxiliary systems](../battery-isolators-auxiliary/index.md)
-- [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)
+- [DINWEYS 24V systems](https://dinweysbattery.com/products/24v/)
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/24v/) (24V battery systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/24v/) (24V battery systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.

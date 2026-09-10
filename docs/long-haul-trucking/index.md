@@ -97,4 +97,4 @@ management framework see [fleet battery management](../fleet-battery-management/
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (long-haul fleet batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (long-haul fleet batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

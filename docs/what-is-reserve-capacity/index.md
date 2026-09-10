@@ -65,7 +65,7 @@ specify the one that matches your dominant risk. For the CCA side see [what is C
 
 ## Typical RC for Heavy-Duty Batteries
 
-| DINWEY model | Standard | RC |
+| DINWEYS model | Standard | RC |
 |---|---|---|
 | 145G51 (N150) | JIS | 220 min |
 | 190H52 (N200) | JIS | 320 min |
@@ -120,4 +120,4 @@ prioritize RC. Many heavy-duty fleets specify both. See
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (fleet battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

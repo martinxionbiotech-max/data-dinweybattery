@@ -1,14 +1,14 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "title": "DINWEY Vehicle Master Database (PARTIALLY VERIFIED — T1 third-party fitment evidence added)",
-    "note": "Vehicle identity/market/electrical-system fields are public, verifiable facts. Fitment fields are populated ONLY where T1 independent fitment guides (Club Assist Commercial Fitment Guide, Century Batteries Selection Guide — both Australian commercial-vehicle battery authorities) document a battery group. These are INDUSTRY REFERENCES, NOT DINWEY official OEM confirmations — consumers must still verify against the vehicle spec. Where no T1 evidence exists, fitment fields stay NULL.",
+    "title": "DINWEYS Vehicle Master Database (PARTIALLY VERIFIED — T1 third-party fitment evidence added)",
+    "note": "Vehicle identity/market/electrical-system fields are public, verifiable facts. Fitment fields are populated ONLY where T1 independent fitment guides (Club Assist Commercial Fitment Guide, Century Batteries Selection Guide — both Australian commercial-vehicle battery authorities) document a battery group. These are INDUSTRY REFERENCES, NOT DINWEYS official OEM confirmations — consumers must still verify against the vehicle spec. Where no T1 evidence exists, fitment fields stay NULL.",
     "generated_date": "2026-09-07",
     "data_status": "VERIFIED",
     "total_vehicles": 16,
     "fitment_verified": "all",
     "last_updated": "2026-09-09",
-    "fitment_source_note": "Battery groups sourced from Club Assist 'Commercial fitment and cross-reference guide' (clubassist.com.au) and Century Batteries 'Selection Guide' (centurybatteries.com.au). Both are independent T1 commercial-vehicle fitment references. JIS group names (N150/N200/N120) map to DINWEY native JIS models; DIN group codes (e.g. 60038) are DINWEY's own model codes matched by dimensions. | 2026-09-08 nightly: Fuso/MB/DAF/Iveco/UD fitment added from Club Assist Commercial Fitment Guide (T1). | 2026-09-09 nightly: added Isuzu Giga = N150 (Club Assist) and Hino 500 = 55D23L/75D23L(light)/N120(medium) (Club Assist + Century). All 16 vehicles now have fitment evidence; Hino 500 & Isuzu-Giga filled, Hino 500 has no DINWEY match (N120/55D23L outside 4-model line)."
+    "fitment_source_note": "Battery groups sourced from Club Assist 'Commercial fitment and cross-reference guide' (clubassist.com.au) and Century Batteries 'Selection Guide' (centurybatteries.com.au). Both are independent T1 commercial-vehicle fitment references. JIS group names (N150/N200/N120) map to DINWEYS native JIS models; DIN group codes (e.g. 60038) are DINWEYS's own model codes matched by dimensions. | 2026-09-08 nightly: Fuso/MB/DAF/Iveco/UD fitment added from Club Assist Commercial Fitment Guide (T1). | 2026-09-09 nightly: added Isuzu Giga = N150 (Club Assist) and Hino 500 = 55D23L/75D23L(light)/N120(medium) (Club Assist + Century). All 16 vehicles now have fitment evidence; Hino 500 & Isuzu-Giga filled, Hino 500 has no DINWEYS match (N120/55D23L outside 4-model line)."
   },
   "vehicles": [
     {
@@ -33,10 +33,10 @@
       "oem_battery": "55D23L/75D23L (light FC/FD/FE/FG) / N120 (GH/GT/FL/crew H/D)",
       "battery_standard": "JIS",
       "battery_group": "55D23L·75D23L (light) / N120 (medium-heavier)",
-      "battery_dimensions": "N120 class 505x180x210mm (DINWEY 无此型号) / 75D23L 小型",
-      "dinwey_recommendation": "DINWEY 暂无可直接对应型号 (N120 / 55D23L / 75D23L 均不在 DINWEY 4 型号内) — 需询价/确认替代",
+      "battery_dimensions": "N120 class 505x180x210mm (DINWEYS 无此型号) / 75D23L 小型",
+      "dinwey_recommendation": "DINWEYS 暂无可直接对应型号 (N120 / 55D23L / 75D23L 均不在 DINWEYS 4 型号内) — 需询价/确认替代",
       "fitment_evidence": "Club Assist Commercial Fitment Guide: Hino 500 FC1018/FC1022 2001-2016 = 55D23L; FD1027/1124/1126 = 55D23L; FD1124 Crew H/D = N120; FE1422/1426 = 55D23L; FG1527/1628 = 55D23L (可 80D26L); FG1628 Crew H/D = N120; GH1727 1992-2013 = 80D26L; GH1728 2008-2016 = N120; GT1322/1322 Crew 4x4 2004-2016 = N120; FL2628 2013-on = N120. Century Selection Guide: Hino 500 Series FM/FT = N120, GD/GH = 75D23L/55D23L, GT = N120.",
-      "compatibility_note": "Hino 500 分重型差: 轻(FC/FD/FE/FG)=55D23L/75D23L, 中重(GH/GT/FL/FD crew H/D)=N120. DINWEY 4 型号(145G51/190H52/58827/60038)均无 N120 或 55D23L 对应, 需询价. 24V = 2x12V 串联.",
+      "compatibility_note": "Hino 500 分重型差: 轻(FC/FD/FE/FG)=55D23L/75D23L, 中重(GH/GT/FL/FD crew H/D)=N120. DINWEYS 4 型号(145G51/190H52/58827/60038)均无 N120 或 55D23L 对应, 需询价. 24V = 2x12V 串联.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au) + Century Batteries Selection Guide",
       "source_date": "2026-09-09",
       "confidence": "MEDIUM"
@@ -93,10 +93,10 @@
       "oem_battery": "N100L (JIS)",
       "battery_standard": "JIS",
       "battery_group": "N100L",
-      "battery_dimensions": "~402x170x205mm (N100 class, DINWEY 暂无)",
-      "dinwey_recommendation": "DINWEY 暂无可直接对应的 N100 型号 — 需向 DINWEY 询价/确认替代型号",
+      "battery_dimensions": "~402x170x205mm (N100 class, DINWEYS 暂无)",
+      "dinwey_recommendation": "DINWEYS 暂无可直接对应的 N100 型号 — 需向 DINWEYS 询价/确认替代型号",
       "fitment_evidence": "Club Assist Commercial Fitment Guide: Isuzu FRR600 (Sitec III) 2009-on, FSD 120-260/140-260 current, FSR 120-260 current = N100L (SN100L/N100CMF/HCC100L-XHD).",
-      "compatibility_note": "Isuzu F 系列普遍使用 JIS N100L 组（非 N150/N200）。DINWEY 当前产品线无 N100 型号，需确认是否可按需定制或提供替代。24V 系统 = 2x12V 串联。",
+      "compatibility_note": "Isuzu F 系列普遍使用 JIS N100L 组（非 N150/N200）。DINWEYS 当前产品线无 N100 型号，需确认是否可按需定制或提供替代。24V 系统 = 2x12V 串联。",
       "source": "Club Assist Commercial Fitment Guide",
       "source_date": "2026-09-07",
       "confidence": "MEDIUM"
@@ -125,8 +125,8 @@
       "battery_group": "N150",
       "battery_dimensions": "508x222x212mm (N150 class)",
       "dinwey_recommendation": "145G51 (N150)",
-      "fitment_evidence": "Club Assist Commercial Fitment Guide: Isuzu CXY/CXZ GIGA 1994-on = N150 (RDPN150/MF150/SN150/4D/MFN150/HCC150); Isuzu EXD/EXY GIGA 1994-on = N150; Isuzu GIGA 455hp = N150; Isuzu GIGA GXZ 415hp = N150. (industry reference, 非 DINWEY 官方 OEM 确认，需按车型规格复核)",
-      "compatibility_note": "Isuzu Giga heavy (CXZ/CXY/EXD/EXY) = JIS N150, 24V = 2x12V 串联. DINWEY 145G51 (N150) 按尺寸/组号匹配. 注意 Isuzu F 系列(FRR/FSR/FSD)是 N100L, 与 Giga 的 N150 不同. 需核实托盘与端柱方向.",
+      "fitment_evidence": "Club Assist Commercial Fitment Guide: Isuzu CXY/CXZ GIGA 1994-on = N150 (RDPN150/MF150/SN150/4D/MFN150/HCC150); Isuzu EXD/EXY GIGA 1994-on = N150; Isuzu GIGA 455hp = N150; Isuzu GIGA GXZ 415hp = N150. (industry reference, 非 DINWEYS 官方 OEM 确认，需按车型规格复核)",
+      "compatibility_note": "Isuzu Giga heavy (CXZ/CXY/EXD/EXY) = JIS N150, 24V = 2x12V 串联. DINWEYS 145G51 (N150) 按尺寸/组号匹配. 注意 Isuzu F 系列(FRR/FSR/FSD)是 N100L, 与 Giga 的 N150 不同. 需核实托盘与端柱方向.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au)",
       "source_date": "2026-09-09",
       "confidence": "MEDIUM"
@@ -156,7 +156,7 @@
       "battery_dimensions": "N150 class 508x222x212mm (heavy only)",
       "dinwey_recommendation": "145G51 (N150) for heavy Fighter FP/FS/FV variants; light/medium Fighter FK/FM/FN 暂无对应 (需询价)",
       "fitment_evidence": "Club Assist: Fuso FP/FS/FV Series = N150 (SN150x2/HCC150). Fuso Fighter FK1024/FK1424/FM1627/FN2427 = 55D23R/80D26R (small light/medium groups). eBay T2: N150 'Fits Mitsubishi Fighter 400HP/FU/FP/FS'.",
-      "compatibility_note": "Fuso Fighter spans light(FK/FM/FN, small 55D23R/80D26R) to heavy(FP/FS/FV, N150) classes. DINWEY 145G51 only matches the heavy N150 variants. Light/medium Fighter groups have no DINWEY match — 需询价.",
+      "compatibility_note": "Fuso Fighter spans light(FK/FM/FN, small 55D23R/80D26R) to heavy(FP/FS/FV, N150) classes. DINWEYS 145G51 only matches the heavy N150 variants. Light/medium Fighter groups have no DINWEYS match — 需询价.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au)",
       "source_date": "2026-09-08",
       "confidence": "MEDIUM"
@@ -186,7 +186,7 @@
       "battery_dimensions": "N150 class 508x222x212mm",
       "dinwey_recommendation": "145G51 (N150)",
       "fitment_evidence": "Club Assist: Fuso FP/FS/FV Series = N150 (SN150x2/HCC150) — Super Great is the heavy FV/FP/FS class. eBay T2: N150 'Fits Mitsubishi FU/FP/FS' (Super Great/Fuso heavy).",
-      "compatibility_note": "Super Great is the Fuso heavy-truck (FP/FS/FV) range; Club Assist lists these heavy Fuso series as N150 (2x12V series, 24V system). DINWEY 145G51 matches. Verify tray width/terminal orientation.",
+      "compatibility_note": "Super Great is the Fuso heavy-truck (FP/FS/FV) range; Club Assist lists these heavy Fuso series as N150 (2x12V series, 24V system). DINWEYS 145G51 matches. Verify tray width/terminal orientation.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au)",
       "source_date": "2026-09-08",
       "confidence": "LOW"
@@ -216,7 +216,7 @@
       "battery_dimensions": "N150 class 508x222x212mm / N200 class 520x278x220mm",
       "dinwey_recommendation": "145G51 (N150) 1996-2013; 190H52 (N200) heavy-duty option 2014-on",
       "fitment_evidence": "Club Assist: Actros MP1/MP2/MP3 all models 1996-2013 = N150 (MFN150A); Actros 3240/3341/4141 MP4 2014-on = N150 (MFN150A); Actros 2651/2655/2660 & 2643/2646 heavy-duty option 2014-on = N200 (MFN200A); BlueTec 6 2016-on standard = MFN180A.",
-      "compatibility_note": "Actros 24V = 2x12V series. Standard fitment N150 (MFN150A, DIN Euro-spec); heavy-duty option N200 (273mm wide); note BlueTec 6 MFN180A is a DIN 180Ah group DINWEY does not stock. DINWEY 145G51/190H52 are JIS-group matches by dimensions.",
+      "compatibility_note": "Actros 24V = 2x12V series. Standard fitment N150 (MFN150A, DIN Euro-spec); heavy-duty option N200 (273mm wide); note BlueTec 6 MFN180A is a DIN 180Ah group DINWEYS does not stock. DINWEYS 145G51/190H52 are JIS-group matches by dimensions.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au)",
       "source_date": "2026-09-08",
       "confidence": "MEDIUM"
@@ -246,7 +246,7 @@
       "battery_dimensions": "N150 class 508x222x212mm / N200 class 520x278x220mm",
       "dinwey_recommendation": "145G51 (N150) standard; 190H52 (N200) heavy-duty option",
       "fitment_evidence": "Club Assist: Atego 1224/1229/1623-1629/2324-2329 = N150 (MFN150A); Atego heavy-duty option = N200 (MFN200A).",
-      "compatibility_note": "Atego (distribution) 24V = 2x12V. Standard N150, heavy-duty option N200. DINWEY 145G51/190H52 are JIS-group matches by dimensions to the MFN150A/MFN200A DIN groups.",
+      "compatibility_note": "Atego (distribution) 24V = 2x12V. Standard N150, heavy-duty option N200. DINWEYS 145G51/190H52 are JIS-group matches by dimensions to the MFN150A/MFN200A DIN groups.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au)",
       "source_date": "2026-09-08",
       "confidence": "MEDIUM"
@@ -429,7 +429,7 @@
       "battery_dimensions": "N150 class 508x222x212mm / N200 class 520x278x220mm",
       "dinwey_recommendation": "145G51 (N150) for XF95/XF105 1997-2013; 190H52 (N200) for XF105 FAD 8x4 2013-on",
       "fitment_evidence": "Club Assist: DAF 95 XF 1997-2003 = N150 (MFN150A 4D); XF95-480 = N150; XF105-510 2001-2013 = N150; XF105 FAD 8x4 Rigid 2013-on = N200 (MFN200A).",
-      "compatibility_note": "DAF XF 24V = 2x12V. XF95/XF105 standard = N150 (MFN150A DIN); XF105 FAD 8x4 rigid 2013-on = N200. DINWEY 145G51/190H52 are JIS-group matches by dimensions to DIN groups.",
+      "compatibility_note": "DAF XF 24V = 2x12V. XF95/XF105 standard = N150 (MFN150A DIN); XF105 FAD 8x4 rigid 2013-on = N200. DINWEYS 145G51/190H52 are JIS-group matches by dimensions to DIN groups.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au)",
       "source_date": "2026-09-08",
       "confidence": "MEDIUM"
@@ -460,7 +460,7 @@
       "battery_dimensions": "N150 class 508x222x212mm / N200 class 520x278x220mm",
       "dinwey_recommendation": "145G51 (N150) ATi 360/450 & Stralis 460 2002-2013; 190H52 (N200) E5 2014-on; AD/AS-L/AT variants 暂无对应 (需询价)",
       "fitment_evidence": "Club Assist: Stralis ATi 360/450 2002-2013 = N150 (MFN150A); ATi 360/450 E5 2014-on = N200 (MFN200A); Stralis 460 2002-2013 = N150; Stralis 460 EEV 2014-on = N200; Stralis AD 505/AS-L/AT (2002-on) = HCC27SC (S95D31RHD/27H-750, smaller group).",
-      "compatibility_note": "Stralis 24V = 2x12V. ATi/460 line = N150 (2002-13) -> N200 (2014-on E5). AD/AS-L/AT variants use smaller HCC27SC (95D31/D31) group — no DINWEY match, 需询价.",
+      "compatibility_note": "Stralis 24V = 2x12V. ATi/460 line = N150 (2002-13) -> N200 (2014-on E5). AD/AS-L/AT variants use smaller HCC27SC (95D31/D31) group — no DINWEYS match, 需询价.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au)",
       "source_date": "2026-09-08",
       "confidence": "MEDIUM"
@@ -490,7 +490,7 @@
       "battery_dimensions": "N150 class 508x222x212mm",
       "dinwey_recommendation": "145G51 (N150)",
       "fitment_evidence": "Club Assist: U.D. CK17-380/CW26-380/CWA310/CW385/CW445/GK17-420/GW26-420 = N150 (MF150/HCC150). Battery Brands Warehouse (T2): N150 listed as common fitment for 'UD Quon'. Quon is the U.D. heavy CW/GK/GW class.",
-      "compatibility_note": "Quon is U.D. Trucks' heavy range (CW/GK/GW series); Club Assist lists these U.D. heavy models as N150. 24V = 2x12V. DINWEY 145G51 matches. Verify tray before replacement.",
+      "compatibility_note": "Quon is U.D. Trucks' heavy range (CW/GK/GW series); Club Assist lists these U.D. heavy models as N150. 24V = 2x12V. DINWEYS 145G51 matches. Verify tray before replacement.",
       "source": "Club Assist Commercial Fitment Guide (clubassist.com.au) + Battery Brands Warehouse (T2)",
       "source_date": "2026-09-08",
       "confidence": "LOW"

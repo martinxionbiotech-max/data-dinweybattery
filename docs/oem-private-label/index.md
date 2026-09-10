@@ -74,9 +74,9 @@ in a private-label program.
 For how to evaluate a factory before committing, see
 [truck battery brands compared](../brands-compared/index.md).
 
-## About the DINWEY OEM Program
+## About the DINWEYS OEM Program
 
-DINWEY is produced by Chengguang Power Tech Co., Ltd. (founded 2002), a 200,000 m² facility with 18
+DINWEYS is produced by Chengguang Power Tech Co., Ltd. (founded 2002), a 200,000 m² facility with 18
 automated lines. The OEM program offers JIS, DIN and BCI
 standards with MOQ of 1 × 20ft container and lead time of 20–45 days. Contact
 [martin@dinweys.com](mailto:martin@dinweys.com) to discuss your program.
@@ -94,4 +94,4 @@ standards with MOQ of 1 × 20ft container and lead time of 20–45 days. Contact
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (OEM & private-label programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/contact/) (OEM & private-label programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

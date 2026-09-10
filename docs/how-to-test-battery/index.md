@@ -90,4 +90,4 @@ the battery can actually deliver its rated cold cranking amps.
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (request CCA test data) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/contact/) (request CCA test data) or [contact us](https://dinweysbattery.com/contact/) for a quote.

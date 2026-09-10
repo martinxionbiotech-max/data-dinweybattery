@@ -1,6 +1,6 @@
-# DINWEY Battery — Entity Model (实体模型)
+# DINWEYS Battery — Entity Model (实体模型)
 
-> 依据：DINWEY Battery V2.0 Prompt PHASE 2
+> 依据：DINWEYS Battery V2.0 Prompt PHASE 2
 > 目的：从「关键词模型」升级为「实体关系模型」（Entity Graph），为 Knowledge Graph + AIO + Cross-Reference 打基础。
 > 原则：所有实体必须可追溯到真实来源；无法验证的字段填 `null`，绝不猜测。
 
@@ -10,7 +10,7 @@
 
 ```
 Brand (品牌)
-  └── DINWEY
+  └── DINWEYS
 Company (公司)
   └── Chengguang Power Tech Co., Ltd. (陈光能源)
 Factory (工厂)
@@ -24,7 +24,7 @@ Specification (规格)
 Vehicle (车型)              ← PHASE 4 建立
   └── Hino / Isuzu / Fuso / Volvo / Scania / MAN / DAF / Iveco ...
 Fitment (适配)              ← PHASE 5 建立
-  └── Vehicle → OEM Battery → Standard → DINWEY 推荐
+  └── Vehicle → OEM Battery → Standard → DINWEYS 推荐
 Market (市场)               ← 已有 4 页，待深化
   └── Middle East / Africa / Europe / Latin America / SEA
 Application (应用)
@@ -37,10 +37,10 @@ OEM (代工)
 
 ## 2. 核心实体定义
 
-### 2.1 Brand — DINWEY
+### 2.1 Brand — DINWEYS
 | 字段 | 值 | 来源 |
 |---|---|---|
-| name | DINWEY | 全站 |
+| name | DINWEYS | 全站 |
 | alternateName | 鼎威 | 工厂档案 |
 | parentCompany | Chengguang Power Tech Co., Ltd. | llms.txt / Organization schema |
 | category | Truck & heavy-duty starting batteries | 定位 |
@@ -74,7 +74,7 @@ OEM (代工)
 15 个卡车品牌，先建高商业价值车型。
 
 ### 2.7 Fitment（详见 `data/fitment/fitment.json`）
-Vehicle → OEM Battery → Standard → DINWEY 推荐 → Reason → Confidence → Source。
+Vehicle → OEM Battery → Standard → DINWEYS 推荐 → Reason → Confidence → Source。
 
 ---
 
@@ -85,7 +85,7 @@ Hino 500 ──has──> 24V system ──consistsOf──> 2 × 12V battery
 Hino 500 ──uses──> JIS standard ──mapsTo──> N150 / N200
 N150 ──isA──> Heavy-duty starting battery
 N150 ──hasSpec──> 135Ah / 900A CCA / 508×222×212mm
-DINWEY ──manufactures──> N150 (at Chengguang factory)
+DINWEYS ──manufactures──> N150 (at Chengguang factory)
 N150 ──fits──> Hino 500 (confidence: MEDIUM — verify spec)
 JIS ──crossRef──> DIN / BCI (Exact vs Approximate)
 ```

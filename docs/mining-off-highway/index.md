@@ -100,4 +100,4 @@ model, age and rating. See [24V wiring guide](../24v-wiring-guide/index.md) and
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (off-highway battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (off-highway battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

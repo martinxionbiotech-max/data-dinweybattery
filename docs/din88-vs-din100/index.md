@@ -11,7 +11,7 @@ faq:
   - q: Are DIN88 and DIN100 interchangeable?
     a: No. They have different lengths (353mm vs 393mm). A battery must physically fit the tray — always match the size.
   - q: What CCA does a DIN100 provide?
-    a: The DINWEY 60038 (DIN100) provides 870A EN cold-cranking amps — suitable for larger European truck engines.
+    a: The DINWEYS 60038 (DIN100) provides 870A EN cold-cranking amps — suitable for larger European truck engines.
   - q: What does EN CCA mean vs SAE CCA?
     a: EN (European Norm) cold-cranking amps are measured differently from SAE CCA — an 870 A EN rating is not the same as 870 SAE. The values are not directly interchangeable; compare within the same standard.
 ---
@@ -34,12 +34,12 @@ or higher electrical load if your tray fits it; otherwise DIN88 is lighter and c
 
 | DIN88 (58827) | DIN100 (60038) |
 |---|---|
-| ![DINWEY 58827 DIN88 truck battery](../assets/58827-DIN88.jpg) | ![DINWEY 60038 DIN100 truck battery](../assets/60038-DIN100.jpg) |
+| ![DINWEYS 58827 DIN88 truck battery](../assets/58827-DIN88.jpg) | ![DINWEYS 60038 DIN100 truck battery](../assets/60038-DIN100.jpg) |
 
 ## What "DIN88" and "DIN100" Mean
 
 In the DIN/EN system, the number reflects the battery's capacity in amp-hours. DIN88 is an
-88Ah battery; DIN100 is a 100Ah battery. DINWEY manufactures these as the 58827 and 60038
+88Ah battery; DIN100 is a 100Ah battery. DINWEYS manufactures these as the 58827 and 60038
 models.
 
 | Specification | 58827 (DIN88) | 60038 (DIN100) |
@@ -111,8 +111,8 @@ two DIN100 units for maximum 24V cranking power. Always replace the pair togethe
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)
 - [JIS N150 vs N200](../jis-n150-vs-n200/index.md)
-- [DINWEY DIN heavy-duty batteries](https://dinweysbattery.com/products/din-heavy-duty/)
+- [DINWEYS DIN heavy-duty batteries](https://dinweysbattery.com/products/din-heavy-duty/)
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/din-heavy-duty/) (DIN heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/din-heavy-duty/) (DIN heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

@@ -12,8 +12,8 @@ faq:
     a: It depends on duty. MF batteries are convenient (no top-ups), but the thick-plate Pb-Sb design tolerates heavy-truck deep cycling (to ~50%) and vibration better — which is why many heavy-duty JIS batteries keep it.
   - q: What does SMF mean?
     a: SMF stands for Sealed Maintenance Free — a sealed battery with ~1–3% monthly self-discharge that requires no electrolyte top-up. It is common in the JIS aftermarket for commercial vehicles.
-  - q: Do DINWEY offer maintenance-free JIS batteries?
-    a: Yes. DINWEY's JIS heavy-duty range (145G51, 190H52) includes both thick-plate flooded (Pb-Sb) models and MF/AGM options depending on the duty cycle and fleet preference. Contact us to match the right technology to your application.
+  - q: Do DINWEYS offer maintenance-free JIS batteries?
+    a: Yes. DINWEYS's JIS heavy-duty range (145G51, 190H52) includes both thick-plate flooded (Pb-Sb) models and MF/AGM options depending on the duty cycle and fleet preference. Contact us to match the right technology to your application.
 ---
 
 # Maintenance-Free (MF) vs Serviceable JIS Truck Batteries
@@ -91,5 +91,5 @@ technology — and the price and performance — differ.
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
 

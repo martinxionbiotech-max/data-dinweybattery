@@ -77,7 +77,7 @@ often the only compliant one.
 3. **Packing** — secure against short circuit and movement
 4. **Destination rules** — some countries have additional import requirements
 
-## DINWEY Export Support
+## DINWEYS Export Support
 
 Chengguang Power Tech Co., Ltd. exports to 70+ countries with:
 
@@ -101,4 +101,4 @@ For export terms and destination-specific requirements, contact
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (shipping documentation) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/contact/) (shipping documentation) or [contact us](https://dinweysbattery.com/contact/) for a quote.

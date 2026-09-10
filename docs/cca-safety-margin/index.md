@@ -73,7 +73,7 @@ corrosion and water loss. In hot climates:
     practical margin, not a manufacturer's rating — confirm the exact requirement in your
     vehicle manual.
 
-## Matching This to DINWEY Models
+## Matching This to DINWEYS Models
 
 | Model | Standard | CCA | Best climate fit |
 |---|---|---|---|
@@ -97,5 +97,5 @@ Put numbers on the 20–30% rule and it stops being abstract. An engine that gen
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (cold-climate JIS batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (cold-climate JIS batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
 

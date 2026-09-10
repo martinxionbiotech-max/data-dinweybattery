@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "title": "DINWEY Battery Master Database",
+    "title": "DINWEYS Battery Master Database",
     "source": "Chengguang Power Tech technical data center (factory archive) + dinweysbattery.com published specs",
     "generated_date": "2026-09-07",
     "confidence_note": "Only fields verified against factory archive/datasheet are filled. All unverified fields = null. NEVER fabricate.",
@@ -10,7 +10,7 @@
   },
   "batteries": [
     {
-      "battery_id": "DINWEY-JIS-N150-145G51",
+      "battery_id": "DINWEYS-JIS-N150-145G51",
       "dinwey_model": "145G51",
       "product_name": "JIS N150 Heavy-Duty Starting Battery",
       "standard": "JIS",
@@ -50,13 +50,13 @@
           "source": "Battery model cross-reference PDF (img.nbchao.com)",
           "url": "https://img.nbchao.com/upload/2023/4/1682235185631.pdf",
           "tier": "T2",
-          "note": "145G51R = N150, JIS CCA 780/900/1100 across old/new/CMF columns. DINWEY 145G51 = 900A JIS CCA falls within published N150 range."
+          "note": "145G51R = N150, JIS CCA 780/900/1100 across old/new/CMF columns. DINWEYS 145G51 = 900A JIS CCA falls within published N150 range."
         }
       ],
       "confidence": "HIGH"
     },
     {
-      "battery_id": "DINWEY-JIS-N200-190H52",
+      "battery_id": "DINWEYS-JIS-N200-190H52",
       "dinwey_model": "190H52",
       "product_name": "JIS N200 Heavy-Duty Starting Battery",
       "standard": "JIS",
@@ -102,7 +102,7 @@
       "confidence": "HIGH"
     },
     {
-      "battery_id": "DINWEY-DIN-DIN88-58827",
+      "battery_id": "DINWEYS-DIN-DIN88-58827",
       "dinwey_model": "58827",
       "product_name": "DIN88 Heavy-Duty Starting Battery",
       "standard": "DIN",
@@ -134,7 +134,7 @@
       "confidence": "HIGH"
     },
     {
-      "battery_id": "DINWEY-DIN-DIN100-60038",
+      "battery_id": "DINWEYS-DIN-DIN100-60038",
       "dinwey_model": "60038",
       "product_name": "DIN100 Heavy-Duty Starting Battery",
       "standard": "DIN",
@@ -166,7 +166,7 @@
       "confidence": "HIGH"
     },
     {
-      "battery_id": "DINWEY-BCI-GROUP31",
+      "battery_id": "DINWEYS-BCI-GROUP31",
       "dinwey_model": "Group 31",
       "product_name": "BCI Group 31 (made-to-order)",
       "standard": "BCI",

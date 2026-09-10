@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "title": "DINWEY Battery Cross-Reference Database",
+    "title": "DINWEYS Battery Cross-Reference Database",
     "note": "Cross-reference is built ONLY where reliable evidence exists (dimensions, voltage, capacity, application, terminal from verified factory spec). CCA figures from DIFFERENT test standards (JIS vs EN vs SAE J537) are NOT directly convertible — no numeric CCA conversion is performed here. Exact vs Approximate matches are strictly distinguished.",
     "generated_date": "2026-09-07",
     "last_updated": "2026-09-07",
@@ -84,7 +84,7 @@
     "bcigroup": "BCI Group 31/8D is made-to-order; no JIS/DIN cross-reference is asserted until factory dimension/terminal data is provided."
   },
   "third_party_verification": {
-    "note": "Layer-1 third-party verification: independent manufacturers' published specifications used ONLY to corroborate the JIS group naming and CCA range of DINWEY's native JIS models. These are SPEC CORROBORATION references, NOT vehicle-fitment claims, and NOT cross-standard CCA conversions. Confidence applies to spec corroboration only.",
+    "note": "Layer-1 third-party verification: independent manufacturers' published specifications used ONLY to corroborate the JIS group naming and CCA range of DINWEYS's native JIS models. These are SPEC CORROBORATION references, NOT vehicle-fitment claims, and NOT cross-standard CCA conversions. Confidence applies to spec corroboration only.",
     "sources": [
       {
         "id": "TPL-001",
@@ -106,7 +106,7 @@
         "tier": "T2",
         "accessed_date": "2026-09-07",
         "corroborates": [
-          { "dinwey_model": "145G51", "group": "N150", "cross_ref": "145G51R / N150 / 145G51L / N150L", "cca_jis_values": [900, 1100], "note": "PDF lists 145G51R=N150 with JIS CCA 780/900/1100 across old/new/CMF columns. DINWEY's 145G51 = 900A JIS CCA falls within the published N150 range — spec corroboration, not conversion." }
+          { "dinwey_model": "145G51", "group": "N150", "cross_ref": "145G51R / N150 / 145G51L / N150L", "cca_jis_values": [900, 1100], "note": "PDF lists 145G51R=N150 with JIS CCA 780/900/1100 across old/new/CMF columns. DINWEYS's 145G51 = 900A JIS CCA falls within the published N150 range — spec corroboration, not conversion." }
         ]
       },
       {
@@ -128,7 +128,7 @@
         "tier": "T1",
         "accessed_date": "2026-09-07",
         "corroborates": [
-          { "dinwey_model": null, "group": null, "note": "Hino 300 owner's manual documents the 24V electrical system (vent-cap battery, 24V). Corroborates the INDUSTRY-WIDE rule that Hino trucks are 24V (2x12V series) — a general system fact, not a battery-group fitment claim for any specific DINWEY model." }
+          { "dinwey_model": null, "group": null, "note": "Hino 300 owner's manual documents the 24V electrical system (vent-cap battery, 24V). Corroborates the INDUSTRY-WIDE rule that Hino trucks are 24V (2x12V series) — a general system fact, not a battery-group fitment claim for any specific DINWEYS model." }
         ]
       }
     ]

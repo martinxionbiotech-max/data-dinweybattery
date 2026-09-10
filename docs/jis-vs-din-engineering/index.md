@@ -19,7 +19,7 @@ faq:
 # JIS vs DIN Battery Engineering: A Density Analysis
 
 **TL;DR** — We calculated CCA density (cold-cranking amps per litre) and CCA-per-Ah for the
-DINWEY heavy-duty range. The result: DIN batteries pack roughly **2× the cold-cranking power
+DINWEYS heavy-duty range. The result: DIN batteries pack roughly **2× the cold-cranking power
 per litre** of JIS thick-plate batteries, while JIS batteries trade energy density for deeper
 cycling. It is not "better vs worse" — it is two engineering philosophies.
 
@@ -33,7 +33,7 @@ cycling. It is not "better vs worse" — it is two engineering philosophies.
 
 ## The Calculation
 
-Using the published specifications of the four DINWEY heavy-duty models, we calculated three
+Using the published specifications of the four DINWEYS heavy-duty models, we calculated three
 density metrics:
 
 | Model | Standard | Volume (L) | CCA density (CCA/L) | CCA per Ah | Ah per litre |
@@ -103,5 +103,5 @@ over compactness — the right trade-off for hot, demanding commercial duty.
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/din-heavy-duty/) (DIN heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/din-heavy-duty/) (DIN heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
 

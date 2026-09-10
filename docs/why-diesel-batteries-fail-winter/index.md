@@ -64,7 +64,7 @@ A higher CCA rating means more margin against cold-weather starting failure.
 | Medium-duty truck | 900–1000+ CCA |
 | Heavy-duty semi | 1000–1100+ CCA |
 
-For the coldest climates, choose the highest CCA in your group size. In the DINWEY JIS range,
+For the coldest climates, choose the highest CCA in your group size. In the DINWEYS JIS range,
 the [190H52 (N200)](https://dinweysbattery.com/products/jis-heavy-duty/) provides 1100A CCA.
 
 ## Flooded vs AGM in Winter
@@ -106,4 +106,4 @@ procedure see [how to test a truck battery](../how-to-test-battery/index.md).
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (cold-climate JIS batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (cold-climate JIS batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

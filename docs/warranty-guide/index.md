@@ -116,4 +116,4 @@ date) is usually what the manufacturer needs to process a claim quickly.
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (fleet programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

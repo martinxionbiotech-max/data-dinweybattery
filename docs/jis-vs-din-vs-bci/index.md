@@ -34,7 +34,7 @@ They are not directly interchangeable — always match the standard your vehicle
 
 | JIS heavy-duty (N150) | DIN heavy-duty (DIN88) |
 |---|---|
-| ![DINWEY 145G51 JIS N150 truck battery](../assets/145G51-N150.jpg) | ![DINWEY 58827 DIN88 truck battery](../assets/58827-DIN88.jpg) |
+| ![DINWEYS 145G51 JIS N150 truck battery](../assets/145G51-N150.jpg) | ![DINWEYS 58827 DIN88 truck battery](../assets/58827-DIN88.jpg) |
 
 ## The Three Standards at a Glance
 
@@ -99,7 +99,7 @@ SAE ≈ (DIN × 1.5) + 40
 
 When importing or specifying batteries, match the standard to your target market:
 
-| Your market | Use this standard | DINWEY availability |
+| Your market | Use this standard | DINWEYS availability |
 |---|---|---|
 | Southeast Asia, Middle East, Africa | JIS | Stocked (N150, N200) |
 | Europe, Middle East, North Africa | DIN/EN | Stocked (DIN88, DIN100) |
@@ -133,5 +133,5 @@ When importing or specifying batteries, match the standard to your target market
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
 

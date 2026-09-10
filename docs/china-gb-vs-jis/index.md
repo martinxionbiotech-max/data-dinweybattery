@@ -50,7 +50,7 @@ serviceable design rather than maintenance-free.
 Chinese producers serving the heavy-truck export market commonly pair the GB code with the JIS
 model it replaces:
 
-| GB code | Capacity | Typical CCA | Corresponding JIS class | DINWEY equivalent |
+| GB code | Capacity | Typical CCA | Corresponding JIS class | DINWEYS equivalent |
 |---|---|---|---|---|
 | 6-QW-150 | ~150 Ah | ~900 A | N150 | 145G51 (N150) |
 | 6-QW-200 | ~200 Ah | ~1200 A | N200 | 190H52 (N200) |
@@ -99,5 +99,5 @@ core commercial range — confirming that JIS is the safe specification for thes
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
 

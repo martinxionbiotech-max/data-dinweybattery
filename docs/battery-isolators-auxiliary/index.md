@@ -107,4 +107,4 @@ wiring the two-battery configuration see [24V wiring guide](../24v-wiring-guide/
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet & auxiliary battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (fleet & auxiliary battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

@@ -94,9 +94,9 @@ interchangeable — see [JIS vs DIN vs BCI standards](../jis-vs-din-vs-bci/index
 
 - [Truck Battery Selection Guide](../selection-guide/index.md)
 - [CCA vs reserve capacity](../cca-vs-reserve-capacity/index.md)
-- [DINWEY JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/)
-- [DINWEY BCI batteries (on request)](https://dinweysbattery.com/products/bci-request/)
+- [DINWEYS JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/)
+- [DINWEYS BCI batteries (on request)](https://dinweysbattery.com/products/bci-request/)
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/bci-request/) (BCI on request) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/bci-request/) (BCI on request) or [contact us](https://dinweysbattery.com/contact/) for a quote.

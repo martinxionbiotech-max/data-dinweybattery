@@ -72,11 +72,11 @@ difference compounds into fewer roadside failures and more predictable replaceme
 4. What warranty do you offer?
 5. Do you support OEM / private label?
 
-## About DINWEY
+## About DINWEYS
 
-DINWEY is the truck-battery brand of Chengguang Power Tech Co., Ltd. (founded 2002), a 200,000 m² facility
+DINWEYS is the truck-battery brand of Chengguang Power Tech Co., Ltd. (founded 2002), a 200,000 m² facility
 with 18 automated lines. Certified IATF 16949, ISO 9001 and ISO 45001 — with per-batch documentation and OEM/private-label
-support. See [About DINWEY](https://dinweysbattery.com/about/).
+support. See [About DINWEYS](https://dinweysbattery.com/about/).
 
 ## References
 
@@ -91,4 +91,4 @@ support. See [About DINWEY](https://dinweysbattery.com/about/).
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (fleet programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

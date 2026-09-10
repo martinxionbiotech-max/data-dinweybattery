@@ -109,4 +109,4 @@ charging see [batteries for diesel generators](../diesel-generator/index.md).
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (request a datasheet) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/contact/) (request a datasheet) or [contact us](https://dinweysbattery.com/contact/) for a quote.

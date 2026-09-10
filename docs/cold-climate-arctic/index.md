@@ -71,7 +71,7 @@ and one that cracks its case by the first hard freeze. See
 | Heavy-duty semi | 1000–1100+ CCA |
 
 Always confirm the exact requirement in your vehicle manual, and err on the higher side for
-arctic conditions. Within the DINWEY range the cold-weather step-up is concrete: moving from
+arctic conditions. Within the DINWEYS range the cold-weather step-up is concrete: moving from
 the 145G51 (N150, 900 A CCA) to the 190H52 (N200, 1100 A CCA) buys 200 A of cranking headroom
 — a 22% margin (1100 ÷ 900 ≈ 1.22) — for roughly the same 12 V footprint. That 22% is the
 difference between a start and a no-start when a −25 °C morning saps the battery's available
@@ -96,9 +96,9 @@ often justify the higher cost.
 3. **Use the right oil viscosity** — lighter winter oil reduces cranking effort
 4. **Insulate the battery box** where practical
 
-## DINWEY Cold-Climate Options
+## DINWEYS Cold-Climate Options
 
-The [190H52 (N200)](https://dinweysbattery.com/products/jis-heavy-duty/) leads the DINWEY JIS
+The [190H52 (N200)](https://dinweysbattery.com/products/jis-heavy-duty/) leads the DINWEYS JIS
 range at 1100A CCA — the maximum cold-cranking power for the coldest climates. DIN markets can
 use the [60038 (DIN100)](https://dinweysbattery.com/products/din-heavy-duty/) at 870A EN.
 
@@ -115,4 +115,4 @@ use the [60038 (DIN100)](https://dinweysbattery.com/products/din-heavy-duty/) at
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

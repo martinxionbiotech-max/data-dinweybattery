@@ -4,7 +4,7 @@
 
 ## 任务目标
 
-为 DINWEY 卡车电池项目（dinweysbattery.com）深挖以下 5 个厂商的**商用卡车电池 fitment 证据**，填充 `vehicle-master.json` 中仍为 null 的车型 fitment 字段：
+为 DINWEYS 卡车电池项目（dinweysbattery.com）深挖以下 5 个厂商的**商用卡车电池 fitment 证据**，填充 `vehicle-master.json` 中仍为 null 的车型 fitment 字段：
 
 1. **Fuso**（Fighter / Super Great）
 2. **Mercedes-Benz**（Actros / Atego）
@@ -27,7 +27,7 @@
 
 ## 已填车型（勿重复处理，可作参考）
 
-| 车型 | 组号 | DINWEY 推荐 |
+| 车型 | 组号 | DINWEYS 推荐 |
 |---|---|---|
 | Hino 700 | N150 | 145G51 |
 | MAN TGS/TGX | N150L/N200 | 145G51/190H52 |
@@ -51,9 +51,9 @@
 
 1. **绝不编造 fitment** —— 只有找到 T1/T2 权威来源（官方 fitment guide、Club Assist、Century、RDP、VARTA/Banner/Exide 等正规厂商 fitment 表）才填。
 2. **绝不跨标准 CCA 数值换算**（JIS/EN/SAE/BCI 测量方法不同）。
-3. **绝不说 "Fits X" 绝对化表述** —— 一律标 `confidence: MEDIUM/LOW` + 写「industry reference，非 DINWEY 官方 OEM 确认，需按车型规格复核」。
-4. **DINWEY 无对应型号时**（如 Isuzu 的 N100L），诚实标注「暂无对应型号，需询价」，绝不硬映射。
-5. 字段 `dinwey_recommendation` 只能填 DINWEY 现有 4 个型号之一：145G51(N150)、190H52(N200)、58827(DIN88)、60038(DIN100)。
+3. **绝不说 "Fits X" 绝对化表述** —— 一律标 `confidence: MEDIUM/LOW` + 写「industry reference，非 DINWEYS 官方 OEM 确认，需按车型规格复核」。
+4. **DINWEYS 无对应型号时**（如 Isuzu 的 N100L），诚实标注「暂无对应型号，需询价」，绝不硬映射。
+5. 字段 `dinwey_recommendation` 只能填 DINWEYS 现有 4 个型号之一：145G51(N150)、190H52(N200)、58827(DIN88)、60038(DIN100)。
 
 ## 权威来源优先级
 
@@ -96,7 +96,7 @@ git push "https://martinxionbiotech-max:${TOKEN}@github.com/martinxionbiotech-ma
 🌙 夜间 fitment 深挖完成
 
 新增 fitment 车型 X 个：
-- 车型A → 组号 → DINWEY推荐 [来源，置信度]
+- 车型A → 组号 → DINWEYS推荐 [来源，置信度]
 - ...
 
 仍无 T1 证据：车型C、车型D

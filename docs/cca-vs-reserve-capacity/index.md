@@ -1,5 +1,5 @@
 ---
-description: CCA vs Reserve Capacity for heavy-duty fleets — burst starting power vs sustained runtime, and a dual-metric DINWEY range profile to match duty cycle.
+description: CCA vs Reserve Capacity for heavy-duty fleets — burst starting power vs sustained runtime, and a dual-metric DINWEYS range profile to match duty cycle.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -13,7 +13,7 @@ faq:
   - q: Can a battery have high CCA but low RC?
     a: Yes. A starting-optimised battery can deliver a large burst (high CCA) but drain quickly (low RC). Deep-cycling such a battery to ~50% causes sulfation and premature failure.
   - q: How do I choose between a high-CCA and high-RC battery?
-    a: Match to your duty: cold starts and short runs → prioritize CCA; sleeper cabs, liftgates, frequent engine-off loads → prioritize RC/Ah. The DINWEY range below shows both side by side (e.g. 145G51: 900 A CCA, 220 min RC).
+    a: Match to your duty: cold starts and short runs → prioritize CCA; sleeper cabs, liftgates, frequent engine-off loads → prioritize RC/Ah. The DINWEYS range below shows both side by side (e.g. 145G51: 900 A CCA, 220 min RC).
 ---
 
 # CCA vs Reserve Capacity: A Dual-Metric Guide for Fleets
@@ -21,7 +21,7 @@ faq:
 **TL;DR** — CCA is burst power for cold starts; reserve capacity (RC) is endurance for
 engine-off loads. Most buyers fixate on CCA and under-buy RC — but modern trucks with sleeper
 cabs, liftgates and anti-idling electronics increasingly live and die by reserve capacity.
-Here is a dual-metric profile of the DINWEY range so you can match the battery to the duty.
+Here is a dual-metric profile of the DINWEYS range so you can match the battery to the duty.
 
 ## Key Takeaways
 
@@ -62,9 +62,9 @@ These are **"hotel loads"** — they draw sustained current, not a burst. A batt
 but low RC will be deep-cycled into early sulfation failure. This is the single most overlooked
 failure mode in modern fleets.
 
-## The DINWEY Dual-Metric Profile
+## The DINWEYS Dual-Metric Profile
 
-Using the published specifications of the DINWEY heavy-duty range, here is each model's CCA and
+Using the published specifications of the DINWEYS heavy-duty range, here is each model's CCA and
 reserve-capacity picture together:
 
 | Model | Standard | CCA | Reserve capacity | Best fit |
@@ -111,5 +111,5 @@ as to CCA.
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (fleet battery programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
 

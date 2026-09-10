@@ -1,5 +1,5 @@
 ---
-description: DINWEY Battery Knowledge Hub pillar-cluster content strategy — how the 45 documentation pages map to 5 topical pillars, their clusters, and the internal-link architecture that signals topical authority to Google and AI.
+description: DINWEYS Battery Knowledge Hub pillar-cluster content strategy — how the 45 documentation pages map to 5 topical pillars, their clusters, and the internal-link architecture that signals topical authority to Google and AI.
 type: page
 date_published: 2026-08-30
 date_modified: 2026-08-30
@@ -7,7 +7,7 @@ date_modified: 2026-08-30
 
 # Pillar-Cluster Content Strategy
 
-This is the internal content architecture for the DINWEY Battery Knowledge Hub. It maps every
+This is the internal content architecture for the DINWEYS Battery Knowledge Hub. It maps every
 documentation page to one of **five topical pillars**, each with its supporting cluster pages.
 The goal is a semantic, internally-linked hierarchy that signals topical authority to both
 search engines and AI retrieval systems.

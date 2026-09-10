@@ -1,14 +1,14 @@
-# DINWEY Battery V2.0 — Full Site Audit
+# DINWEYS Battery V2.0 — Full Site Audit
 
 > 生成日期：2026-09-07 · 审计范围：dinweysbattery.com + docs.dinweysbattery.com
-> 依据：DINWEY Battery V2.0 Prompt（SEO + AIO + EEAT + Knowledge Graph Optimization）
+> 依据：DINWEYS Battery V2.0 Prompt（SEO + AIO + EEAT + Knowledge Graph Optimization）
 > 原则：**只审计，不改站**（PHASE 1）
 
 ---
 
 ## 1. Executive Summary
 
-DINWEY 已从"普通中国电池工厂站"升级为一套**内容成熟的双站体系**：主站 19 页（Astro 5）+ 知识库 46 页（MkDocs Material），技术 SEO 基础扎实（robots.txt 放行全部 AI 爬虫、sitemap、canonical、组织/商品/FAQ/Article 全套 JSON-LD、具名作者 Martin Wong）。
+DINWEYS 已从"普通中国电池工厂站"升级为一套**内容成熟的双站体系**：主站 19 页（Astro 5）+ 知识库 46 页（MkDocs Material），技术 SEO 基础扎实（robots.txt 放行全部 AI 爬虫、sitemap、canonical、组织/商品/FAQ/Article 全套 JSON-LD、具名作者 Martin Wong）。
 
 但对照 V2.0 的终极目标——**Truck Battery OEM & Fitment Intelligence Platform**——当前存在一个**结构性缺口**：
 
@@ -38,7 +38,7 @@ DINWEY 已从"普通中国电池工厂站"升级为一套**内容成熟的双站
 
 ## 3. Biggest Risks（最大风险）
 
-1. **🔴 无结构化数据层** —— 一旦竞品（Songli/Tianneng/Ritar）跟进 fitment/cross-reference 页面，DINWEY 的"反商品化知识"优势会被数据层反超。这是最大的时间窗口风险。
+1. **🔴 无结构化数据层** —— 一旦竞品（Songli/Tianneng/Ritar）跟进 fitment/cross-reference 页面，DINWEYS 的"反商品化知识"优势会被数据层反超。这是最大的时间窗口风险。
 2. **🟠 车型适配 = 法律/信任风险** —— V2.0 Prompt 明确要求：无法验证的适配**必须写 "Potential battery configuration — verify before replacement"**。若过早推 fitment 页而无真实数据，反而伤 EEAT。
 3. **🟠 本地代码 vs 线上仓储历史分叉** —— 之前 local site 落后 19 commits 的分叉事故，需持续用 `git status` 守护（现已对齐 87d4969 / 6ef7c6f）。
 4. **🟡 磁盘 92%（3.1G 余）** —— 后续 build/node_modules/数据文件可能触发空间压力。
@@ -169,7 +169,7 @@ DINWEY 已从"普通中国电池工厂站"升级为一套**内容成熟的双站
 
 当前**没有**程序化 SEO 垃圾页（✅ 好）。但未来建立 fitment/车型页时，必须严守 V2.0 规则：
 
-- 每个可索引车型页必须 ≥10 项真实内容（车型识别/电气系统/电池配置/规格/适配证据/DINWEY 推荐/兼容警告/来源/关联电池/关联指南）
+- 每个可索引车型页必须 ≥10 项真实内容（车型识别/电气系统/电池配置/规格/适配证据/DINWEYS 推荐/兼容警告/来源/关联电池/关联指南）
 - **只有 brand/model 变化、数据为空** → **NOINDEX**
 - 无法验证的适配 → 写 "Potential battery configuration — verify before replacement"
 
@@ -208,7 +208,7 @@ DINWEY 已从"普通中国电池工厂站"升级为一套**内容成熟的双站
 - 无车辆适配页
 - 无 AIO 结构（Direct Answer/FAQ schema）
 
-**DINWEY 的差异化机会**（V2.0 护城河）：
+**DINWEYS 的差异化机会**（V2.0 护城河）：
 1. 精确型号实体页（145G51/190H52/58827/60038）—— 竞品零覆盖
 2. Vehicle Fitment 高价值车型（Hino 500/Volvo FH 等）
 3. Cross-Reference 结构化表（严格 Exact/Approximate）
@@ -288,7 +288,7 @@ docs.dinweysbattery.com（知识库）       # 重构为 Knowledge Base 7 大分
 - ✅ 建立站点架构图
 - ✅ 提取现有电池规格
 - ✅ 审计 Schema / 内链 / EEAT / AIO / 技术 SEO
-- ✅ 产出本报告 `audit/DINWEY-BATTERY-V2-AUDIT.md`
+- ✅ 产出本报告 `audit/DINWEYS-BATTERY-V2-AUDIT.md`
 
 **下一阶段（PHASE 2-3）**：建立 Entity Model + Battery Master DB，需等待你确认是否继续，并**提供关键真实数据**（见下）。
 

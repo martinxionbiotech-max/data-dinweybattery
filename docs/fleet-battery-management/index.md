@@ -81,9 +81,9 @@ replacement is always cheaper than an unscheduled breakdown.
 
 For the technology comparison see [AGM vs flooded](../agm-vs-flooded/index.md).
 
-## DINWEY Fleet Support
+## DINWEYS Fleet Support
 
-DINWEY supports fleet operators with batch-consistent supply, full per-batch documentation
+DINWEYS supports fleet operators with batch-consistent supply, full per-batch documentation
 (CCA test data, certificate of analysis, MSDS) and OEM/private-label programs. See
 [Fleet & OEM solutions](https://dinweysbattery.com/products/fleet/).
 
@@ -112,4 +112,4 @@ DINWEY supports fleet operators with batch-consistent supply, full per-batch doc
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (fleet programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (fleet programs) or [contact us](https://dinweysbattery.com/contact/) for a quote.

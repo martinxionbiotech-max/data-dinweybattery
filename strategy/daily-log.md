@@ -1,4 +1,4 @@
-# DINWEY Battery — Daily Log
+# DINWEYS Battery — Daily Log
 
 ## 2026-08-30
 - 项目启动：MASTER-PROMPT.md + WRITING_QUEUE.md + project-status.md 建立。
@@ -28,7 +28,7 @@
 - 踩坑：产品页脚本 f-string 双大括号 `{{}}` 语法错 → 改 % 拼接；子目录页 import 路径层级错（about/contact 等需 ../../，产品页需 ../../../，ProductLayout 内部用 ./）
 
 ### 内容对齐工厂站（20:34 用户指令，重要！）
-用户明确：**DINWEY 站内容参考 chengguangenergy.com 同一个工厂**。已抓取工厂站真实数据：
+用户明确：**DINWEYS 站内容参考 chengguangenergy.com 同一个工厂**。已抓取工厂站真实数据：
 
 **真实认证清单（来自 quality-certifications 页）：**
 - IATF 16949 — Automotive QMS ✅ Certified
@@ -47,7 +47,7 @@
   - JIS: 190H52 (N200) = 200Ah, 1100A CCA, 520×278×220mm
   - DIN: 58827 (DIN88) = 88Ah, 800A EN
   - DIN: 60038 (DIN100) = 100Ah, 870A EN
-- ⚠️ 之前 DINWEY 站主打 BCI Group 31/8D 是**错的**，需改为 JIS/DIN 为主、BCI 标按需
+- ⚠️ 之前 DINWEYS 站主打 BCI Group 31/8D 是**错的**，需改为 JIS/DIN 为主、BCI 标按需
 
 ### 对齐行动（待执行）
 - [x] BaseLayout schema 加 hasCredential（6 认证）+ 真实规模
@@ -60,7 +60,7 @@
 ### Phase 1 内容生产全部完成（21:00，用户要求提前赶工）
 用户 20:46 要求"等夜间自动跑，并且尽可能在 8 点前多完成一些工作，提前完成全部工作任务"。
 夜间 cron 仍会照常跑（作为后备），但我已手动提前完成 Phase 1：
-- 知识库 schema 模板升级（复用 WikiQigong 模式，改造成 DINWEY 实体 + 团队署名不编造个人专家）
+- 知识库 schema 模板升级（复用 WikiQigong 模式，改造成 DINWEYS 实体 + 团队署名不编造个人专家）
 - 写了 23 篇新文章（P0 5 篇 + P1 18 篇），加上原有 3 pillar 骨架 = 27 文档页
 - 主站 llms.txt 更新为真实 JIS/DIN 产品线 + 首页加知识库内链
 - 子站 build 0 error，JSON-LD 103 块全有效（24 FAQPage + 24 TechArticle + 1 HowTo）
@@ -261,11 +261,11 @@
 
 已查证 4 个 T1/T2 级来源并写入 cross-reference.json + battery-master.json：
 - TPL-001 [T1] 南都电源官网卡车电池对照表 — 佐证 190H52/N200=200Ah、G51 系列=重卡启动标准
-- TPL-002 [T2] 型号对照 PDF — 145G51R=N150 JIS CCA 780/900/1100，DINWEY 900A 落在范围内
+- TPL-002 [T2] 型号对照 PDF — 145G51R=N150 JIS CCA 780/900/1100，DINWEYS 900A 落在范围内
 - TPL-003 [T2] 古河/Zeetex/Century — 佐证 N150/N200 为重型燃油卡车/客车启动电池
 - TPL-004 [T1] Hino 300 车主手册 — 佐证「重卡 24V=2×12V 串联」通用系统规律（非电池组适配）
 
-关键边界：这些数据主要覆盖中国国产重卡（东风/德龙/重汽），非 DINWEY 主打的日系/欧系。只写通用规律 + 规格佐证，不写 "Fits X"。
+关键边界：这些数据主要覆盖中国国产重卡（东风/德龙/重汽），非 DINWEYS 主打的日系/欧系。只写通用规律 + 规格佐证，不写 "Fits X"。
 
 ## 2026-09-07 Layer 1b — 日系/欧系 fitment T1 权威证据（B 阶段）
 
@@ -275,8 +275,8 @@
 1. **Club Assist《Commercial Fitment & Cross-Reference Guide》**（澳洲商用电池权威，PDF）
 2. **Century Batteries《Selection Guide》**（澳洲，PDF）
 
-### 关键 fitment 证据（已写入 vehicle-master.json，标 MEDIUM，非 DINWEY 官方确认）
-| 车型 | 年份 | JIS/DIN 组号 | DINWEY 推荐 |
+### 关键 fitment 证据（已写入 vehicle-master.json，标 MEDIUM，非 DINWEYS 官方确认）
+| 车型 | 年份 | JIS/DIN 组号 | DINWEYS 推荐 |
 |---|---|---|---|
 | Hino 700 (FS/FY/SH/SS) | 2004-2016 | N150 | 145G51 (N150) ✅ 双源交叉印证 |
 | MAN TGS (标准 222mm) | 2007-on | N150L | 145G51 |
@@ -288,11 +288,11 @@
 ### 关键洞察
 - **欧系重卡(MAN)实际供货用 JIS N 组号**（N150/N200），非纯 DIN——反映中东/非洲市场混用标准
 - **Hino 700 = N150** 由 Club Assist + Century 两个独立 T1 来源一致确认，是最高置信 fitment
-- MAN TGM 2014+ 直接列出 DINWEY 自己的型号 60038，是精确型号级证据
+- MAN TGM 2014+ 直接列出 DINWEYS 自己的型号 60038，是精确型号级证据
 
 ### 严谨边界
 - 仅填充有 T1 证据的 3 个车型（HINO-700/MAN-TGS/MAN-TGX），其余 13 车型仍 null
-- 全部标 MEDIUM + industry reference，明确「非 DINWEY 官方 OEM 确认，仍需按车型规格复核」
+- 全部标 MEDIUM + industry reference，明确「非 DINWEYS 官方 OEM 确认，仍需按车型规格复核」
 - 未填充：Isuzu F/Giga、Fuso、Volvo FH/FM、Scania R、MB、DAF、Iveco、UD（缺 T1 证据）
 
 ## 2026-09-07 Layer 1b 续 — 扩展 Volvo/Scania/Isuzu fitment（+4 车型，共 7 车型）
@@ -300,7 +300,7 @@
 第二轮深挖，新增第 3 个 T1 权威来源 **RDP Battery Fitment Guide**（truckpartsuperstore.com.au，与 Club Assist 同类），并完整提取 Club Assist PDF 的 Volvo/Scania/Isuzu 段落。
 
 ### 新填 fitment 的 4 个车型
-| 车型 | 组号 | DINWEY 推荐 |
+| 车型 | 组号 | DINWEYS 推荐 |
 |---|---|---|
 | Volvo FM | N150(≤2013)/N200(2014+) | 145G51 / 190H52 |
 | Volvo FH | N150/N200 | 145G51 / 190H52 |
@@ -309,7 +309,7 @@
 
 ### 关键发现
 1. **欧系重型卡车世代规律清晰**：Volvo FM/FH + Scania R 都是 ≤2013 = N150(145G51)，2014+/Euro VI = N200(190H52)。反映电气系统升级（更大容量）趋势。
-2. **Isuzu 现款用 N100L**：DINWEY 产品线缺口。Isuzu F 系列(FRR/FSR/FSD 现款)普遍 JIS N100L，DINWEY 无此型号，诚实标注「需询价」，未硬映射到 N150。
+2. **Isuzu 现款用 N100L**：DINWEYS 产品线缺口。Isuzu F 系列(FRR/FSR/FSD 现款)普遍 JIS N100L，DINWEYS 无此型号，诚实标注「需询价」，未硬映射到 N150。
 3. **欧洲原装 vs 澳洲组装差异**：Volvo 欧洲原装车用 DIN 规格(MFN150A)，澳洲组装用 JIS N150。这是标准混用的实证。
 
 ### 状态
@@ -322,7 +322,7 @@
 深挖 5 厂商卡车电池 fitment，唯一 T1 权威来源 Club Assist《Commercial Fitment & Cross-Reference Guide》（clubassist.com.au PDF），辅以 eBay/Battery Brands Warehouse T2 佐证。
 
 ### 新填 7 车型（累计 fitment 车型 7→9 覆盖唯一 model，见下）
-| 车型 | 组号 | DINWEY 推荐 | 置信 |
+| 车型 | 组号 | DINWEYS 推荐 | 置信 |
 |---|---|---|---|
 | MB Actros | N150(1996-13)/N200(H/D 14+) | 145G51 / 190H52 | MEDIUM |
 | MB Atego | N150 std / N200 H/D | 145G51 / 190H52 | MEDIUM |
@@ -334,14 +334,14 @@
 
 ### 关键发现
 1. **欧系重卡世代规律再现**：MB Actros/Atego、DAF XF、Iveco Stralis 都是标准 N150、重载/H-D 选项 N200、2014+ Euro VI/EEV 升级 N200 —— 与 Volvo/Scania/MAN 完全一致。
-2. **Stralis 分型差异**：ATi/460 用 N150→N200，但 AD/AS-L/AT 变体用更小的 HCC27SC(D31/95D31) 组 —— DINWEY 无此型号，标准诚实标注。
+2. **Stralis 分型差异**：ATi/460 用 N150→N200，但 AD/AS-L/AT 变体用更小的 HCC27SC(D31/95D31) 组 —— DINWEYS 无此型号，标准诚实标注。
 3. **Fuso Fighter 跨轻重**：轻中(FK/FM/FN)=55D23R/80D26R，重(FP/FS/FV)=N150。Super Great 属重车系，推断 N150（标 LOW）。
 4. **UD Quon**：Club Assist 无 Quon 专名，但有 U.D. 重车 CK/CW/GK/GW=N150，Battery Brands Warehouse T2 直接列 Quon=N150（标 LOW）。
 
 ### 红线遵守
-- 全部标 MEDIUM/LOW + industry reference，明确「非 DINWEY 官方 OEM 确认，需按车型规格复核」
+- 全部标 MEDIUM/LOW + industry reference，明确「非 DINWEYS 官方 OEM 确认，需按车型规格复核」
 - 无跨标准 CCA 换算；无「Fits X」绝对化
-- Isuzu-Giga、Hino-500、Iveco AD/AS-L、Fuso 轻中变体无 DINWEY 对应 → 诚实标「暂无对应/需询价」
+- Isuzu-Giga、Hino-500、Iveco AD/AS-L、Fuso 轻中变体无 DINWEYS 对应 → 诚实标「暂无对应/需询价」
 - dinwey_recommendation 仅用 4 个型号（145G51/190H52/58827/60038）
 
 ### 仍无 T1 证据（保持 null）
@@ -351,19 +351,19 @@
 
 上次 2026-09-08 夜间已填 Fuso/MB/DAF/Iveco/UD 共 7 车型，但仍剩 2 车型 fitment 为 null：ISUZU-GIGA、HINO-500。今晚核对后发现 Club Assist PDF 其实**包含这两个车型的 T1 证据**（上次深挖时遗漏），已补齐：
 
-| 车型 | 组号 | DINWEY 推荐 | 置信 |
+| 车型 | 组号 | DINWEYS 推荐 | 置信 |
 |---|---|---|---|
 | Isuzu Giga (CXZ/CXY/EXD/EXY, 1994-on) | N150 | 145G51 (N150) | MEDIUM |
 | Hino 500 (轻 FC/FD/FE/FG=55D23L·75D23L；中重 GH/GT/FL=N120) | 55D23L/75D23L/N120 | 暂无对应 (需询价) | MEDIUM |
 
 ### 关键发现
-1. **Isuzu Giga = N150**：Club Assist 列出 CXY/CXZ GIGA 1994-on、EXD/EXY GIGA、GIGA 455hp、GIGA GXZ 415hp 全部 = N150（RDPN150/MF150/SN150/HCC150）。与 Isuzu F 系列(N100L)不同，Giga 是重车 N150，DINWEY 145G51 匹配。
-2. **Hino 500 分组跨轻重**：轻(FC/FD/FE/FG)=55D23L/75D23L，中重(GH/GT/FL/FD crew H/D)=N120。DINWEY 4 型号(145G51/190H52/58827/60038)均无 N120 或 55D23L 对应 → 诚实标注「暂无对应，需询价」。
+1. **Isuzu Giga = N150**：Club Assist 列出 CXY/CXZ GIGA 1994-on、EXD/EXY GIGA、GIGA 455hp、GIGA GXZ 415hp 全部 = N150（RDPN150/MF150/SN150/HCC150）。与 Isuzu F 系列(N100L)不同，Giga 是重车 N150，DINWEYS 145G51 匹配。
+2. **Hino 500 分组跨轻重**：轻(FC/FD/FE/FG)=55D23L/75D23L，中重(GH/GT/FL/FD crew H/D)=N120。DINWEYS 4 型号(145G51/190H52/58827/60038)均无 N120 或 55D23L 对应 → 诚实标注「暂无对应，需询价」。
 
 ### 红线遵守
-- 全部标 MEDIUM + industry reference，明确「非 DINWEY 官方 OEM 确认，需按车型规格复核」
+- 全部标 MEDIUM + industry reference，明确「非 DINWEYS 官方 OEM 确认，需按车型规格复核」
 - 无跨标准 CCA 换算；无「Fits X」绝对化
-- Hino 500 无 DINWEY 对应型号（N120/55D23L 均不在 4 型号内）→ 诚实标「需询价」，未硬映射
+- Hino 500 无 DINWEYS 对应型号（N120/55D23L 均不在 4 型号内）→ 诚实标「需询价」，未硬映射
 - dinwey_recommendation 仅用现有 4 型号
 
 ### 结果
@@ -384,4 +384,4 @@
 ### 结论
 - 本任务 5 厂商 fitment 深挖**已在先前期完成**，今晚无需新增 fitment 证据，无需新 commit（fitment 数据已在远程）。
 - 仅完成本地↔远程仓库同步（拉取 rename commit），无内容缺口。
-- 红线持续遵守：全部标 MEDIUM/LOW + industry reference，无跨标准 CCA 换算，无「Fits X」绝对化，无 DINWEY 对应型号处诚实标「需询价」。
+- 红线持续遵守：全部标 MEDIUM/LOW + industry reference，无跨标准 CCA 换算，无「Fits X」绝对化，无 DINWEYS 对应型号处诚实标「需询价」。

@@ -12,8 +12,8 @@ faq:
     a: It depends on the application. Calcium's ~1–3% monthly self-discharge suits low-maintenance conventional vehicles; antimony's 8–15% self-discharge is tolerated for heavy-duty trucks that endure vibration and deeper discharge.
   - q: What is a maintenance-free battery made of?
     a: Maintenance-free batteries typically use calcium or calcium-tin grid alloys, whose ~1–3% monthly self-discharge and low water loss mean the battery rarely needs topping up.
-  - q: Which grid alloy does DINWEY use?
-    a: DINWEY heavy-duty batteries (like the JIS 145G51 and 190H52) use Pb-Sb thick-plate construction for vibration and deep-cycle tolerance in commercial vehicles — accepting the higher self-discharge because the battery stays charged in service.
+  - q: Which grid alloy does DINWEYS use?
+    a: DINWEYS heavy-duty batteries (like the JIS 145G51 and 190H52) use Pb-Sb thick-plate construction for vibration and deep-cycle tolerance in commercial vehicles — accepting the higher self-discharge because the battery stays charged in service.
 ---
 
 # Calcium vs Antimony Lead-Acid for Trucks
@@ -28,7 +28,7 @@ why heavy-duty truck batteries often use them.
 1. **Antimony's "worse" specs are exactly why trucks use it** — 8–15% a month self-discharge (vs ~1–3% for Ca-Ca) and higher water loss are the price of Pb-Sb's vibration and deep-cycle tolerance, so a spec sheet ranking Ca-Ca as cleaner misses the point.
 2. **"Maintenance-free" can mean less durable on a truck** — Ca-Ca's ~1–3% monthly self-discharge buys convenience, but its grid is more brittle under vibration and less tolerant of deep discharge; the sealed label is not the same as long-lived.
 3. **The alloy choice is a 2-property trade, not a ranking** — antimony buys mechanical strength and deep-cycle survival at the cost of 8–15% monthly self-discharge; calcium buys ~1–3% self-discharge and stable storage at the cost of brittleness. Across all 4 alloys in the table, there is no winner.
-4. **DINWEY's Pb-Sb thick-plate 145G51 and 190H52 are deliberate** — these heavy-duty JIS models use lead-antimony grids because commercial vibration and cycling are the real killers, even though the 8–15% monthly self-discharge means a maintainer matters more.
+4. **DINWEYS's Pb-Sb thick-plate 145G51 and 190H52 are deliberate** — these heavy-duty JIS models use lead-antimony grids because commercial vibration and cycling are the real killers, even though the 8–15% monthly self-discharge means a maintainer matters more.
 5. **The trade-off is not a binary choice** — a well-alloyed Pb-Sb battery with a sealed or low-gassing design can cut the 8–15% monthly self-discharge while keeping antimony's strength, so "serviceable vs maintenance-free" is a spectrum.
 
 ## What the Grid Alloy Does
@@ -73,7 +73,7 @@ and cycling are the real killers.
 - **Cons** — higher water consumption, higher self-discharge
 - **Best for** — heavy-duty trucks, buses, generators
 
-This is why DINWEY heavy-duty batteries (like the JIS 145G51 and 190H52) use **Pb-Sb
+This is why DINWEYS heavy-duty batteries (like the JIS 145G51 and 190H52) use **Pb-Sb
 thick-plate** construction — it stands up to the vibration and duty cycles of commercial
 vehicles.
 
@@ -103,4 +103,4 @@ offers a lower-maintenance, economical option.
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

@@ -115,4 +115,4 @@ For a full picture of how AGM compares on these same dimensions, see
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/fleet/) (EFB & AGM batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/fleet/) (EFB & AGM batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

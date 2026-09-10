@@ -5,7 +5,7 @@ date_published: 2026-08-30
 date_modified: 2026-08-31
 faq:
   - q: What group size battery does my truck need?
-    a: Match the group size printed on your existing battery or in the vehicle manual. Heavy-duty trucks in JIS markets commonly use 145G51 (N150) or 190H52 (N200); European trucks use DIN88 or DIN100; North American trucks use BCI Group 31 (available on request from DINWEY).
+    a: Match the group size printed on your existing battery or in the vehicle manual. Heavy-duty trucks in JIS markets commonly use 145G51 (N150) or 190H52 (N200); European trucks use DIN88 or DIN100; North American trucks use BCI Group 31 (available on request from DINWEYS).
   - q: How much CCA does a diesel truck need?
     a: Light trucks and pickups typically need 600–800 CCA, medium-duty trucks 800–1000 CCA, and heavy-duty semi trucks 850–1100+ CCA. These are general ranges — confirm the exact requirement in your vehicle manual and on the original battery label.
   - q: Is my truck 12V or 24V?
@@ -20,7 +20,7 @@ faq:
 
 # Truck Battery Complete Guide
 
-![DINWEY 190H52 N200 heavy-duty truck battery](../assets/190H52-N200.jpg)
+![DINWEYS 190H52 N200 heavy-duty truck battery](../assets/190H52-N200.jpg)
 
 **TL;DR** — Choose a truck starting battery by matching four things: (1) the group size that
 fits your tray, (2) the CCA your diesel engine needs, (3) the system voltage (12V or 24V), and
@@ -100,7 +100,7 @@ CCA is less critical and capacity (Ah) plus heat tolerance matter more.
 
 *Data sourced from Chengguang Power Tech Co., Ltd. technical documentation (IATF 16949 quality system).*
 
-## DINWEY Heavy-Duty Models at a Glance
+## DINWEYS Heavy-Duty Models at a Glance
 
 | Model | Standard | Voltage | Capacity | CCA | RC | Dimensions (mm) |
 |---|---|---|---|---|---|---|

@@ -106,8 +106,8 @@ batteries imbalanced. For charge voltages, rates and multi-battery practices, se
 - [12V vs 24V systems](../12v-vs-24v/index.md)
 - [Battery isolators & auxiliary banks](../battery-isolators-auxiliary/index.md)
 - [Truck Battery Complete Guide](../complete-guide/index.md)
-- [DINWEY 24V systems](https://dinweysbattery.com/products/24v/)
+- [DINWEYS 24V systems](https://dinweysbattery.com/products/24v/)
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/24v/) (24V battery systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/24v/) (24V battery systems) or [contact us](https://dinweysbattery.com/contact/) for a quote.

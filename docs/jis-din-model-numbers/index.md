@@ -81,7 +81,7 @@ fixed offset to add or subtract. DIN runs the opposite game: **DIN88 = 88 Ah** a
 a rough size index (accurate only to about ±7%), and read DIN capacity from the "DINxx" name,
 never the type number.
 
-## DINWEY Model Reference
+## DINWEYS Model Reference
 
 | Model | Standard | Type number | Capacity | CCA | Dimensions (mm) |
 |---|---|---|---|---|---|
@@ -107,4 +107,4 @@ For the full comparison within each standard, see
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS heavy-duty batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

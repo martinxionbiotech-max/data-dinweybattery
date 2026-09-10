@@ -63,9 +63,9 @@ who compares a competitor's CA number against another's CCA number is comparing 
 oranges — always normalize to the same standard and the same temperature. For the full CCA
 explanation see [what is CCA](../what-is-cca/index.md).
 
-## Example: Reading a DINWEY Datasheet
+## Example: Reading a DINWEYS Datasheet
 
-A DINWEY 190H52 (N200) datasheet shows:
+A DINWEYS 190H52 (N200) datasheet shows:
 
 | Field | Value |
 |---|---|
@@ -102,4 +102,4 @@ For terminal and polarity detail see
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/contact/) (request a full datasheet) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/contact/) (request a full datasheet) or [contact us](https://dinweysbattery.com/contact/) for a quote.

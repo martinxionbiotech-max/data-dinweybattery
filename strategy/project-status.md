@@ -1,4 +1,4 @@
-# DINWEY Battery — Project Status
+# DINWEYS Battery — Project Status
 
 > 最后更新：2026-09-06 03:30 · 状态：内容生产 + SEO/AIO/EEAT + Pillar-Cluster 全部完成，主站扩展至 19 页（含行业应用 + 区域市场页），作者已升级为具名 Martin Wong，待部署 + 真实案例（内容无缺口，待用户决策部署/案例/外链）
 

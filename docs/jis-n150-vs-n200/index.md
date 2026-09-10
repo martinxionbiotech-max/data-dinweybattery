@@ -11,9 +11,9 @@ faq:
   - q: Are N150 and N200 interchangeable?
     a: No. They have different dimensions (508×222×212mm vs 520×278×220mm) and terminal positioning. A battery must physically fit the tray — always match the group size.
   - q: What CCA does an N150 provide?
-    a: The DINWEY 145G51 (N150) provides 900A CCA (SAE) — suitable for many heavy-duty diesel engines.
+    a: The DINWEYS 145G51 (N150) provides 900A CCA (SAE) — suitable for many heavy-duty diesel engines.
   - q: What CCA does an N200 provide?
-    a: The DINWEY 190H52 (N200) provides 1100A CCA (SAE) — the highest in the JIS truck range, suited to large diesel engines and cold climates.
+    a: The DINWEYS 190H52 (N200) provides 1100A CCA (SAE) — the highest in the JIS truck range, suited to large diesel engines and cold climates.
 ---
 
 # JIS N150 vs N200: Which Heavy-Duty Truck Battery?
@@ -35,13 +35,13 @@ lighter, cheaper and enough for most heavy trucks.
 
 | N150 (145G51) | N200 (190H52) |
 |---|---|
-| ![DINWEY 145G51 JIS N150 truck battery](../assets/145G51-N150.jpg) | ![DINWEY 190H52 JIS N200 truck battery](../assets/190H52-N200.jpg) |
+| ![DINWEYS 145G51 JIS N150 truck battery](../assets/145G51-N150.jpg) | ![DINWEYS 190H52 JIS N200 truck battery](../assets/190H52-N200.jpg) |
 
 ## What "N150" and "N200" Mean
 
 In the JIS (Japanese Industrial Standards) system, large commercial batteries are identified
 by a model code where the number roughly tracks size and capacity. The "N" prefix denotes a
-large heavy-duty battery. DINWEY manufactures these as the 145G51 and 190H52 models.
+large heavy-duty battery. DINWEYS manufactures these as the 145G51 and 190H52 models.
 
 | Specification | 145G51 (N150) | 190H52 (N200) |
 |---|---|---|
@@ -109,5 +109,5 @@ See the [12V vs 24V guide](../12v-vs-24v/index.md).
 ## Related
 
 - [Truck Battery Complete Guide](../complete-guide/index.md)
-- [DINWEY JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/)
+- [DINWEYS JIS heavy-duty batteries](https://dinweysbattery.com/products/jis-heavy-duty/)
 - [12V vs 24V electrical systems](../12v-vs-24v/index.md)

@@ -1,5 +1,5 @@
 ---
-description: CCA requirements by truck class — light, medium and heavy truck cold-cranking amp ranges by class, fuel type and climate, with DINWEY cross-reference.
+description: CCA requirements by truck class — light, medium and heavy truck cold-cranking amp ranges by class, fuel type and climate, with DINWEYS cross-reference.
 type: article
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -88,7 +88,7 @@ highest CCA available in your group size. For the full cold-weather picture see
 [CCA safety margin & climate](../cca-safety-margin/index.md) and
 [battery for cold & arctic](../cold-climate-arctic/index.md).
 
-## DINWEY Heavy-Duty CCA Coverage
+## DINWEYS Heavy-Duty CCA Coverage
 
 | Model | Standard | CCA | Suits |
 |---|---|---|---|
@@ -121,4 +121,4 @@ importers mixing JIS, DIN and BCI stock — see
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS N150/N200 batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/products/jis-heavy-duty/) (JIS N150/N200 batteries) or [contact us](https://dinweysbattery.com/contact/) for a quote.

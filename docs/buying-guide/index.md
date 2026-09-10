@@ -58,7 +58,7 @@ AGM earns its premium in harsh duty. For the full comparison see
 
 ## Step 3: Match the Market Standard
 
-| Your market | Standard | DINWEY availability |
+| Your market | Standard | DINWEYS availability |
 |---|---|---|
 | Asia / Africa / Middle East | JIS | Stocked (N150, N200) |
 | Europe / Middle East / North Africa | DIN | Stocked (DIN88, DIN100) |
@@ -101,4 +101,4 @@ buy from a documented supplier.
 
 ## Find the Right Battery
 
-Need a specific model or datasheet? Browse the [DINWEY product range](https://dinweysbattery.com/selection-tool/) (battery selection tool) or [contact us](https://dinweysbattery.com/contact/) for a quote.
+Need a specific model or datasheet? Browse the [DINWEYS product range](https://dinweysbattery.com/selection-tool/) (battery selection tool) or [contact us](https://dinweysbattery.com/contact/) for a quote.

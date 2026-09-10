@@ -1,5 +1,5 @@
 ---
-description: About the DINWEY Knowledge Hub — official truck & heavy-duty battery technical documentation, editorial standards, and how to contact DINWEY.
+description: About the DINWEYS Knowledge Hub — official truck & heavy-duty battery technical documentation, editorial standards, and how to contact DINWEYS.
 type: page
 date_published: 2026-08-30
 date_modified: 2026-08-31
@@ -7,17 +7,17 @@ date_modified: 2026-08-31
 
 # About This Knowledge Hub
 
-The **DINWEY Battery Knowledge Hub** is the official technical documentation
+The **DINWEYS Battery Knowledge Hub** is the official technical documentation
 sub-site of [dinweysbattery.com](https://dinweysbattery.com).
 
 ## Who We Are
 
-DINWEY is the truck and heavy-duty starting-battery brand of **Chengguang Power Tech Co., Ltd.**,
+DINWEYS is the truck and heavy-duty starting-battery brand of **Chengguang Power Tech Co., Ltd.**,
 a battery OEM factory founded in 2002.
 
 | Fact | Detail |
 |---|---|
-| Brand | DINWEY |
+| Brand | DINWEYS |
 | Parent company | Chengguang Power Tech Co., Ltd. (founded 2002) |
 | Facility | 200,000 m², Jinzhou City, Shijiazhuang, Hebei, China |
 | Production | 18 automated lines |

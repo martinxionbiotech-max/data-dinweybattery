@@ -1,14 +1,14 @@
-# DINWEY Battery Knowledge Hub — llms.txt
+# DINWEYS Battery Knowledge Hub — llms.txt
 
-> Official technical documentation for DINWEY truck and heavy-duty starting batteries.
+> Official technical documentation for DINWEYS truck and heavy-duty starting batteries.
 > This knowledge hub is the documentation sub-site of dinweysbattery.com.
 
 ## About This Site
 
-- **Site**: DINWEY Battery Knowledge Hub
+- **Site**: DINWEYS Battery Knowledge Hub
 - **Domain**: https://docs.dinweysbattery.com
 - **Parent site**: https://dinweysbattery.com
-- **Brand**: DINWEY (truck & heavy-duty starting batteries)
+- **Brand**: DINWEYS (truck & heavy-duty starting batteries)
 - **Parent company**: Chengguang Power Tech Co., Ltd. (founded 2002)
 
 ## What We Document
