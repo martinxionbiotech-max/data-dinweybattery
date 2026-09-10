@@ -1,5 +1,5 @@
 ---
-description: About the DINWEY Knowledge Hub — official truck & heavy-duty battery technical documentation, editorial standards, and how to contact the DINWEY OEM factory.
+description: About the DINWEY Knowledge Hub — official truck & heavy-duty battery technical documentation, editorial standards, and how to contact DINWEY.
 type: page
 date_published: 2026-08-30
 date_modified: 2026-08-31
