@@ -22,7 +22,7 @@ a battery OEM factory founded in 2002.
 | Facility | 200,000 m², Jinzhou City, Shijiazhuang, Hebei, China |
 | Production | 18 automated lines |
 | Focus | Truck / heavy-duty / commercial-vehicle starting batteries (SLI) |
-| Certifications | IATF 16949, ISO 9001:2015, ISO 45001:2018 |
+| Certifications | IATF 16949, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, OHSAS 18001, CE Marking |
 | Contact | martin@dinweys.com · WhatsApp +86 13323237275 |
 
 ## What This Hub Is For
@@ -55,6 +55,8 @@ distributors and buyers specify the right truck battery:
 - **Fleet managers** — see [Fleet Battery Management](../fleet-battery-management/index.md).
 - **Engineers** — see [Battery Standards](../jis-vs-din-vs-bci/index.md) and
   [12V vs 24V](../12v-vs-24v/index.md).
+- **Verifying the factory** — see [How DINWEYS Batteries Are Made & Tested](../factory-manufacturing/index.md)
+  and [How to Audit a Battery Factory](../how-to-audit-battery-factory/index.md).
 
 ## Contact
 
