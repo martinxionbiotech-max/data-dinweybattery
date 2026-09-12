@@ -72,7 +72,9 @@ in a private-label program.
 - **Consistency** — per-batch quality under IATF 16949
 
 For how to evaluate a factory before committing, see
-[truck battery brands compared](../brands-compared/index.md).
+[how to audit a battery factory](../how-to-audit-battery-factory/index.md). For the full
+end-to-end order process, see
+[truck battery OEM procurement process](../oem-procurement-process/index.md).
 
 ## About the DINWEYS OEM Program
 
@@ -83,6 +85,8 @@ standards with MOQ of 1 × 20ft container and lead time of 20–45 days. Contact
 
 ## Related
 
+- [How to audit a battery factory](../how-to-audit-battery-factory/index.md)
+- [Truck battery OEM procurement process](../oem-procurement-process/index.md)
 - [Truck battery brands compared](../brands-compared/index.md)
 - [Heavy-duty truck battery buying guide](../buying-guide/index.md)
 - [Fleet battery management](../fleet-battery-management/index.md)
