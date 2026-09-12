@@ -52,7 +52,7 @@ OEM (代工)
 | legalName | 待确认（需工厂营业执照核实） | — |
 | foundingDate | 2002 | HIGH |
 | address | Lvjiaying Village, Mayu Industrial Park, Jinzhou City, Shijiazhuang, Hebei, China | HIGH |
-| facility | 200,000 m² / 18 lines / 40,000 batt/day / 1000+ staff | HIGH |
+| facility | 200,000 m² / 18 lines | HIGH |
 | export | 70+ countries | MEDIUM |
 | certification | IATF 16949 / ISO 9001 / ISO 14001 / ISO 45001 / OHSAS 18001 / CE | HIGH |
 | contact | martin@dinweys.com / WhatsApp +86 13323237275 | HIGH |

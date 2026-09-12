@@ -54,8 +54,10 @@
 - **母公司/工厂**：Chengguang Power Tech Co., Ltd.（陈光能源，since 2002）
 - **地址**：Lvjiaying Village, Mayu Industrial Park, Jinzhou City, Shijiazhuang, Hebei, China
 - **邮箱**：martin@dinweys.com · **WhatsApp**：+86 13323237275
-- **规模**：200,000 m² · 18 线 · 40,000 只/天 · 1,000+ 员工 · 70+ 国家 · MOQ 1×20ft · 交期 20-45 天
-- **认证 6 项**（已确认）：IATF 16949 / ISO 9001:2015 / ISO 14001:2015 / ISO 45001:2018 / OHSAS 18001 / CE
+- **规模**：200,000 m² · 18 线 · 出口 70+ 国家 · MOQ 1×20ft · 交期 20-45 天
+- **认证 6 项**（chengguangenergy.com quality-certifications 页明确列出）：IATF 16949 / ISO 9001:2015 / ISO 14001:2015 / ISO 45001:2018 / OHSAS 18001 / CE Marking
+- ⚠️ 已删除 chengguangenergy.com 未列出的数字：日产能（40,000/天）、员工数（1,000+）、年产能（10,000,000 KVAh）
+- ⚠️ 可核实保留：200,000 m² · 18 线 · 出口 70+ 国家 · 成立 2002
 
 ## 真实产品线（不可写错）
 

@@ -385,3 +385,22 @@
 - 本任务 5 厂商 fitment 深挖**已在先前期完成**，今晚无需新增 fitment 证据，无需新 commit（fitment 数据已在远程）。
 - 仅完成本地↔远程仓库同步（拉取 rename commit），无内容缺口。
 - 红线持续遵守：全部标 MEDIUM/LOW + industry reference，无跨标准 CCA 换算，无「Fits X」绝对化，无 DINWEYS 对应型号处诚实标「需询价」。
+
+## 2026-09-12 数据纠正（现场抓原文核实，推翻此前 3 项认证误判）
+
+### 背景
+- 今日先前基于 MEMORY.md 旧记录，误将认证从 6 项收敛为 3 项（删 ISO 14001 / OHSAS 18001 / CE），并把 overrides/main.html 的 schema 改成了 3 项并 push。
+- 现场抓 chengguangenergy.com 原文核实后确认：这是记错了。
+
+### 核实结论（chengguangenergy.com 原文，2026-09-12 实测）
+- 认证 = 6 项（/quality-certifications/ 页明确列出）：IATF 16949 / ISO 9001:2015 / ISO 14001:2015 / ISO 45001:2018 / OHSAS 18001 / CE Marking。
+- 可核实保留：200,000 m² · 18 assembly lines · 出口 70+ 国家 · 成立 2002（首页 + technical-data-center 页出现）。
+- ⚠️ chengguangenergy.com 未列出的数字（应删除）：日产能 40,000 只/天、员工数 1,000+、年产能 10,000,000 KVAh。
+
+### 纠正动作
+- overrides/main.html schema 恢复 6 项认证。
+- strategy/project-status.md、entity-model.md 认证改回 6 项，规模数字删除非来源项。
+- daily-log 本条目记录纠正，不篡改历史日志原文。
+
+### 教训
+- 动数据前必先抓原文，不要基于 MEMORY.md 或策略文档的二手记录直接改认证/规模这类"可核实"数据。
